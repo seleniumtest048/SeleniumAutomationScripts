@@ -527,7 +527,7 @@ public class FunctionLibrary {
 				 steps.add(tr);
 				 rptFailCnt++;
 				 break;
-			 case "res":
+			 case "res": case "Pass":
 				 result="Pass";
 				 report(result,desc,keyword,fileName,object,testcaseid);
 				 tr.result=result;
@@ -862,5 +862,28 @@ public class FunctionLibrary {
 	
 	public static void scrollBar(WebElement element){
 		((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", element);
+	}
+	public static String getAttribute(String keyword, String keywordtype, String object, String objectProp) throws Exception{
+		String expData=V.getProperty(objectProp);
+		String veryTxt=null;
+		WebElement wb=Keywords.actionElement(keyword,keywordtype,object,objectProp);
+		
+		log.debug("Executing verifyText");
+		String actual=wb.getAttribute("value");
+		log.info(expData);
+		log.info(actual);
+		try{
+			Assert.assertEquals(actual , expData);
+			veryTxt="Pass";
+		}catch(Throwable t){
+			// error
+			log.info("Error in text - "+object);
+			log.info("Actual - "+actual);
+			log.info("Expected -"+ expData);
+			log.fatal("test verify");
+			log.error("error");
+			veryTxt="Fail";
+		}
+		return veryTxt;	
 	}
 }

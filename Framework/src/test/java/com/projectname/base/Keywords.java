@@ -172,6 +172,10 @@ public class Keywords extends FunctionLibrary {
 					  log.info("Scroll down");
 					  actionElement(keyword,keywordtype,object,data);
 				  break;
+				  case "getAttribute":
+					  log.info("Scroll down");
+					 result=getAttribute(keyword,keywordtype,object,objectProp);
+				  break;
 				  default:
 					  break;
 				  }
@@ -291,6 +295,11 @@ public class Keywords extends FunctionLibrary {
 				  log.info("Scroll down");
 				  welement=welement(keywordtype, object);
 				  scrollBar(welement);
+			  break;
+			  case "getAttribute":
+				  log.info("Scroll down");
+				  welement=welement(keywordtype, object);
+				 
 			  break;
 			  default:
 				  break;
