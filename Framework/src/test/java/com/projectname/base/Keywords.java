@@ -176,6 +176,15 @@ public class Keywords extends FunctionLibrary {
 					  log.info("Scroll down");
 					 result=getAttribute(keyword,keywordtype,object,objectProp);
 				  break;
+				  case "forWard":
+					  log.info("Scroll down");
+					  driver.navigate().forward();
+				  break;
+				  case "back":
+					  log.info("Scroll down");
+					   driver.navigate().back();
+					
+				  break;
 				  default:
 					  break;
 				  }
