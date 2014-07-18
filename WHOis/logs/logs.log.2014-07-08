@@ -1,0 +1,1490 @@
+2014-07-08 10:30:59 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 10:30:59 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 10:30:59 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 10:30:59 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 10:30:59 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 10:30:59 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 10:30:59 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 10:31:00 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 10:31:25 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:31:25 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:31:25 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:31:25 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:31:25 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:31:25 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:31:25 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:31:25 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:31:25 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 10:31:25 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 10:31:25 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 10:31:27 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:31:39 INFO  FunctionLibrary:70 - Clicking on Button Website Hosting
+2014-07-08 10:31:40 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:31:50 INFO  FunctionLibrary:129 - Clicking on Back Button
+2014-07-08 10:31:50 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:32:00 INFO  FunctionLibrary:70 - Clicking on Button Domain Name Registration
+2014-07-08 10:32:00 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:32:10 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 10:32:11 INFO  FunctionLibrary:236 - Domain Name Registration
+2014-07-08 10:32:11 INFO  FunctionLibrary:237 - Domain Name Registration
+2014-07-08 10:32:11 INFO  FunctionLibrary:129 - Clicking on Back Button
+2014-07-08 10:32:11 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:32:21 INFO  FunctionLibrary:70 - Clicking on Button Sitemap
+2014-07-08 10:32:21 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:32:31 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 10:32:31 INFO  FunctionLibrary:236 - SITEMAP
+2014-07-08 10:32:31 INFO  FunctionLibrary:237 - SITEMAP
+2014-07-08 10:32:31 INFO  FunctionLibrary:129 - Clicking on Back Button
+2014-07-08 10:32:32 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:32:42 INFO  FunctionLibrary:70 - Clicking on Button Support
+2014-07-08 10:32:42 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:32:52 INFO  FunctionLibrary:129 - Clicking on Back Button
+2014-07-08 10:32:52 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:33:02 INFO  FunctionLibrary:70 - Clicking on Button Privacy Policy
+2014-07-08 10:33:02 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:33:12 INFO  FunctionLibrary:129 - Clicking on Back Button
+2014-07-08 10:33:12 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:33:22 INFO  FunctionLibrary:70 - Clicking on Button Terms and Conditions
+2014-07-08 10:33:23 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:33:33 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 10:33:33 INFO  FunctionLibrary:236 - TERMS AND CONDITIONS OF WHOIS.NET ("WHOIS.NET")
+2014-07-08 10:33:33 INFO  FunctionLibrary:237 - TERMS AND CONDITIONS OF WHOIS.NET ("WHOIS.NET")
+2014-07-08 10:33:33 INFO  FunctionLibrary:129 - Clicking on Back Button
+2014-07-08 10:33:39 INFO  FunctionLibrary:70 - Clicking on Button Shared Hosting
+2014-07-08 10:33:39 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:33:49 INFO  FunctionLibrary:199 - Switch to New Window
+2014-07-08 10:33:49 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 10:33:49 INFO  FunctionLibrary:236 - Get the Online Tools You Need to Succeed with Verio's Shared Web Hosting
+2014-07-08 10:33:49 INFO  FunctionLibrary:237 - Get the Online Tools You Need to Succeed with Verio's Shared Web Hosting
+2014-07-08 10:33:49 INFO  FunctionLibrary:204 - Switching to Parent Window
+2014-07-08 10:33:49 INFO  FunctionLibrary:70 - Clicking on Button Unix Hosting
+2014-07-08 10:33:50 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:34:00 INFO  FunctionLibrary:199 - Switch to New Window
+2014-07-08 10:34:00 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 10:34:00 INFO  FunctionLibrary:236 - Starter UNIX Hosting
+2014-07-08 10:34:00 INFO  FunctionLibrary:237 - Starter UNIX Hosting
+2014-07-08 10:34:00 INFO  FunctionLibrary:204 - Switching to Parent Window
+2014-07-08 10:34:00 INFO  FunctionLibrary:70 - Clicking on Button Whois Lookup
+2014-07-08 10:34:01 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:34:11 INFO  FunctionLibrary:199 - Switch to New Window
+2014-07-08 10:34:11 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 10:34:11 INFO  FunctionLibrary:236 - WHOIS Domain Lookup
+2014-07-08 10:34:11 INFO  FunctionLibrary:237 - WHOIS Domain Lookup
+2014-07-08 10:34:11 INFO  FunctionLibrary:204 - Switching to Parent Window
+2014-07-08 10:34:11 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-08 10:34:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:34:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:34:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:35:00 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 10:35:00 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 10:35:00 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 10:35:00 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 10:35:00 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 10:35:00 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 10:35:00 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 10:35:00 INFO  FunctionLibrary:68 - Launching Google Chrome.......
+2014-07-08 10:35:19 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:35:19 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:35:19 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:35:19 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:35:19 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:35:19 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:35:19 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:35:19 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:35:19 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 10:35:19 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 10:35:19 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 10:35:22 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:35:33 INFO  FunctionLibrary:70 - Clicking on Button Website Hosting
+2014-07-08 10:35:33 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:35:43 INFO  FunctionLibrary:129 - Clicking on Back Button
+2014-07-08 10:35:44 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:35:54 INFO  FunctionLibrary:70 - Clicking on Button Domain Name Registration
+2014-07-08 10:35:54 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:36:04 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 10:36:05 INFO  FunctionLibrary:236 - Domain Name Registration
+2014-07-08 10:36:05 INFO  FunctionLibrary:237 - Domain Name Registration
+2014-07-08 10:36:05 INFO  FunctionLibrary:129 - Clicking on Back Button
+2014-07-08 10:36:08 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:36:18 INFO  FunctionLibrary:70 - Clicking on Button Sitemap
+2014-07-08 10:36:18 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:36:28 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 10:36:28 INFO  FunctionLibrary:236 - SITEMAP
+2014-07-08 10:36:28 INFO  FunctionLibrary:237 - SITEMAP
+2014-07-08 10:36:28 INFO  FunctionLibrary:129 - Clicking on Back Button
+2014-07-08 10:36:29 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:36:39 INFO  FunctionLibrary:70 - Clicking on Button Support
+2014-07-08 10:36:39 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:36:49 INFO  FunctionLibrary:129 - Clicking on Back Button
+2014-07-08 10:36:50 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:37:00 INFO  FunctionLibrary:70 - Clicking on Button Privacy Policy
+2014-07-08 10:37:01 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:37:11 INFO  FunctionLibrary:129 - Clicking on Back Button
+2014-07-08 10:37:13 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:37:23 INFO  FunctionLibrary:70 - Clicking on Button Terms and Conditions
+2014-07-08 10:37:23 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:37:33 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 10:37:33 INFO  FunctionLibrary:236 - TERMS AND CONDITIONS OF WHOIS.NET ("WHOIS.NET")
+2014-07-08 10:37:33 INFO  FunctionLibrary:237 - TERMS AND CONDITIONS OF WHOIS.NET ("WHOIS.NET")
+2014-07-08 10:37:33 INFO  FunctionLibrary:129 - Clicking on Back Button
+2014-07-08 10:37:35 INFO  FunctionLibrary:70 - Clicking on Button Shared Hosting
+2014-07-08 10:37:35 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:37:45 INFO  FunctionLibrary:199 - Switch to New Window
+2014-07-08 10:37:45 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 10:37:45 INFO  FunctionLibrary:236 - Get the Online Tools You Need to Succeed with Verio's Shared Web Hosting
+2014-07-08 10:37:45 INFO  FunctionLibrary:237 - Get the Online Tools You Need to Succeed with Verio's Shared Web Hosting
+2014-07-08 10:37:45 INFO  FunctionLibrary:204 - Switching to Parent Window
+2014-07-08 10:37:45 INFO  FunctionLibrary:70 - Clicking on Button Unix Hosting
+2014-07-08 10:37:45 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:37:55 INFO  FunctionLibrary:199 - Switch to New Window
+2014-07-08 10:37:55 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 10:37:56 INFO  FunctionLibrary:236 - Starter UNIX Hosting
+2014-07-08 10:37:56 INFO  FunctionLibrary:237 - Starter UNIX Hosting
+2014-07-08 10:37:56 INFO  FunctionLibrary:204 - Switching to Parent Window
+2014-07-08 10:37:56 INFO  FunctionLibrary:70 - Clicking on Button Whois Lookup
+2014-07-08 10:37:56 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:38:06 INFO  FunctionLibrary:199 - Switch to New Window
+2014-07-08 10:38:06 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 10:38:06 INFO  FunctionLibrary:236 - WHOIS Domain Lookup
+2014-07-08 10:38:06 INFO  FunctionLibrary:237 - WHOIS Domain Lookup
+2014-07-08 10:38:06 INFO  FunctionLibrary:204 - Switching to Parent Window
+2014-07-08 10:38:06 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-08 10:38:06 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:38:06 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:38:06 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:50:37 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 10:50:37 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 10:50:37 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 10:50:37 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 10:50:37 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 10:50:37 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 10:50:37 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 10:50:37 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 10:50:54 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:50:54 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:50:54 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:50:54 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:50:54 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 10:50:54 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 10:50:54 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 10:50:56 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:51:06 INFO  FunctionLibrary:138 - Entering Data into domain_search
+2014-07-08 10:51:06 INFO  FunctionLibrary:70 - Clicking on Button goButton
+2014-07-08 10:51:07 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:51:17 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:51:27 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 10:51:27 INFO  FunctionLibrary:236 - already registered
+2014-07-08 10:51:27 INFO  FunctionLibrary:237 - already registered
+2014-07-08 10:52:01 INFO  FunctionLibrary:70 - Clicking on Button MAKE AN OFFER
+2014-07-08 10:52:01 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:52:11 INFO  FunctionLibrary:199 - Switch to New Window
+2014-07-08 10:52:11 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 10:52:11 INFO  FunctionLibrary:236 - Domain Acquisition Service
+2014-07-08 10:52:11 INFO  FunctionLibrary:237 - Domain Acquisition Service
+2014-07-08 10:52:11 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 10:52:11 INFO  FunctionLibrary:236 - Status: This domain is already registered.
+2014-07-08 10:52:11 INFO  FunctionLibrary:237 - Status: This domain is already registered.
+2014-07-08 10:52:11 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-07-08 10:52:12 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:52:12 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:52:12 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:52:12 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:52:12 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:52:12 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:52:12 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:54:02 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 10:54:02 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 10:54:02 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 10:54:02 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 10:54:02 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 10:54:02 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 10:54:02 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 10:54:02 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 10:54:16 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:54:16 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:54:16 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:54:16 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:54:16 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 10:54:16 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 10:54:16 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 10:54:18 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:54:28 INFO  FunctionLibrary:138 - Entering Data into domain_search
+2014-07-08 10:54:28 INFO  FunctionLibrary:70 - Clicking on Button goButton
+2014-07-08 10:54:29 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:54:39 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:54:49 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 10:54:49 INFO  FunctionLibrary:236 - already registered
+2014-07-08 10:54:49 INFO  FunctionLibrary:237 - already registered
+2014-07-08 10:55:22 INFO  FunctionLibrary:70 - Clicking on Button MAKE AN OFFER
+2014-07-08 10:55:23 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 10:55:33 INFO  FunctionLibrary:199 - Switch to New Window
+2014-07-08 10:55:33 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 10:55:33 INFO  FunctionLibrary:236 - Domain Acquisition Service
+2014-07-08 10:55:33 INFO  FunctionLibrary:237 - Domain Acquisition Service
+2014-07-08 10:55:33 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 10:55:33 INFO  FunctionLibrary:236 - Status: This domain is already registered.
+2014-07-08 10:55:33 INFO  FunctionLibrary:237 - Status: This domain is already registered.
+2014-07-08 10:55:33 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-07-08 10:55:33 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:55:33 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:55:33 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:55:33 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:55:33 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:55:33 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 10:55:33 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:05:11 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 12:05:11 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 12:05:11 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 12:05:11 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 12:05:11 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 12:05:11 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 12:05:11 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 12:05:12 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 12:05:33 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:05:33 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:05:33 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:05:33 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:05:33 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 12:05:34 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 12:05:34 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 12:05:35 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:05:45 INFO  FunctionLibrary:138 - Entering Data into domain_search
+2014-07-08 12:05:45 INFO  FunctionLibrary:70 - Clicking on Button goButton
+2014-07-08 12:05:46 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:05:56 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:06:06 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 12:06:06 INFO  FunctionLibrary:236 - already registered
+2014-07-08 12:06:06 INFO  FunctionLibrary:237 - already registered
+2014-07-08 12:06:07 INFO  FunctionLibrary:70 - Clicking on Button MAKE AN OFFER
+2014-07-08 12:06:07 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:06:17 INFO  FunctionLibrary:199 - Switch to New Window
+2014-07-08 12:06:17 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 12:06:18 INFO  FunctionLibrary:236 - Domain Acquisition Service
+2014-07-08 12:06:18 INFO  FunctionLibrary:237 - Domain Acquisition Service
+2014-07-08 12:06:18 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 12:06:18 INFO  FunctionLibrary:236 - Status: This domain is already registered.
+2014-07-08 12:06:18 INFO  FunctionLibrary:237 - Status: This domain is already registered.
+2014-07-08 12:06:18 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-08 12:06:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:06:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:06:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:06:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:06:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:06:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:06:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:14:42 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 12:14:42 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 12:14:42 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 12:14:42 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 12:14:42 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 12:14:42 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 12:14:42 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 12:14:42 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 12:14:57 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:14:57 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:14:57 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:14:57 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:14:57 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 12:14:57 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 12:14:57 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 12:14:58 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:15:08 INFO  FunctionLibrary:138 - Entering Data into domain_search
+2014-07-08 12:15:09 INFO  FunctionLibrary:70 - Clicking on Button goButton
+2014-07-08 12:15:09 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:15:19 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:15:29 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 12:15:29 INFO  FunctionLibrary:236 - already registered
+2014-07-08 12:15:29 INFO  FunctionLibrary:237 - already registered
+2014-07-08 12:15:30 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 12:15:30 INFO  FunctionLibrary:236 - SHARE
+2014-07-08 12:15:30 INFO  FunctionLibrary:237 - 
+2014-07-08 12:15:30 INFO  FunctionLibrary:243 - Error in text - share
+2014-07-08 12:15:30 INFO  FunctionLibrary:244 - Actual - 
+2014-07-08 12:15:30 INFO  FunctionLibrary:245 - Expected -SHARE
+2014-07-08 12:15:30 FATAL FunctionLibrary:246 - test verify
+2014-07-08 12:15:30 ERROR FunctionLibrary:247 - error
+2014-07-08 12:15:33 INFO  FunctionLibrary:70 - Clicking on Button MAKE AN OFFER
+2014-07-08 12:15:33 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:15:43 INFO  FunctionLibrary:199 - Switch to New Window
+2014-07-08 12:15:43 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 12:15:43 INFO  FunctionLibrary:236 - Domain Acquisition Service
+2014-07-08 12:15:43 INFO  FunctionLibrary:237 - Domain Acquisition Service
+2014-07-08 12:15:43 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 12:15:44 INFO  FunctionLibrary:236 - Status: This domain is already registered.
+2014-07-08 12:15:44 INFO  FunctionLibrary:237 - Status: This domain is already registered.
+2014-07-08 12:15:44 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-07-08 12:15:44 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:15:44 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:15:44 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:15:44 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:15:44 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:15:44 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:15:44 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:17:18 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 12:17:18 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 12:17:18 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 12:17:18 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 12:17:18 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 12:17:18 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 12:17:18 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 12:17:18 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 12:17:33 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:17:33 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:17:33 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:17:33 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:17:33 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 12:17:33 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 12:17:33 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 12:17:35 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:17:45 INFO  FunctionLibrary:138 - Entering Data into domain_search
+2014-07-08 12:17:45 INFO  FunctionLibrary:70 - Clicking on Button goButton
+2014-07-08 12:17:45 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:18:07 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 12:18:07 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 12:18:07 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 12:18:07 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 12:18:07 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 12:18:07 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 12:18:07 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 12:18:07 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 12:18:21 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:18:21 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:18:21 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:18:21 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:18:21 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 12:18:22 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 12:18:22 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 12:18:23 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:18:33 INFO  FunctionLibrary:138 - Entering Data into domain_search
+2014-07-08 12:18:34 INFO  FunctionLibrary:70 - Clicking on Button goButton
+2014-07-08 12:18:34 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:18:44 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:18:54 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 12:18:54 INFO  FunctionLibrary:236 - already registered
+2014-07-08 12:18:54 INFO  FunctionLibrary:237 - already registered
+2014-07-08 12:18:55 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 12:18:55 INFO  FunctionLibrary:236 - SHARE
+2014-07-08 12:18:55 INFO  FunctionLibrary:237 - 
+2014-07-08 12:18:55 INFO  FunctionLibrary:243 - Error in text - //*[@id='share']/a/img
+2014-07-08 12:18:55 INFO  FunctionLibrary:244 - Actual - 
+2014-07-08 12:18:55 INFO  FunctionLibrary:245 - Expected -SHARE
+2014-07-08 12:18:55 FATAL FunctionLibrary:246 - test verify
+2014-07-08 12:18:55 ERROR FunctionLibrary:247 - error
+2014-07-08 12:18:58 INFO  FunctionLibrary:70 - Clicking on Button MAKE AN OFFER
+2014-07-08 12:18:58 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:19:08 INFO  FunctionLibrary:199 - Switch to New Window
+2014-07-08 12:19:08 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 12:19:08 INFO  FunctionLibrary:236 - Domain Acquisition Service
+2014-07-08 12:19:08 INFO  FunctionLibrary:237 - Domain Acquisition Service
+2014-07-08 12:19:08 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 12:19:09 INFO  FunctionLibrary:236 - Status: This domain is already registered.
+2014-07-08 12:19:09 INFO  FunctionLibrary:237 - Status: This domain is already registered.
+2014-07-08 12:19:09 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-07-08 12:19:09 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:19:09 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:19:09 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:19:09 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:19:09 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:19:09 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:19:09 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:20:27 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 12:20:27 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 12:20:27 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 12:20:27 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 12:20:27 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 12:20:27 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 12:20:27 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 12:20:27 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 12:20:43 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:20:43 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:20:43 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:20:43 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:20:43 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 12:20:43 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 12:20:43 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 12:20:45 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:20:55 INFO  FunctionLibrary:138 - Entering Data into domain_search
+2014-07-08 12:20:55 INFO  FunctionLibrary:70 - Clicking on Button goButton
+2014-07-08 12:20:56 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:21:06 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:21:16 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 12:21:16 INFO  FunctionLibrary:236 - already registered
+2014-07-08 12:21:16 INFO  FunctionLibrary:237 - already registered
+2014-07-08 12:21:17 INFO  FunctionLibrary:70 - Clicking on Button MAKE AN OFFER
+2014-07-08 12:21:17 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:21:27 INFO  FunctionLibrary:199 - Switch to New Window
+2014-07-08 12:21:27 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 12:21:27 INFO  FunctionLibrary:236 - Domain Acquisition Service
+2014-07-08 12:21:27 INFO  FunctionLibrary:237 - Domain Acquisition Service
+2014-07-08 12:21:27 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 12:21:27 INFO  FunctionLibrary:236 - Status: This domain is already registered.
+2014-07-08 12:21:27 INFO  FunctionLibrary:237 - Status: This domain is already registered.
+2014-07-08 12:21:27 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-08 12:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:43:06 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 12:43:06 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 12:43:06 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 12:43:06 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 12:43:06 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 12:43:06 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 12:43:06 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 12:43:06 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 12:43:26 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:43:26 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:43:26 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:43:26 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:43:26 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 12:43:26 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 12:43:26 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 12:43:27 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:43:37 INFO  FunctionLibrary:138 - Entering Data into domain_search
+2014-07-08 12:43:38 INFO  FunctionLibrary:70 - Clicking on Button goButton
+2014-07-08 12:43:38 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:43:48 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:43:58 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 12:43:58 INFO  FunctionLibrary:236 - already registered
+2014-07-08 12:43:58 INFO  FunctionLibrary:237 - already registered
+2014-07-08 12:43:59 INFO  FunctionLibrary:70 - Clicking on Button MAKE AN OFFER
+2014-07-08 12:43:59 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:44:09 INFO  FunctionLibrary:199 - Switch to New Window
+2014-07-08 12:44:10 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 12:44:10 INFO  FunctionLibrary:236 - Domain Acquisition Service
+2014-07-08 12:44:10 INFO  FunctionLibrary:237 - Domain Acquisition Service
+2014-07-08 12:44:10 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 12:44:10 INFO  FunctionLibrary:236 - Status: This domain is already registered.
+2014-07-08 12:44:10 INFO  FunctionLibrary:237 - Status: This domain is already registered.
+2014-07-08 12:44:10 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-08 12:44:10 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:44:10 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:44:10 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:44:10 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:44:10 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:44:10 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:44:10 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:51:04 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 12:51:04 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 12:51:04 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 12:51:04 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 12:51:04 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 12:51:04 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 12:51:04 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 12:51:04 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 12:51:23 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:51:23 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:51:23 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:51:23 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:51:23 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 12:51:24 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 12:51:24 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 12:51:25 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:51:35 INFO  FunctionLibrary:138 - Entering Data into domain_search
+2014-07-08 12:51:35 INFO  FunctionLibrary:70 - Clicking on Button goButton
+2014-07-08 12:51:36 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:51:46 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:51:56 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 12:51:56 INFO  FunctionLibrary:236 - already registered
+2014-07-08 12:51:56 INFO  FunctionLibrary:237 - already registered
+2014-07-08 12:51:57 INFO  FunctionLibrary:70 - Clicking on Button MAKE AN OFFER
+2014-07-08 12:51:57 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:52:07 INFO  FunctionLibrary:199 - Switch to New Window
+2014-07-08 12:52:07 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 12:52:07 INFO  FunctionLibrary:236 - Domain Acquisition Service
+2014-07-08 12:52:07 INFO  FunctionLibrary:237 - Domain Acquisition Service
+2014-07-08 12:52:07 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 12:52:07 INFO  FunctionLibrary:236 - Status: This domain is already registered.
+2014-07-08 12:52:07 INFO  FunctionLibrary:237 - Status: This domain is already registered.
+2014-07-08 12:52:07 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-08 12:52:08 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:52:08 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:52:08 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:52:08 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:52:08 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:52:08 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:52:08 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:58:33 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 12:58:33 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 12:58:33 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 12:58:33 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 12:58:33 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 12:58:33 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 12:58:33 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 12:58:33 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 12:58:55 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:58:55 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:58:55 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:58:55 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:58:55 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 12:58:55 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 12:58:55 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 12:58:58 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:59:08 INFO  FunctionLibrary:138 - Entering Data into domain_search
+2014-07-08 12:59:08 INFO  FunctionLibrary:70 - Clicking on Button goButton
+2014-07-08 12:59:08 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:59:25 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 12:59:25 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 12:59:25 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 12:59:25 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 12:59:25 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 12:59:25 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 12:59:25 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 12:59:25 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 12:59:39 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:59:39 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:59:39 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:59:39 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 12:59:39 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 12:59:39 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 12:59:39 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 12:59:41 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 12:59:51 INFO  FunctionLibrary:138 - Entering Data into domain_search
+2014-07-08 12:59:51 INFO  FunctionLibrary:70 - Clicking on Button goButton
+2014-07-08 12:59:52 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 13:00:02 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 13:00:12 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 13:00:12 INFO  FunctionLibrary:236 - already registered
+2014-07-08 13:00:12 INFO  FunctionLibrary:237 - already registered
+2014-07-08 13:00:13 INFO  FunctionLibrary:70 - Clicking on Button MAKE AN OFFER
+2014-07-08 13:00:13 INFO  FunctionLibrary:224 - Loading Page
+2014-07-08 13:00:23 INFO  FunctionLibrary:199 - Switch to New Window
+2014-07-08 13:00:23 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 13:00:23 INFO  FunctionLibrary:236 - Domain Acquisition Service
+2014-07-08 13:00:23 INFO  FunctionLibrary:237 - Domain Acquisition Service
+2014-07-08 13:00:23 INFO  FunctionLibrary:216 - Verifying Text
+2014-07-08 13:00:23 INFO  FunctionLibrary:236 - Status: This domain is already registered.
+2014-07-08 13:00:23 INFO  FunctionLibrary:237 - Status: This domain is already registered.
+2014-07-08 13:00:24 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-08 13:00:24 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 13:00:24 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 13:00:24 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 13:00:24 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 13:00:24 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 13:00:24 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 13:00:24 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:36:20 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 14:36:20 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 14:36:20 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 14:36:20 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 14:36:20 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 14:36:20 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 14:36:20 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 14:36:20 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 14:36:42 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:36:42 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:36:42 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:36:42 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:36:42 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 14:36:42 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 14:36:42 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 14:36:42 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-08 14:36:45 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 14:36:55 INFO  FunctionLibrary:143 - Entering Data into domain_search
+2014-07-08 14:36:55 INFO  FunctionLibrary:71 - Clicking on Button goButton
+2014-07-08 14:36:56 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 14:37:06 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 14:37:16 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-08 14:37:16 INFO  FunctionLibrary:236 - already registered
+2014-07-08 14:37:16 INFO  FunctionLibrary:237 - already registered
+2014-07-08 14:37:16 INFO  FunctionLibrary:120 - Getting the value form WebPage-----
+2014-07-08 14:37:16 INFO  FunctionLibrary:818 - Share
+2014-07-08 14:37:16 INFO  FunctionLibrary:819 - 
+2014-07-08 14:37:16 INFO  FunctionLibrary:825 - Error in text - share
+2014-07-08 14:37:16 INFO  FunctionLibrary:826 - Actual - null
+2014-07-08 14:37:16 INFO  FunctionLibrary:827 - Expected -Share
+2014-07-08 14:37:16 FATAL FunctionLibrary:828 - test verify
+2014-07-08 14:37:16 ERROR FunctionLibrary:829 - error
+2014-07-08 14:37:19 INFO  FunctionLibrary:71 - Clicking on Button MAKE AN OFFER
+2014-07-08 14:37:19 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 14:37:29 INFO  FunctionLibrary:210 - Switch to New Window
+2014-07-08 14:37:30 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-08 14:37:30 INFO  FunctionLibrary:236 - Domain Acquisition Service
+2014-07-08 14:37:30 INFO  FunctionLibrary:237 - Domain Acquisition Service
+2014-07-08 14:37:30 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-08 14:37:30 INFO  FunctionLibrary:236 - Status: This domain is already registered.
+2014-07-08 14:37:30 INFO  FunctionLibrary:237 - Status: This domain is already registered.
+2014-07-08 14:37:30 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-07-08 14:37:30 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:37:30 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:37:30 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:37:30 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:37:30 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:37:30 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:37:30 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:40:11 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 14:40:11 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 14:40:11 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 14:40:11 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 14:40:11 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 14:40:11 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 14:40:11 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 14:40:11 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 14:40:30 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:40:30 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:40:30 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:40:30 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:40:30 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 14:40:30 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 14:40:30 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 14:40:30 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-08 14:40:32 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 14:40:42 INFO  FunctionLibrary:143 - Entering Data into domain_search
+2014-07-08 14:40:42 INFO  FunctionLibrary:71 - Clicking on Button goButton
+2014-07-08 14:40:42 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 14:40:52 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 14:41:02 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-08 14:43:23 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 14:43:23 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 14:43:23 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 14:43:23 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 14:43:23 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 14:43:23 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 14:43:23 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 14:43:23 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 14:43:41 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:43:41 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:43:41 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:43:41 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:43:41 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 14:43:41 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 14:43:41 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 14:43:41 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-08 14:43:43 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 14:43:53 INFO  FunctionLibrary:143 - Entering Data into domain_search
+2014-07-08 14:43:53 INFO  FunctionLibrary:71 - Clicking on Button goButton
+2014-07-08 14:43:54 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 14:44:04 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 14:44:14 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-08 14:44:14 INFO  FunctionLibrary:236 - already registered
+2014-07-08 14:44:14 INFO  FunctionLibrary:237 - already registered
+2014-07-08 14:44:15 INFO  FunctionLibrary:116 - Getting the value form WebPage-----
+2014-07-08 14:44:36 INFO  FunctionLibrary:251 - 
+java.lang.NullPointerException
+	at com.projectname.base.FunctionLibrary.getAttributeValue(FunctionLibrary.java:793)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:117)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2014-07-08 14:44:37 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-07-08 14:44:37 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:44:37 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:44:37 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:44:37 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:44:37 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:44:37 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:44:37 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:57:23 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 14:57:23 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 14:57:23 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 14:57:23 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 14:57:23 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 14:57:23 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 14:57:23 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 14:57:23 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 14:57:43 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:57:43 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:57:43 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:57:43 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:57:43 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 14:57:43 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 14:57:43 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 14:57:43 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-08 14:57:45 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 14:57:55 INFO  FunctionLibrary:143 - Entering Data into domain_search
+2014-07-08 14:57:55 INFO  FunctionLibrary:71 - Clicking on Button goButton
+2014-07-08 14:57:56 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 14:58:06 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 14:58:16 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-08 14:58:16 INFO  FunctionLibrary:236 - already registered
+2014-07-08 14:58:16 INFO  FunctionLibrary:237 - already registered
+2014-07-08 14:58:16 INFO  FunctionLibrary:116 - Getting the value form WebPage-----
+2014-07-08 14:58:17 INFO  FunctionLibrary:794 - Type here for whois, domain and keyword results
+2014-07-08 14:58:17 INFO  FunctionLibrary:795 - Type here for whois, domain and keyword results
+2014-07-08 14:58:17 INFO  FunctionLibrary:120 - Getting the value form WebPage-----
+2014-07-08 14:58:17 INFO  FunctionLibrary:818 - Share
+2014-07-08 14:58:17 INFO  FunctionLibrary:819 - 
+2014-07-08 14:58:17 INFO  FunctionLibrary:825 - Error in text - share
+2014-07-08 14:58:17 INFO  FunctionLibrary:826 - Actual - null
+2014-07-08 14:58:17 INFO  FunctionLibrary:827 - Expected -Share
+2014-07-08 14:58:17 FATAL FunctionLibrary:828 - test verify
+2014-07-08 14:58:17 ERROR FunctionLibrary:829 - error
+2014-07-08 14:58:18 INFO  FunctionLibrary:116 - Getting the value form WebPage-----
+2014-07-08 14:58:39 INFO  FunctionLibrary:251 - 
+java.lang.NullPointerException
+	at com.projectname.base.FunctionLibrary.getAttributeValue(FunctionLibrary.java:793)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:117)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2014-07-08 14:58:40 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-07-08 14:58:40 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:58:40 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:58:40 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:58:40 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:58:40 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:58:40 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 14:58:40 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:02:40 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 15:02:40 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 15:02:40 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 15:02:40 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 15:02:40 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 15:02:40 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 15:02:40 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 15:02:40 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 15:02:57 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:02:57 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:02:57 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:02:57 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:02:57 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 15:02:57 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 15:02:57 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 15:02:57 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-08 15:02:59 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:03:09 INFO  FunctionLibrary:143 - Entering Data into domain_search
+2014-07-08 15:03:10 INFO  FunctionLibrary:71 - Clicking on Button goButton
+2014-07-08 15:03:10 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:03:20 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:03:30 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-08 15:03:31 INFO  FunctionLibrary:236 - already registered
+2014-07-08 15:03:31 INFO  FunctionLibrary:237 - already registered
+2014-07-08 15:03:31 INFO  FunctionLibrary:116 - Getting the value form WebPage-----
+2014-07-08 15:03:31 INFO  FunctionLibrary:794 - Type here for whois, domain and keyword results
+2014-07-08 15:03:31 INFO  FunctionLibrary:795 - Type here for whois, domain and keyword results
+2014-07-08 15:03:31 INFO  FunctionLibrary:120 - Getting the value form WebPage-----
+2014-07-08 15:03:31 INFO  FunctionLibrary:818 - SHARE
+2014-07-08 15:03:31 INFO  FunctionLibrary:819 - 
+2014-07-08 15:03:31 INFO  FunctionLibrary:825 - Error in text - share
+2014-07-08 15:03:31 INFO  FunctionLibrary:826 - Actual - null
+2014-07-08 15:03:31 INFO  FunctionLibrary:827 - Expected -SHARE
+2014-07-08 15:03:31 FATAL FunctionLibrary:828 - test verify
+2014-07-08 15:03:31 ERROR FunctionLibrary:829 - error
+2014-07-08 15:03:32 INFO  FunctionLibrary:116 - Getting the value form WebPage-----
+2014-07-08 15:03:53 INFO  FunctionLibrary:251 - 
+java.lang.NullPointerException
+	at com.projectname.base.FunctionLibrary.getAttributeValue(FunctionLibrary.java:793)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:117)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2014-07-08 15:03:54 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-07-08 15:03:54 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:03:54 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:03:54 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:03:54 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:03:54 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:03:54 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:03:54 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:13:41 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 15:13:41 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 15:13:41 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 15:13:41 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 15:13:41 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 15:13:41 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 15:13:41 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 15:13:41 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 15:13:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:13:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:13:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:13:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:13:58 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 15:13:59 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 15:13:59 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 15:13:59 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-08 15:14:01 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:14:11 INFO  FunctionLibrary:143 - Entering Data into domain_search
+2014-07-08 15:14:11 INFO  FunctionLibrary:71 - Clicking on Button goButton
+2014-07-08 15:14:12 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:14:22 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:14:32 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-08 15:14:32 INFO  FunctionLibrary:236 - already registered
+2014-07-08 15:14:32 INFO  FunctionLibrary:237 - already registered
+2014-07-08 15:14:32 INFO  FunctionLibrary:116 - Getting the value form WebPage-----
+2014-07-08 15:14:32 INFO  FunctionLibrary:794 - Type here for whois, domain and keyword results
+2014-07-08 15:14:32 INFO  FunctionLibrary:795 - Type here for whois, domain and keyword results
+2014-07-08 15:14:32 INFO  FunctionLibrary:120 - Getting the value form WebPage-----
+2014-07-08 15:14:32 INFO  FunctionLibrary:818 - Share
+2014-07-08 15:14:32 INFO  FunctionLibrary:819 - Share
+2014-07-08 15:14:32 INFO  FunctionLibrary:116 - Getting the value form WebPage-----
+2014-07-08 15:14:54 INFO  FunctionLibrary:251 - 
+java.lang.NullPointerException
+	at com.projectname.base.FunctionLibrary.getAttributeValue(FunctionLibrary.java:793)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:117)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2014-07-08 15:14:55 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-07-08 15:14:55 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:14:55 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:14:55 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:14:55 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:14:55 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:14:55 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:14:55 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:20:02 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 15:20:02 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 15:20:02 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 15:20:02 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 15:20:02 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 15:20:02 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 15:20:02 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 15:20:02 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 15:20:20 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:20:20 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:20:20 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:20:20 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:20:20 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 15:20:20 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 15:20:20 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 15:20:20 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-08 15:20:22 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:20:32 INFO  FunctionLibrary:143 - Entering Data into domain_search
+2014-07-08 15:20:32 INFO  FunctionLibrary:71 - Clicking on Button goButton
+2014-07-08 15:20:33 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:20:43 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:20:53 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-08 15:20:53 INFO  FunctionLibrary:236 - already registered
+2014-07-08 15:20:53 INFO  FunctionLibrary:237 - already registered
+2014-07-08 15:20:53 INFO  FunctionLibrary:116 - Getting the value form WebPage-----
+2014-07-08 15:20:53 INFO  FunctionLibrary:794 - Type here for whois, domain and keyword results
+2014-07-08 15:20:53 INFO  FunctionLibrary:795 - Type here for whois, domain and keyword results
+2014-07-08 15:20:54 INFO  FunctionLibrary:120 - Getting the value form WebPage-----
+2014-07-08 15:20:54 INFO  FunctionLibrary:818 - Share
+2014-07-08 15:20:54 INFO  FunctionLibrary:819 - Share
+2014-07-08 15:20:54 INFO  FunctionLibrary:116 - Getting the value form WebPage-----
+2014-07-08 15:21:15 INFO  FunctionLibrary:251 - 
+java.lang.NullPointerException
+	at com.projectname.base.FunctionLibrary.getAttributeValue(FunctionLibrary.java:793)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:117)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2014-07-08 15:21:16 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-07-08 15:21:16 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:21:16 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:21:16 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:21:16 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:21:16 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:21:16 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:21:16 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:25:38 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 15:25:38 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 15:25:38 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 15:25:38 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 15:25:38 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 15:25:38 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 15:25:38 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 15:25:38 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 15:25:55 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:25:55 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:25:55 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:25:55 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:25:55 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 15:25:56 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 15:25:56 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 15:25:56 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-08 15:25:58 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:26:08 INFO  FunctionLibrary:143 - Entering Data into domain_search
+2014-07-08 15:26:08 INFO  FunctionLibrary:71 - Clicking on Button goButton
+2014-07-08 15:26:09 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:26:19 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:26:29 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-08 15:26:29 INFO  FunctionLibrary:236 - already registered
+2014-07-08 15:26:29 INFO  FunctionLibrary:237 - already registered
+2014-07-08 15:26:29 INFO  FunctionLibrary:116 - Getting the value form WebPage-----
+2014-07-08 15:26:29 INFO  FunctionLibrary:794 - Type here for whois, domain and keyword results
+2014-07-08 15:26:29 INFO  FunctionLibrary:795 - Type here for whois, domain and keyword results
+2014-07-08 15:26:29 INFO  FunctionLibrary:120 - Getting the value form WebPage-----
+2014-07-08 15:26:29 INFO  FunctionLibrary:818 - Share
+2014-07-08 15:26:29 INFO  FunctionLibrary:819 - Share
+2014-07-08 15:26:29 INFO  FunctionLibrary:116 - Getting the value form WebPage-----
+2014-07-08 15:26:51 INFO  FunctionLibrary:251 - 
+java.lang.NullPointerException
+	at com.projectname.base.FunctionLibrary.getAttributeValue(FunctionLibrary.java:793)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:117)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2014-07-08 15:26:52 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-07-08 15:26:52 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:26:52 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:26:52 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:26:52 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:26:52 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:26:52 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:26:52 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:27:43 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 15:27:43 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 15:27:43 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 15:27:43 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 15:27:43 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 15:27:43 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 15:27:43 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 15:27:43 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 15:28:00 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:28:00 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:28:00 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:28:00 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:28:00 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 15:28:00 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 15:28:00 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 15:28:00 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-08 15:28:02 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:28:12 INFO  FunctionLibrary:143 - Entering Data into domain_search
+2014-07-08 15:28:12 INFO  FunctionLibrary:71 - Clicking on Button goButton
+2014-07-08 15:28:13 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:28:23 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:28:33 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-08 15:28:33 INFO  FunctionLibrary:236 - already registered
+2014-07-08 15:28:33 INFO  FunctionLibrary:237 - already registered
+2014-07-08 15:28:33 INFO  FunctionLibrary:116 - Getting the value form WebPage-----
+2014-07-08 15:28:33 INFO  FunctionLibrary:794 - Type here for whois, domain and keyword results
+2014-07-08 15:28:33 INFO  FunctionLibrary:795 - Type here for whois, domain and keyword results
+2014-07-08 15:28:34 INFO  FunctionLibrary:120 - Getting the value form WebPage-----
+2014-07-08 15:28:34 INFO  FunctionLibrary:818 - Share
+2014-07-08 15:28:34 INFO  FunctionLibrary:819 - Share
+2014-07-08 15:28:34 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-08 15:28:55 INFO  FunctionLibrary:251 - 
+java.lang.NullPointerException
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:234)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:228)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2014-07-08 15:28:56 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-07-08 15:28:56 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:28:56 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:28:56 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:28:56 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:28:56 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:28:56 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:28:56 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:30:21 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 15:30:21 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 15:30:21 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 15:30:21 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 15:30:21 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 15:30:21 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 15:30:21 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 15:30:21 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 15:30:38 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:30:38 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:30:38 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:30:38 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:30:38 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 15:30:38 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 15:30:38 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 15:30:38 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-08 15:30:40 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:30:50 INFO  FunctionLibrary:143 - Entering Data into domain_search
+2014-07-08 15:30:51 INFO  FunctionLibrary:71 - Clicking on Button goButton
+2014-07-08 15:30:52 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:31:02 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:31:12 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-08 15:31:12 INFO  FunctionLibrary:236 - already registered
+2014-07-08 15:31:12 INFO  FunctionLibrary:237 - already registered
+2014-07-08 15:31:12 INFO  FunctionLibrary:116 - Getting the value form WebPage-----
+2014-07-08 15:31:12 INFO  FunctionLibrary:794 - Type here for whois, domain and keyword results
+2014-07-08 15:31:12 INFO  FunctionLibrary:795 - Type here for whois, domain and keyword results
+2014-07-08 15:31:12 INFO  FunctionLibrary:120 - Getting the value form WebPage-----
+2014-07-08 15:31:12 INFO  FunctionLibrary:818 - Share
+2014-07-08 15:31:12 INFO  FunctionLibrary:819 - Share
+2014-07-08 15:31:12 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-08 15:31:34 INFO  FunctionLibrary:251 - 
+java.lang.NullPointerException
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:234)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:228)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2014-07-08 15:31:34 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-07-08 15:31:35 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:31:35 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:31:35 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:31:35 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:31:35 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:31:35 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:31:35 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:39:58 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 15:39:58 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 15:39:58 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 15:39:58 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 15:39:58 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 15:39:58 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 15:39:58 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 15:39:58 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 15:40:15 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:40:15 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:40:15 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:40:15 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:40:15 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 15:40:15 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 15:40:15 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 15:40:15 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-08 15:40:17 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:40:27 INFO  FunctionLibrary:143 - Entering Data into domain_search
+2014-07-08 15:40:27 INFO  FunctionLibrary:71 - Clicking on Button goButton
+2014-07-08 15:40:28 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:40:38 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:40:48 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-08 15:40:48 INFO  FunctionLibrary:236 - already registered
+2014-07-08 15:40:48 INFO  FunctionLibrary:237 - already registered
+2014-07-08 15:40:48 INFO  FunctionLibrary:116 - Getting the value form WebPage-----
+2014-07-08 15:40:48 INFO  FunctionLibrary:794 - Type here for whois, domain and keyword results
+2014-07-08 15:40:48 INFO  FunctionLibrary:795 - Type here for whois, domain and keyword results
+2014-07-08 15:40:48 INFO  FunctionLibrary:120 - Getting the value form WebPage-----
+2014-07-08 15:40:49 INFO  FunctionLibrary:818 - Share
+2014-07-08 15:40:49 INFO  FunctionLibrary:819 - Share
+2014-07-08 15:40:49 INFO  FunctionLibrary:205 - Switch to frame------
+2014-07-08 15:40:49 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-08 15:40:49 INFO  FunctionLibrary:236 - Follow @WhoisNet
+2014-07-08 15:40:49 INFO  FunctionLibrary:237 - Follow @WhoisNet
+2014-07-08 15:40:49 INFO  FunctionLibrary:116 - Getting the value form WebPage-----
+2014-07-08 15:41:10 INFO  FunctionLibrary:251 - 
+java.lang.NullPointerException
+	at com.projectname.base.FunctionLibrary.getAttributeValue(FunctionLibrary.java:793)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:117)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2014-07-08 15:41:11 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-07-08 15:41:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:41:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:41:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:41:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:41:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:41:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:41:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:46:00 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 15:46:00 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 15:46:00 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 15:46:00 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 15:46:00 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 15:46:00 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 15:46:00 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 15:46:01 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 15:46:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:46:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:46:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:46:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:46:18 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 15:46:18 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 15:46:18 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 15:46:19 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-08 15:46:21 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:46:31 INFO  FunctionLibrary:143 - Entering Data into domain_search
+2014-07-08 15:46:31 INFO  FunctionLibrary:71 - Clicking on Button goButton
+2014-07-08 15:46:32 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:46:42 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:46:52 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-08 15:46:52 INFO  FunctionLibrary:236 - already registered
+2014-07-08 15:46:52 INFO  FunctionLibrary:237 - already registered
+2014-07-08 15:46:52 INFO  FunctionLibrary:116 - Getting the value form WebPage-----
+2014-07-08 15:46:52 INFO  FunctionLibrary:794 - Type here for whois, domain and keyword results
+2014-07-08 15:46:52 INFO  FunctionLibrary:795 - Type here for whois, domain and keyword results
+2014-07-08 15:46:52 INFO  FunctionLibrary:120 - Getting the value form WebPage-----
+2014-07-08 15:46:52 INFO  FunctionLibrary:818 - Share
+2014-07-08 15:46:52 INFO  FunctionLibrary:819 - Share
+2014-07-08 15:46:52 INFO  FunctionLibrary:205 - Switch to frame------
+2014-07-08 15:46:53 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-08 15:46:53 INFO  FunctionLibrary:236 - Follow @WhoisNet
+2014-07-08 15:46:53 INFO  FunctionLibrary:237 - Follow @WhoisNet
+2014-07-08 15:46:53 INFO  FunctionLibrary:205 - Switch to frame------
+2014-07-08 15:47:14 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-08 15:47:35 INFO  FunctionLibrary:251 - 
+java.lang.NullPointerException
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:234)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:228)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2014-07-08 15:47:36 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-07-08 15:47:36 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:47:36 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:47:36 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:47:36 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:47:36 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:47:36 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:47:36 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:51:02 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 15:51:02 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 15:51:02 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 15:51:02 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 15:51:02 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 15:51:02 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 15:51:02 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 15:51:02 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 15:51:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:51:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:51:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:51:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:51:18 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 15:51:18 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 15:51:18 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 15:51:18 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-08 15:51:20 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:51:30 INFO  FunctionLibrary:143 - Entering Data into domain_search
+2014-07-08 15:51:30 INFO  FunctionLibrary:71 - Clicking on Button goButton
+2014-07-08 15:51:31 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:51:41 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:51:51 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-08 15:51:51 INFO  FunctionLibrary:236 - already registered
+2014-07-08 15:51:51 INFO  FunctionLibrary:237 - already registered
+2014-07-08 15:51:51 INFO  FunctionLibrary:116 - Getting the value form WebPage-----
+2014-07-08 15:51:51 INFO  FunctionLibrary:794 - Type here for whois, domain and keyword results
+2014-07-08 15:51:51 INFO  FunctionLibrary:795 - Type here for whois, domain and keyword results
+2014-07-08 15:51:51 INFO  FunctionLibrary:120 - Getting the value form WebPage-----
+2014-07-08 15:51:51 INFO  FunctionLibrary:818 - Share
+2014-07-08 15:51:51 INFO  FunctionLibrary:819 - Share
+2014-07-08 15:51:51 INFO  FunctionLibrary:205 - Switch to frame------
+2014-07-08 15:51:52 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-08 15:51:52 INFO  FunctionLibrary:236 - Follow @WhoisNet
+2014-07-08 15:51:52 INFO  FunctionLibrary:237 - Follow @WhoisNet
+2014-07-08 15:51:52 INFO  FunctionLibrary:205 - Switch to frame------
+2014-07-08 15:52:13 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-08 15:52:34 INFO  FunctionLibrary:251 - 
+java.lang.NullPointerException
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:234)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:228)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2014-07-08 15:52:35 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-07-08 15:52:36 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:52:36 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:52:36 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:52:36 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:52:36 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:52:36 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:52:36 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:54:58 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-08 15:54:58 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-08 15:54:58 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-08 15:54:58 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-08 15:54:58 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-08 15:54:58 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-08 15:54:58 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-08 15:54:58 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-08 15:55:15 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:55:15 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:55:15 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:55:15 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:55:15 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-08 15:55:15 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-08 15:55:15 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-08 15:55:15 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-08 15:55:17 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:55:27 INFO  FunctionLibrary:143 - Entering Data into domain_search
+2014-07-08 15:55:28 INFO  FunctionLibrary:71 - Clicking on Button goButton
+2014-07-08 15:55:29 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:55:39 INFO  FunctionLibrary:235 - Loading Page
+2014-07-08 15:55:49 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-08 15:55:49 INFO  FunctionLibrary:236 - already registered
+2014-07-08 15:55:49 INFO  FunctionLibrary:237 - already registered
+2014-07-08 15:55:49 INFO  FunctionLibrary:116 - Getting the value form WebPage-----
+2014-07-08 15:55:49 INFO  FunctionLibrary:794 - Type here for whois, domain and keyword results
+2014-07-08 15:55:49 INFO  FunctionLibrary:795 - Type here for whois, domain and keyword results
+2014-07-08 15:55:49 INFO  FunctionLibrary:120 - Getting the value form WebPage-----
+2014-07-08 15:55:49 INFO  FunctionLibrary:818 - Share
+2014-07-08 15:55:49 INFO  FunctionLibrary:819 - Share
+2014-07-08 15:55:49 INFO  FunctionLibrary:205 - Switch to frame------
+2014-07-08 15:55:49 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-08 15:55:50 INFO  FunctionLibrary:236 - Follow @WhoisNet
+2014-07-08 15:55:50 INFO  FunctionLibrary:237 - Follow @WhoisNet
+2014-07-08 15:55:50 INFO  FunctionLibrary:205 - Switch to frame------
+2014-07-08 15:56:11 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-08 15:56:32 INFO  FunctionLibrary:251 - 
+java.lang.NullPointerException
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:234)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:228)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2014-07-08 15:56:33 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-07-08 15:56:33 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:56:33 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:56:33 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:56:33 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:56:33 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:56:33 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-08 15:56:33 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File

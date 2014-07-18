@@ -1,0 +1,542 @@
+2014-06-26 10:56:18 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-26 10:56:18 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-26 10:56:18 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-26 10:56:18 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-26 10:56:18 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-26 10:56:18 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-26 10:56:18 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-26 10:56:18 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-26 10:56:34 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 10:56:34 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 10:56:34 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-26 10:56:35 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-26 10:56:35 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-26 10:56:35 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-26 10:56:35 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-26 10:56:36 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 10:56:46 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-26 10:56:46 INFO  FunctionLibrary:227 - already registered
+2014-06-26 10:56:46 INFO  FunctionLibrary:228 - already registered
+2014-06-26 10:56:46 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-26 10:56:46 INFO  FunctionLibrary:227 - Available
+2014-06-26 10:56:46 INFO  FunctionLibrary:228 - Available
+2014-06-26 10:56:46 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-26 10:56:46 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-26 10:56:48 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 10:56:58 INFO  FunctionLibrary:64 - Clicking on Button domain_search
+2014-06-26 10:56:58 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-26 10:56:58 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-26 10:56:59 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 10:57:09 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-26 10:57:41 INFO  FunctionLibrary:206 - 
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//*[@id='contLeft']/h2/span"}
+Command duration or timeout: 10.32 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: bb6cea0a-970f-4c8d-83fb-52f08d9edb3e
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=30.0}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.projectname.base.Keywords.welement(Keywords.java:364)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:260)
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:218)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:90)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//*[@id='contLeft']/h2/span"}
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous5935133111693642680webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860:7)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous5935133111693642680webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396:5)
+2014-06-26 10:57:41 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-06-26 10:57:41 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 10:57:41 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-26 10:57:42 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-26 10:57:42 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-26 10:57:44 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 10:57:54 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-26 10:57:55 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-26 10:57:55 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 10:58:05 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-26 10:58:10 INFO  FunctionLibrary:227 - available
+2014-06-26 10:58:10 INFO  FunctionLibrary:228 - available
+2014-06-26 10:58:10 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='contLeft']/p/a
+2014-06-26 10:58:11 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 10:58:21 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-26 10:59:20 INFO  FunctionLibrary:227 - Congratulations!
+2014-06-26 10:59:20 INFO  FunctionLibrary:228 - Congratulations!
+2014-06-26 10:59:20 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-06-26 10:59:20 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 10:59:20 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-26 10:59:20 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-26 10:59:20 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-26 10:59:24 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-26 10:59:25 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-26 10:59:26 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 10:59:36 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 10:59:46 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 10:59:56 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-26 10:59:56 INFO  FunctionLibrary:227 - already registered
+2014-06-26 10:59:56 INFO  FunctionLibrary:228 - already registered
+2014-06-26 10:59:56 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-26 10:59:56 INFO  FunctionLibrary:64 - Clicking on Button MAKE AN OFFER
+2014-06-26 10:59:57 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 11:00:07 INFO  FunctionLibrary:97 - Switch to New Window
+2014-06-26 11:00:07 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-26 11:00:07 INFO  FunctionLibrary:227 - Domain Acquisition Service
+2014-06-26 11:00:07 INFO  FunctionLibrary:228 - Domain Acquisition Service
+2014-06-26 11:00:07 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-26 11:00:07 INFO  FunctionLibrary:227 - Status: This domain is already registered.
+2014-06-26 11:00:07 INFO  FunctionLibrary:228 - Status: This domain is already registered.
+2014-06-26 11:00:07 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-06-26 11:38:01 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-26 11:38:01 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-26 11:38:01 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-26 11:38:01 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-26 11:38:01 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-26 11:38:01 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-26 11:38:01 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-26 11:38:01 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-26 11:38:16 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 11:38:16 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 11:38:16 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-26 11:38:16 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-26 11:38:16 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-26 11:38:16 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-26 11:38:17 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-26 11:38:17 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 11:38:27 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-26 11:38:51 INFO  FunctionLibrary:227 - already registered
+2014-06-26 11:38:51 INFO  FunctionLibrary:228 - already registered
+2014-06-26 11:38:51 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-26 11:38:51 INFO  FunctionLibrary:227 - Available
+2014-06-26 11:38:51 INFO  FunctionLibrary:228 - Available
+2014-06-26 11:38:51 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-26 11:38:51 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-26 11:38:55 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 11:39:05 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 11:39:15 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-26 11:39:16 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-26 11:39:16 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 11:39:26 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-26 11:39:26 INFO  FunctionLibrary:227 - available
+2014-06-26 11:39:26 INFO  FunctionLibrary:228 - available
+2014-06-26 11:39:26 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-06-26 11:39:26 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 11:39:26 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 12:12:24 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-26 12:12:24 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-26 12:12:24 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-26 12:12:24 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-26 12:12:24 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-26 12:12:24 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-26 12:12:24 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-26 12:12:24 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-26 12:12:41 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 12:12:41 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 12:12:41 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-26 12:12:41 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-26 12:12:41 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-26 12:12:41 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-26 12:12:41 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-26 12:12:42 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 12:12:52 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-26 12:12:52 INFO  FunctionLibrary:227 - already registered
+2014-06-26 12:12:52 INFO  FunctionLibrary:228 - already registered
+2014-06-26 12:12:52 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-26 12:12:52 INFO  FunctionLibrary:227 - Available
+2014-06-26 12:12:52 INFO  FunctionLibrary:228 - Available
+2014-06-26 12:12:52 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-26 12:12:53 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-26 12:12:54 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 12:13:04 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 12:13:14 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-26 12:13:14 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-26 12:13:15 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 12:13:25 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-26 12:13:25 INFO  FunctionLibrary:227 - available
+2014-06-26 12:13:25 INFO  FunctionLibrary:228 - available
+2014-06-26 12:13:25 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-06-26 12:13:25 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 12:13:25 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-26 12:13:25 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-26 12:13:25 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-26 12:13:27 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 12:13:37 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-26 12:13:37 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-26 12:13:37 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 12:13:47 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-26 12:14:19 INFO  FunctionLibrary:206 - 
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//*[@id='contLeft']/h2/span"}
+Command duration or timeout: 10.49 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: 55244ee7-a077-4038-9da2-5f71aa9e102c
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=30.0}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.projectname.base.Keywords.welement(Keywords.java:364)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:260)
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:218)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:90)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//*[@id='contLeft']/h2/span"}
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous283861323996576127webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860:7)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous283861323996576127webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396:5)
+2014-06-26 12:14:21 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-06-26 12:14:21 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 12:14:21 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-26 12:14:21 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-26 12:14:21 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-26 12:14:23 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-26 12:14:25 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-26 12:14:25 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 12:14:35 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 12:14:45 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 12:14:55 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-26 12:21:06 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-26 12:21:06 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-26 12:21:06 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-26 12:21:06 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-26 12:21:06 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-26 12:21:06 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-26 12:21:06 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-26 12:21:06 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-26 12:21:21 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 12:21:21 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 12:21:21 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-26 12:21:22 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-26 12:21:22 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-26 12:21:22 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-26 12:21:22 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-26 12:21:23 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 12:21:33 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-26 12:21:33 INFO  FunctionLibrary:227 - already registered
+2014-06-26 12:21:33 INFO  FunctionLibrary:228 - already registered
+2014-06-26 12:21:33 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-26 12:21:33 INFO  FunctionLibrary:227 - Available
+2014-06-26 12:21:33 INFO  FunctionLibrary:228 - Available
+2014-06-26 12:21:33 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-26 12:21:33 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-26 12:21:36 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 12:21:46 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 12:21:56 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-26 12:21:56 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-26 12:21:56 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 12:22:06 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-26 12:22:06 INFO  FunctionLibrary:227 - available
+2014-06-26 12:22:06 INFO  FunctionLibrary:228 - available
+2014-06-26 12:22:06 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-06-26 12:22:06 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 12:22:06 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-26 12:22:07 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-26 12:22:07 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-26 12:22:09 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 12:22:19 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 12:22:29 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-26 12:22:29 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-26 12:22:29 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 12:22:39 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-26 12:22:40 INFO  FunctionLibrary:227 - available
+2014-06-26 12:22:40 INFO  FunctionLibrary:228 - available
+2014-06-26 12:22:40 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='contLeft']/p/a
+2014-06-26 12:22:40 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 12:22:50 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-26 12:23:21 INFO  FunctionLibrary:227 - Congratulations!
+2014-06-26 12:23:21 INFO  FunctionLibrary:228 - Congratulations!
+2014-06-26 12:23:21 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-06-26 12:23:21 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 12:23:21 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-26 12:23:22 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-26 12:23:22 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-26 12:23:24 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 12:23:34 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-26 12:23:34 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-26 12:23:35 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 12:23:45 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 12:23:55 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-26 12:24:00 INFO  FunctionLibrary:227 - already registered
+2014-06-26 12:24:00 INFO  FunctionLibrary:228 - already registered
+2014-06-26 12:24:00 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-26 12:24:00 INFO  FunctionLibrary:64 - Clicking on Button MAKE AN OFFER
+2014-06-26 12:24:01 INFO  FunctionLibrary:82 - Loading Page
+2014-06-26 12:24:11 INFO  FunctionLibrary:97 - Switch to New Window
+2014-06-26 12:24:11 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-26 12:24:11 INFO  FunctionLibrary:227 - Domain Acquisition Service
+2014-06-26 12:24:11 INFO  FunctionLibrary:228 - Domain Acquisition Service
+2014-06-26 12:24:11 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-26 12:24:11 INFO  FunctionLibrary:227 - Status: This domain is already registered.
+2014-06-26 12:24:11 INFO  FunctionLibrary:228 - Status: This domain is already registered.
+2014-06-26 12:24:11 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-06-26 15:48:00 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-26 15:48:00 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-26 15:48:00 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-26 15:48:00 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-26 15:48:00 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-26 15:48:00 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-26 15:48:00 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-26 15:48:00 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-26 15:48:19 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 15:48:19 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 15:48:19 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 15:48:19 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 15:48:19 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 15:48:19 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-26 15:48:20 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-26 15:48:20 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-26 15:48:21 INFO  FunctionLibrary:218 - Loading Page
+2014-06-26 15:48:31 INFO  FunctionLibrary:132 - Entering Data into domain_search
+2014-06-26 15:48:31 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-26 15:48:32 INFO  FunctionLibrary:218 - Loading Page
+2014-06-26 15:48:42 INFO  FunctionLibrary:218 - Loading Page
+2014-06-26 15:48:52 INFO  FunctionLibrary:210 - Verifying Text
+2014-06-26 15:48:52 INFO  FunctionLibrary:232 - Buy a similar domain.
+2014-06-26 15:48:52 INFO  FunctionLibrary:233 - Buy a similar domain.
+2014-06-26 15:48:52 INFO  FunctionLibrary:210 - Verifying Text
+2014-06-26 15:48:52 INFO  FunctionLibrary:232 - Available
+2014-06-26 15:48:52 INFO  FunctionLibrary:233 - Available
+2014-06-26 15:48:52 INFO  FunctionLibrary:64 - Clicking on Button suggestion_1
+2014-06-26 15:48:53 INFO  FunctionLibrary:64 - Clicking on Button suggestion_2
+2014-06-26 15:48:54 INFO  FunctionLibrary:64 - Clicking on Button suggestion_3
+2014-06-26 15:48:54 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='domain_suggestions']/table/tbody/tr[3]/td[2]/table/tbody/tr/td/div/a
+2014-06-26 15:48:54 INFO  FunctionLibrary:218 - Loading Page
+2014-06-26 15:49:04 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-06-26 16:57:20 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-26 16:57:20 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-26 16:57:20 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-26 16:57:20 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-26 16:57:20 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-26 16:57:20 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-26 16:57:20 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-26 16:57:20 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-26 16:57:38 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 16:57:38 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 16:57:38 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 16:57:38 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 16:57:38 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 16:57:38 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-26 16:57:38 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-26 16:57:38 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-26 16:57:40 INFO  FunctionLibrary:218 - Loading Page
+2014-06-26 16:57:50 INFO  FunctionLibrary:132 - Entering Data into domain_search
+2014-06-26 16:57:50 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-26 16:57:51 INFO  FunctionLibrary:218 - Loading Page
+2014-06-26 16:58:01 INFO  FunctionLibrary:218 - Loading Page
+2014-06-26 16:58:11 INFO  FunctionLibrary:210 - Verifying Text
+2014-06-26 16:58:11 INFO  FunctionLibrary:232 - Buy a similar domain.
+2014-06-26 16:58:11 INFO  FunctionLibrary:233 - Buy a similar domain.
+2014-06-26 16:58:11 INFO  FunctionLibrary:210 - Verifying Text
+2014-06-26 16:58:11 INFO  FunctionLibrary:232 - Available
+2014-06-26 16:58:11 INFO  FunctionLibrary:233 - Available
+2014-06-26 16:58:11 INFO  FunctionLibrary:64 - Clicking on Button suggestion_1
+2014-06-26 16:58:11 INFO  FunctionLibrary:64 - Clicking on Button suggestion_2
+2014-06-26 16:58:11 INFO  FunctionLibrary:64 - Clicking on Button suggestion_3
+2014-06-26 16:58:12 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='domain_suggestions']/table/tbody/tr[3]/td[2]/table/tbody/tr/td/div/a
+2014-06-26 16:58:12 INFO  FunctionLibrary:218 - Loading Page
+2014-06-26 16:58:29 INFO  FunctionLibrary:218 - Loading Page
+2014-06-26 16:58:39 INFO  FunctionLibrary:132 - Entering Data into domain_search
+2014-06-26 16:58:39 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-26 16:58:39 INFO  FunctionLibrary:218 - Loading Page
+2014-06-26 16:58:49 INFO  FunctionLibrary:218 - Loading Page
+2014-06-26 16:58:59 INFO  FunctionLibrary:210 - Verifying Text
+2014-06-26 16:58:59 INFO  FunctionLibrary:232 - Buy a similar domain.
+2014-06-26 16:58:59 INFO  FunctionLibrary:233 - Buy a similar domain.
+2014-06-26 16:58:59 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='domain_suggestions']/table/tbody/tr[3]/td[2]/table/tbody/tr/td/div/a
+2014-06-26 16:59:00 INFO  FunctionLibrary:218 - Loading Page
+2014-06-26 16:59:10 INFO  FunctionLibrary:210 - Verifying Text
+2014-06-26 16:59:10 INFO  FunctionLibrary:232 - No domain name provided. Please try again.
+2014-06-26 16:59:10 INFO  FunctionLibrary:233 - No domain name provided. Please try again.
+2014-06-26 16:59:10 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-06-26 17:21:32 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-26 17:21:32 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-26 17:21:32 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-26 17:21:32 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-26 17:21:32 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-26 17:21:32 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-26 17:21:32 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-26 17:21:33 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-26 17:21:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:21:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:21:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:21:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:21:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:21:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:21:58 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-26 17:21:58 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-26 17:22:12 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:22:12 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:22:12 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:22:12 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:22:12 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:22:12 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:22:12 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-26 17:22:13 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-26 17:23:16 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-26 17:23:16 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-26 17:23:16 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-26 17:23:16 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-26 17:23:16 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-26 17:23:16 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-26 17:23:16 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-26 17:23:16 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-26 17:23:30 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:23:30 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:23:30 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:23:30 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:23:30 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:23:30 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:23:30 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-26 17:23:30 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-26 17:23:45 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:23:45 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:23:45 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:23:45 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:23:45 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:23:45 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:23:45 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-26 17:23:45 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-26 17:35:03 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-26 17:35:03 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-26 17:35:03 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-26 17:35:03 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-26 17:35:03 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-26 17:35:03 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-26 17:35:03 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-26 17:35:03 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-26 17:35:21 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:35:21 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:35:21 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:35:21 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:35:21 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:35:21 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:35:21 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-26 17:35:22 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-26 17:35:35 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:35:35 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:35:35 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:35:35 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:35:35 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:35:35 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:35:35 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-26 17:35:35 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-26 17:36:55 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-26 17:36:55 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-26 17:36:55 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-26 17:36:55 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-26 17:36:55 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-26 17:36:55 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-26 17:36:55 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-26 17:36:55 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-26 17:37:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:37:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:37:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:37:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:37:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:37:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:37:11 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-26 17:37:11 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-26 17:37:24 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:37:24 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:37:24 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:37:24 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:37:24 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:37:24 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:37:24 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-26 17:37:24 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-26 17:38:13 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-26 17:38:13 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-26 17:38:13 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-26 17:38:13 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-26 17:38:13 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-26 17:38:13 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-26 17:38:13 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-26 17:38:13 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-26 17:38:29 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:38:29 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:38:29 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:38:29 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:38:29 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:38:29 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-26 17:38:29 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-26 17:38:29 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-26 17:38:29 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-26 17:38:31 INFO  FunctionLibrary:218 - Loading Page
+2014-06-26 17:38:41 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-06-26 17:38:41 INFO  FunctionLibrary:64 - Clicking on Button a2apage_EMAIL
+2014-06-26 17:38:42 INFO  FunctionLibrary:64 - Clicking on Button Google Gmail
+2014-06-26 17:38:43 INFO  FunctionLibrary:197 - Test Scenario Result --Pass

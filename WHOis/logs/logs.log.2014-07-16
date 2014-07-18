@@ -1,0 +1,760 @@
+2014-07-16 08:52:04 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-16 08:52:04 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-16 08:52:04 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-16 08:52:04 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-16 08:52:04 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-16 08:52:04 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-16 08:52:04 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-16 08:52:04 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-16 08:54:37 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-16 08:54:37 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-16 08:54:37 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-16 08:54:37 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-16 08:54:37 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-16 08:54:37 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-16 08:54:37 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-16 08:54:37 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-16 09:00:41 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-16 09:00:41 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-16 09:00:41 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-16 09:00:41 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-16 09:00:41 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-16 09:00:41 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-16 09:00:41 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-16 09:00:42 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-16 09:01:07 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:01:07 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:01:07 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:01:07 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:01:07 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:01:07 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:01:07 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:01:07 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:01:07 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:01:07 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:01:07 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:01:07 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:01:07 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-16 09:01:07 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-16 09:01:07 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-16 09:01:07 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-16 09:01:09 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:01:19 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='signin_button']/a
+2014-07-16 09:01:19 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:01:29 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 09:01:30 INFO  FunctionLibrary:237 - Excepted Data-------->>Forgot your password?
+2014-07-16 09:01:30 INFO  FunctionLibrary:238 - Actual Data---------->>Forgot your password?
+2014-07-16 09:01:30 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 09:01:30 INFO  FunctionLibrary:237 - Excepted Data-------->>Request Account
+2014-07-16 09:01:30 INFO  FunctionLibrary:238 - Actual Data---------->>Request Account
+2014-07-16 09:01:30 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='request_action']/tbody/tr[4]/td/a
+2014-07-16 09:01:30 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:01:40 INFO  FunctionLibrary:143 - Entering Data into company_input
+2014-07-16 09:01:40 INFO  FunctionLibrary:143 - Entering Data into name_input
+2014-07-16 09:01:40 INFO  FunctionLibrary:143 - Entering Data into email_input
+2014-07-16 09:01:40 INFO  FunctionLibrary:143 - Entering Data into phone_input
+2014-07-16 09:01:41 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='request_info']/tbody/tr[6]/td/a
+2014-07-16 09:01:45 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 09:01:45 INFO  FunctionLibrary:237 - Excepted Data-------->>Your request has been sent.
+2014-07-16 09:01:45 INFO  FunctionLibrary:238 - Actual Data---------->>Your request has been sent.
+2014-07-16 09:01:45 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-16 09:01:47 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:01:57 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='signin_button']/a
+2014-07-16 09:01:57 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:02:07 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='request_action']/tbody/tr[4]/td/a
+2014-07-16 09:02:07 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:02:17 INFO  FunctionLibrary:143 - Entering Data into company_input
+2014-07-16 09:02:17 INFO  FunctionLibrary:143 - Entering Data into name_input
+2014-07-16 09:02:17 INFO  FunctionLibrary:143 - Entering Data into email_input
+2014-07-16 09:02:17 INFO  FunctionLibrary:143 - Entering Data into phone_input
+2014-07-16 09:02:18 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='request_info']/tbody/tr[6]/td/a
+2014-07-16 09:02:18 INFO  FunctionLibrary:220 - Verifying Alert-----
+2014-07-16 09:02:18 INFO  FunctionLibrary:197 - Excepted Data-------->>Company may not be left empty.
+2014-07-16 09:02:18 INFO  FunctionLibrary:198 - Actual Data---------->>Company may not be left empty.
+2014-07-16 09:02:18 INFO  FunctionLibrary:51 - Accepting Alert
+2014-07-16 09:02:18 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-16 09:02:21 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:02:31 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='signin_button']/a
+2014-07-16 09:02:31 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:02:41 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='request_action']/tbody/tr[4]/td/a
+2014-07-16 09:02:41 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:02:51 INFO  FunctionLibrary:143 - Entering Data into company_input
+2014-07-16 09:02:52 INFO  FunctionLibrary:143 - Entering Data into name_input
+2014-07-16 09:02:52 INFO  FunctionLibrary:143 - Entering Data into email_input
+2014-07-16 09:02:52 INFO  FunctionLibrary:143 - Entering Data into phone_input
+2014-07-16 09:02:52 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='request_info']/tbody/tr[6]/td/a
+2014-07-16 09:02:52 INFO  FunctionLibrary:220 - Verifying Alert-----
+2014-07-16 09:02:53 INFO  FunctionLibrary:197 - Excepted Data-------->>Contact name may not be left empty.
+2014-07-16 09:02:53 INFO  FunctionLibrary:198 - Actual Data---------->>Contact name may not be left empty.
+2014-07-16 09:02:53 INFO  FunctionLibrary:51 - Accepting Alert
+2014-07-16 09:02:53 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-16 09:02:55 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:03:05 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='signin_button']/a
+2014-07-16 09:03:05 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:03:15 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='request_action']/tbody/tr[4]/td/a
+2014-07-16 09:03:15 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:03:25 INFO  FunctionLibrary:143 - Entering Data into company_input
+2014-07-16 09:03:25 INFO  FunctionLibrary:143 - Entering Data into name_input
+2014-07-16 09:03:25 INFO  FunctionLibrary:143 - Entering Data into email_input
+2014-07-16 09:03:25 INFO  FunctionLibrary:143 - Entering Data into phone_input
+2014-07-16 09:03:26 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='request_info']/tbody/tr[6]/td/a
+2014-07-16 09:03:26 INFO  FunctionLibrary:220 - Verifying Alert-----
+2014-07-16 09:03:26 INFO  FunctionLibrary:197 - Excepted Data-------->>Email Address name may not be left empty.
+2014-07-16 09:03:26 INFO  FunctionLibrary:198 - Actual Data---------->>Email Address name may not be left empty.
+2014-07-16 09:03:26 INFO  FunctionLibrary:51 - Accepting Alert
+2014-07-16 09:03:26 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-16 09:03:29 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:03:39 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='signin_button']/a
+2014-07-16 09:03:39 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:03:49 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='request_action']/tbody/tr[4]/td/a
+2014-07-16 09:03:50 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:04:00 INFO  FunctionLibrary:143 - Entering Data into company_input
+2014-07-16 09:04:00 INFO  FunctionLibrary:143 - Entering Data into name_input
+2014-07-16 09:04:00 INFO  FunctionLibrary:143 - Entering Data into email_input
+2014-07-16 09:04:00 INFO  FunctionLibrary:143 - Entering Data into phone_input
+2014-07-16 09:04:00 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='request_info']/tbody/tr[6]/td/a
+2014-07-16 09:04:00 INFO  FunctionLibrary:220 - Verifying Alert-----
+2014-07-16 09:04:00 INFO  FunctionLibrary:197 - Excepted Data-------->>Phone Number name may not be left empty.
+2014-07-16 09:04:00 INFO  FunctionLibrary:198 - Actual Data---------->>Phone Number name may not be left empty.
+2014-07-16 09:04:00 INFO  FunctionLibrary:51 - Accepting Alert
+2014-07-16 09:04:01 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-16 09:04:01 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:04:01 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-16 09:04:01 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-16 09:04:01 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-16 09:04:01 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-16 09:04:02 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:04:12 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='signin_button']/a
+2014-07-16 09:04:13 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:04:23 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='inner_signin_table']/tbody/tr[5]/td/a
+2014-07-16 09:04:23 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:04:33 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 09:04:33 INFO  FunctionLibrary:237 - Excepted Data-------->>An email containing the passwordwill be sent to the email addresson file.
+2014-07-16 09:04:33 INFO  FunctionLibrary:238 - Actual Data---------->>An email containing the passwordwill be sent to the email addresson file.
+2014-07-16 09:04:33 INFO  FunctionLibrary:143 - Entering Data into lost_email
+2014-07-16 09:04:33 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='inner_lost_table']/tbody/tr[5]/td/a
+2014-07-16 09:04:36 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:04:46 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 09:04:46 INFO  FunctionLibrary:237 - Excepted Data-------->>Email has been sent which contains the lost password.
+2014-07-16 09:04:46 INFO  FunctionLibrary:238 - Actual Data---------->>Email has been sent which contains the lost password.
+2014-07-16 09:04:46 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-16 09:04:48 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:04:58 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='signin_button']/a
+2014-07-16 09:04:58 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:05:08 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='inner_signin_table']/tbody/tr[5]/td/a
+2014-07-16 09:05:08 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:05:18 INFO  FunctionLibrary:143 - Entering Data into lost_email
+2014-07-16 09:05:18 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='inner_lost_table']/tbody/tr[5]/td/a
+2014-07-16 09:05:18 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:05:28 INFO  FunctionLibrary:220 - Verifying Alert-----
+2014-07-16 09:05:29 INFO  FunctionLibrary:197 - Excepted Data-------->>Email address may not be left empty.
+2014-07-16 09:05:29 INFO  FunctionLibrary:198 - Actual Data---------->>Email address may not be left empty.
+2014-07-16 09:05:29 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:05:39 INFO  FunctionLibrary:51 - Accepting Alert
+2014-07-16 09:05:39 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-16 09:05:39 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:05:39 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-16 09:05:39 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-16 09:05:39 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-16 09:05:39 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-16 09:05:42 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:05:52 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='signin_button']/a
+2014-07-16 09:05:52 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:06:02 INFO  FunctionLibrary:143 - Entering Data into user_input
+2014-07-16 09:06:02 INFO  FunctionLibrary:143 - Entering Data into pass_input
+2014-07-16 09:06:02 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='inner_signin_table']/tbody/tr[6]/td/a
+2014-07-16 09:06:04 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:06:14 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 09:06:14 INFO  FunctionLibrary:237 - Excepted Data-------->>Verio User (Verio Inc)
+2014-07-16 09:06:14 INFO  FunctionLibrary:238 - Actual Data---------->>Verio User (Verio Inc)
+2014-07-16 09:06:14 INFO  FunctionLibrary:116 - Getting the value form WebPage-----
+2014-07-16 09:06:25 INFO  FunctionLibrary:795 - Type here for whois, domain and keyword results
+2014-07-16 09:06:25 INFO  FunctionLibrary:796 - Type here for whois, domain and keyword results
+2014-07-16 09:06:25 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-16 09:06:25 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:06:25 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:06:25 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-16 09:06:26 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-16 09:06:26 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-16 09:06:26 INFO  FunctionLibrary:143 - Entering Data into domain_search
+2014-07-16 09:06:26 INFO  FunctionLibrary:71 - Clicking on Button goButton
+2014-07-16 09:06:26 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:06:36 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 09:06:36 INFO  FunctionLibrary:237 - Excepted Data-------->>already registered
+2014-07-16 09:06:36 INFO  FunctionLibrary:238 - Actual Data---------->>already registered
+2014-07-16 09:06:36 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 09:06:37 INFO  FunctionLibrary:237 - Excepted Data-------->>Available
+2014-07-16 09:06:37 INFO  FunctionLibrary:238 - Actual Data---------->>Available
+2014-07-16 09:06:37 INFO  FunctionLibrary:116 - Getting the value form WebPage-----
+2014-07-16 09:06:37 INFO  FunctionLibrary:795 - Type here for whois, domain and keyword results
+2014-07-16 09:06:37 INFO  FunctionLibrary:796 - Type here for whois, domain and keyword results
+2014-07-16 09:06:37 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-16 09:06:40 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:06:50 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:07:00 INFO  FunctionLibrary:143 - Entering Data into domain_search
+2014-07-16 09:07:00 INFO  FunctionLibrary:71 - Clicking on Button goButton
+2014-07-16 09:07:00 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:07:10 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 09:07:10 INFO  FunctionLibrary:237 - Excepted Data-------->>available
+2014-07-16 09:07:10 INFO  FunctionLibrary:238 - Actual Data---------->>available
+2014-07-16 09:07:10 INFO  FunctionLibrary:116 - Getting the value form WebPage-----
+2014-07-16 09:07:10 INFO  FunctionLibrary:795 - Type here for whois, domain and keyword results
+2014-07-16 09:07:10 INFO  FunctionLibrary:796 - Type here for whois, domain and keyword results
+2014-07-16 09:07:10 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-16 09:07:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:07:11 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-16 09:07:11 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-16 09:07:11 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-16 09:07:11 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-16 09:07:14 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:07:24 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:07:34 INFO  FunctionLibrary:143 - Entering Data into domain_search
+2014-07-16 09:07:34 INFO  FunctionLibrary:71 - Clicking on Button goButton
+2014-07-16 09:07:34 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:07:44 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 09:07:44 INFO  FunctionLibrary:237 - Excepted Data-------->>available
+2014-07-16 09:07:44 INFO  FunctionLibrary:238 - Actual Data---------->>available
+2014-07-16 09:07:44 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='contLeft']/p/a
+2014-07-16 09:07:44 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:07:54 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 09:07:59 INFO  FunctionLibrary:237 - Excepted Data-------->>Congratulations!
+2014-07-16 09:07:59 INFO  FunctionLibrary:238 - Actual Data---------->>Congratulations!
+2014-07-16 09:07:59 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-16 09:07:59 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:07:59 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-16 09:07:59 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-16 09:07:59 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-16 09:07:59 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-16 09:08:03 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:08:13 INFO  FunctionLibrary:143 - Entering Data into domain_search
+2014-07-16 09:08:13 INFO  FunctionLibrary:71 - Clicking on Button goButton
+2014-07-16 09:08:14 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:08:24 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:08:34 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 09:08:34 INFO  FunctionLibrary:237 - Excepted Data-------->>already registered
+2014-07-16 09:08:34 INFO  FunctionLibrary:238 - Actual Data---------->>already registered
+2014-07-16 09:08:34 INFO  FunctionLibrary:116 - Getting the value form WebPage-----
+2014-07-16 09:08:34 INFO  FunctionLibrary:795 - Type here for whois, domain and keyword results
+2014-07-16 09:08:34 INFO  FunctionLibrary:796 - Type here for whois, domain and keyword results
+2014-07-16 09:08:56 INFO  FunctionLibrary:120 - Getting the value form WebPage-----
+2014-07-16 09:08:57 INFO  FunctionLibrary:819 - Share
+2014-07-16 09:08:57 INFO  FunctionLibrary:820 - Share
+2014-07-16 09:08:57 INFO  FunctionLibrary:205 - Switch to frame------
+2014-07-16 09:08:57 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 09:08:57 INFO  FunctionLibrary:237 - Excepted Data-------->>Follow @WhoisNet
+2014-07-16 09:08:57 INFO  FunctionLibrary:238 - Actual Data---------->>Follow @WhoisNet
+2014-07-16 09:08:57 INFO  FunctionLibrary:106 - Switch to default content
+2014-07-16 09:08:57 INFO  FunctionLibrary:205 - Switch to frame------
+2014-07-16 09:08:57 INFO  FunctionLibrary:166 - Mouse Over to //div/div/span/div/div/div/div
+2014-07-16 09:08:57 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:09:07 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 09:09:29 INFO  FunctionLibrary:248 - 
+java.lang.NullPointerException
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:235)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:225)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2014-07-16 09:09:30 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-07-16 09:09:30 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:09:30 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-16 09:09:30 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-16 09:09:30 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-16 09:09:30 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-16 09:09:33 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:09:43 INFO  FunctionLibrary:143 - Entering Data into domain_search
+2014-07-16 09:09:43 INFO  FunctionLibrary:71 - Clicking on Button goButton
+2014-07-16 09:09:44 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:09:54 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:10:04 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 09:10:04 INFO  FunctionLibrary:237 - Excepted Data-------->>Buy a similar domain.
+2014-07-16 09:10:04 INFO  FunctionLibrary:238 - Actual Data---------->>Buy a similar domain.
+2014-07-16 09:10:04 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 09:10:04 INFO  FunctionLibrary:237 - Excepted Data-------->>Available
+2014-07-16 09:10:04 INFO  FunctionLibrary:238 - Actual Data---------->>Available
+2014-07-16 09:10:04 INFO  FunctionLibrary:71 - Clicking on Button suggestion_1
+2014-07-16 09:10:04 INFO  FunctionLibrary:71 - Clicking on Button suggestion_2
+2014-07-16 09:10:04 INFO  FunctionLibrary:71 - Clicking on Button suggestion_3
+2014-07-16 09:10:04 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='domain_suggestions']/div[1]/p/a
+2014-07-16 09:10:05 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:10:15 INFO  FunctionLibrary:228 - Verifying Page Title
+2014-07-16 09:10:15 INFO  FunctionLibrary:839 - Excepted Data-------->>Domain Name Registration - Search & Buy Domain Names with Free Tools from Verio.com
+2014-07-16 09:10:15 INFO  FunctionLibrary:840 - Actual Data---------->>Whois Lookup & IP | Whois.net
+2014-07-16 09:10:15 INFO  FunctionLibrary:846 - Error in text - //html/head/title
+2014-07-16 09:10:15 INFO  FunctionLibrary:847 - Actual - Whois Lookup & IP | Whois.net
+2014-07-16 09:10:15 INFO  FunctionLibrary:848 - Expected -Domain Name Registration - Search & Buy Domain Names with Free Tools from Verio.com
+2014-07-16 09:10:15 FATAL FunctionLibrary:849 - test verify
+2014-07-16 09:10:15 ERROR FunctionLibrary:850 - error
+2014-07-16 09:10:16 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-16 09:10:19 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:10:29 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:10:39 INFO  FunctionLibrary:143 - Entering Data into domain_search
+2014-07-16 09:10:39 INFO  FunctionLibrary:71 - Clicking on Button goButton
+2014-07-16 09:10:39 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:10:49 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:10:59 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 09:11:00 INFO  FunctionLibrary:237 - Excepted Data-------->>Buy a similar domain.
+2014-07-16 09:11:00 INFO  FunctionLibrary:238 - Actual Data---------->>Buy a similar domain.
+2014-07-16 09:11:00 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='domain_suggestions']/div[1]/p/a
+2014-07-16 09:11:00 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:11:10 INFO  FunctionLibrary:228 - Verifying Page Title
+2014-07-16 09:11:10 INFO  FunctionLibrary:839 - Excepted Data-------->>Domain Name Registration - Search & Buy Domain Names with Free Tools from Verio.com
+2014-07-16 09:11:10 INFO  FunctionLibrary:840 - Actual Data---------->>Whois Lookup & IP | Whois.net
+2014-07-16 09:11:10 INFO  FunctionLibrary:846 - Error in text - //html/head/title
+2014-07-16 09:11:10 INFO  FunctionLibrary:847 - Actual - Whois Lookup & IP | Whois.net
+2014-07-16 09:11:10 INFO  FunctionLibrary:848 - Expected -Domain Name Registration - Search & Buy Domain Names with Free Tools from Verio.com
+2014-07-16 09:11:10 FATAL FunctionLibrary:849 - test verify
+2014-07-16 09:11:10 ERROR FunctionLibrary:850 - error
+2014-07-16 09:11:11 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 09:11:32 INFO  FunctionLibrary:248 - 
+java.lang.NullPointerException
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:235)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:225)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2014-07-16 09:11:33 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-07-16 09:33:42 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-16 09:33:42 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-16 09:33:42 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-16 09:33:42 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-16 09:33:42 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-16 09:33:42 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-16 09:33:42 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-16 09:33:42 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-16 09:34:03 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:34:03 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:34:03 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:34:03 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:34:03 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:34:03 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:34:03 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:34:03 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:34:03 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-16 09:34:04 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-16 09:34:04 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-16 09:34:04 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-16 09:34:06 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:34:17 INFO  FunctionLibrary:71 - Clicking on Button Website Hosting
+2014-07-16 09:34:18 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:34:28 INFO  FunctionLibrary:228 - Verifying Page Title
+2014-07-16 09:36:58 INFO  FunctionLibrary:839 - Excepted Data-------->>Web Hosting Plans & Domain Name Registration - Create Web Sites with Hosted Solutions from Verio
+2014-07-16 09:36:58 INFO  FunctionLibrary:840 - Actual Data---------->>Whois Lookup & IP | Whois.net
+2014-07-16 09:36:58 INFO  FunctionLibrary:846 - Error in text - //html/head/title
+2014-07-16 09:36:58 INFO  FunctionLibrary:847 - Actual - Whois Lookup & IP | Whois.net
+2014-07-16 09:36:58 INFO  FunctionLibrary:848 - Expected -Web Hosting Plans & Domain Name Registration - Create Web Sites with Hosted Solutions from Verio
+2014-07-16 09:36:58 FATAL FunctionLibrary:849 - test verify
+2014-07-16 09:36:58 ERROR FunctionLibrary:850 - error
+2014-07-16 09:36:59 INFO  FunctionLibrary:134 - Clicking on Back Button
+2014-07-16 09:36:59 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:37:09 INFO  FunctionLibrary:71 - Clicking on Button Domain Name Registration
+2014-07-16 09:37:09 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:37:19 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 09:37:19 INFO  FunctionLibrary:237 - Excepted Data-------->>Domain Name Registration
+2014-07-16 09:37:19 INFO  FunctionLibrary:238 - Actual Data---------->>Domain Name Registration
+2014-07-16 09:37:19 INFO  FunctionLibrary:134 - Clicking on Back Button
+2014-07-16 09:37:19 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:37:29 INFO  FunctionLibrary:71 - Clicking on Button Sitemap
+2014-07-16 09:37:30 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:37:40 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 09:37:40 INFO  FunctionLibrary:237 - Excepted Data-------->>SITEMAP
+2014-07-16 09:37:40 INFO  FunctionLibrary:238 - Actual Data---------->>SITEMAP
+2014-07-16 09:37:40 INFO  FunctionLibrary:134 - Clicking on Back Button
+2014-07-16 09:37:40 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:37:50 INFO  FunctionLibrary:71 - Clicking on Button Support
+2014-07-16 09:37:50 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:38:00 INFO  FunctionLibrary:228 - Verifying Page Title
+2014-07-16 09:38:00 INFO  FunctionLibrary:839 - Excepted Data-------->>Verio Support & Customer Portal - Online Chat, Control Panel Access, Customer Tools & Verio KnowledgeBase
+2014-07-16 09:38:00 INFO  FunctionLibrary:840 - Actual Data---------->>Verio Support & Customer Portal - Online Chat, Control Panel Access, Customer Tools & Verio KnowledgeBase
+2014-07-16 09:38:00 INFO  FunctionLibrary:134 - Clicking on Back Button
+2014-07-16 09:38:00 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:38:10 INFO  FunctionLibrary:71 - Clicking on Button Privacy Policy
+2014-07-16 09:38:10 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:38:20 INFO  FunctionLibrary:228 - Verifying Page Title
+2014-07-16 09:41:45 INFO  FunctionLibrary:839 - Excepted Data-------->>Verio Privacy Policy
+2014-07-16 09:41:45 INFO  FunctionLibrary:840 - Actual Data---------->>Whois Lookup & IP | Whois.net
+2014-07-16 09:41:45 INFO  FunctionLibrary:846 - Error in text - //html/head/title
+2014-07-16 09:41:45 INFO  FunctionLibrary:847 - Actual - Whois Lookup & IP | Whois.net
+2014-07-16 09:41:45 INFO  FunctionLibrary:848 - Expected -Verio Privacy Policy
+2014-07-16 09:41:45 FATAL FunctionLibrary:849 - test verify
+2014-07-16 09:41:45 ERROR FunctionLibrary:850 - error
+2014-07-16 09:41:45 INFO  FunctionLibrary:134 - Clicking on Back Button
+2014-07-16 09:41:45 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:41:55 INFO  FunctionLibrary:71 - Clicking on Button Terms and Conditions
+2014-07-16 09:41:56 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:42:06 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 09:42:06 INFO  FunctionLibrary:237 - Excepted Data-------->>TERMS AND CONDITIONS OF WHOIS.NET ("WHOIS.NET")
+2014-07-16 09:42:06 INFO  FunctionLibrary:238 - Actual Data---------->>TERMS AND CONDITIONS OF WHOIS.NET ("WHOIS.NET")
+2014-07-16 09:42:06 INFO  FunctionLibrary:134 - Clicking on Back Button
+2014-07-16 09:42:10 INFO  FunctionLibrary:71 - Clicking on Button Shared Hosting
+2014-07-16 09:42:11 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:42:21 INFO  FunctionLibrary:210 - Switch to New Window
+2014-07-16 09:42:21 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 09:53:37 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-16 09:53:37 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-16 09:53:37 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-16 09:53:37 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-16 09:53:37 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-16 09:53:37 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-16 09:53:37 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-16 09:53:37 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-16 09:53:53 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:53:53 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:53:53 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:53:53 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:53:53 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:53:53 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:53:53 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:53:53 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 09:53:53 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-16 09:53:53 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-16 09:53:53 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-16 09:53:53 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-16 09:53:55 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:54:07 INFO  FunctionLibrary:71 - Clicking on Button Website Hosting
+2014-07-16 09:54:07 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 09:54:17 INFO  FunctionLibrary:228 - Verifying Page Title
+2014-07-16 10:04:17 INFO  FunctionLibrary:839 - Excepted Data-------->>Web Hosting Plans & Domain Name Registration - Create Web Sites with Hosted Solutions from Verio
+2014-07-16 10:04:17 INFO  FunctionLibrary:840 - Actual Data---------->>Web Hosting Plans & Domain Name Registration - Create Web Sites with Hosted Solutions from Verio
+2014-07-16 10:04:17 INFO  FunctionLibrary:134 - Clicking on Back Button
+2014-07-16 10:04:17 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:04:27 INFO  FunctionLibrary:71 - Clicking on Button Domain Name Registration
+2014-07-16 10:04:27 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:04:37 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 10:04:38 INFO  FunctionLibrary:237 - Excepted Data-------->>Domain Name Registration
+2014-07-16 10:04:38 INFO  FunctionLibrary:238 - Actual Data---------->>Domain Name Registration
+2014-07-16 10:04:38 INFO  FunctionLibrary:134 - Clicking on Back Button
+2014-07-16 10:04:38 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:04:48 INFO  FunctionLibrary:71 - Clicking on Button Sitemap
+2014-07-16 10:04:48 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:04:58 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 10:04:58 INFO  FunctionLibrary:237 - Excepted Data-------->>SITEMAP
+2014-07-16 10:04:58 INFO  FunctionLibrary:238 - Actual Data---------->>SITEMAP
+2014-07-16 10:04:58 INFO  FunctionLibrary:134 - Clicking on Back Button
+2014-07-16 10:04:58 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:05:08 INFO  FunctionLibrary:71 - Clicking on Button Support
+2014-07-16 10:05:09 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:05:19 INFO  FunctionLibrary:228 - Verifying Page Title
+2014-07-16 10:05:19 INFO  FunctionLibrary:839 - Excepted Data-------->>Verio Support & Customer Portal - Online Chat, Control Panel Access, Customer Tools & Verio KnowledgeBase
+2014-07-16 10:05:19 INFO  FunctionLibrary:840 - Actual Data---------->>Verio Support & Customer Portal - Online Chat, Control Panel Access, Customer Tools & Verio KnowledgeBase
+2014-07-16 10:05:19 INFO  FunctionLibrary:134 - Clicking on Back Button
+2014-07-16 10:05:19 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:05:29 INFO  FunctionLibrary:71 - Clicking on Button Privacy Policy
+2014-07-16 10:05:29 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:05:39 INFO  FunctionLibrary:228 - Verifying Page Title
+2014-07-16 10:10:35 INFO  FunctionLibrary:839 - Excepted Data-------->>Verio Privacy Policy
+2014-07-16 10:10:35 INFO  FunctionLibrary:840 - Actual Data---------->>Verio Privacy Policy
+2014-07-16 10:10:35 INFO  FunctionLibrary:134 - Clicking on Back Button
+2014-07-16 10:10:35 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:10:45 INFO  FunctionLibrary:71 - Clicking on Button Terms and Conditions
+2014-07-16 10:10:46 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:10:56 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 10:10:56 INFO  FunctionLibrary:237 - Excepted Data-------->>TERMS AND CONDITIONS OF WHOIS.NET ("WHOIS.NET")
+2014-07-16 10:10:56 INFO  FunctionLibrary:238 - Actual Data---------->>TERMS AND CONDITIONS OF WHOIS.NET ("WHOIS.NET")
+2014-07-16 10:10:56 INFO  FunctionLibrary:134 - Clicking on Back Button
+2014-07-16 10:11:00 INFO  FunctionLibrary:71 - Clicking on Button Shared Hosting
+2014-07-16 10:11:00 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:11:10 INFO  FunctionLibrary:210 - Switch to New Window
+2014-07-16 10:11:10 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 10:16:08 INFO  FunctionLibrary:237 - Excepted Data-------->>Get the Online Tools You Need to Succeed with Verio's Shared Web Hosting
+2014-07-16 10:16:08 INFO  FunctionLibrary:238 - Actual Data---------->>Get the Online Tools You Need to Succeed with Verio's Shared Web Hosting
+2014-07-16 10:16:08 INFO  FunctionLibrary:215 - Switching to Parent Window
+2014-07-16 10:16:08 INFO  FunctionLibrary:71 - Clicking on Button Unix Hosting
+2014-07-16 10:16:08 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:16:18 INFO  FunctionLibrary:210 - Switch to New Window
+2014-07-16 10:16:19 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 10:21:18 INFO  FunctionLibrary:237 - Excepted Data-------->>Starter UNIX Hosting
+2014-07-16 10:21:18 INFO  FunctionLibrary:238 - Actual Data---------->>Starter UNIX Hosting
+2014-07-16 10:21:18 INFO  FunctionLibrary:215 - Switching to Parent Window
+2014-07-16 10:21:18 INFO  FunctionLibrary:71 - Clicking on Button Whois Lookup
+2014-07-16 10:21:18 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:21:28 INFO  FunctionLibrary:210 - Switch to New Window
+2014-07-16 10:21:28 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 10:21:28 INFO  FunctionLibrary:237 - Excepted Data-------->>WHOIS Domain Lookup
+2014-07-16 10:21:28 INFO  FunctionLibrary:238 - Actual Data---------->>WHOIS Domain Lookup
+2014-07-16 10:21:28 INFO  FunctionLibrary:215 - Switching to Parent Window
+2014-07-16 10:21:28 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-16 10:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 10:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 10:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 10:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 10:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 10:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 10:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 10:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 10:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 10:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 10:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 10:34:00 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-16 10:34:00 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-16 10:34:00 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-16 10:34:00 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-16 10:34:00 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-16 10:34:00 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-16 10:34:00 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-16 10:34:00 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-16 10:34:35 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 10:34:35 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 10:34:35 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 10:34:35 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 10:34:35 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 10:34:35 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 10:34:35 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-16 10:34:35 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-16 10:34:35 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-16 10:34:36 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-16 10:34:38 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:34:48 INFO  FunctionLibrary:166 - Mouse Over to //*[@id='share']/a/img
+2014-07-16 10:34:48 INFO  FunctionLibrary:71 - Clicking on Button a2apage_EMAIL
+2014-07-16 10:34:49 INFO  FunctionLibrary:71 - Clicking on Button Google Gmail
+2014-07-16 10:34:50 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:35:00 INFO  FunctionLibrary:210 - Switch to New Window
+2014-07-16 10:35:00 INFO  FunctionLibrary:228 - Verifying Page Title
+2014-07-16 10:35:00 INFO  FunctionLibrary:839 - Excepted Data-------->>Gmail - Email from Google
+2014-07-16 10:35:00 INFO  FunctionLibrary:840 - Actual Data---------->>Gmail - Email from Google
+2014-07-16 10:35:00 INFO  FunctionLibrary:215 - Switching to Parent Window
+2014-07-16 10:35:00 INFO  FunctionLibrary:166 - Mouse Over to //*[@id='share']/a/img
+2014-07-16 10:35:00 INFO  FunctionLibrary:71 - Clicking on Button a2apage_EMAIL
+2014-07-16 10:35:00 INFO  FunctionLibrary:71 - Clicking on Button Yahoo Mail
+2014-07-16 10:35:01 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:35:11 INFO  FunctionLibrary:210 - Switch to New Window
+2014-07-16 10:35:11 INFO  FunctionLibrary:228 - Verifying Page Title
+2014-07-16 10:35:17 INFO  FunctionLibrary:839 - Excepted Data-------->>Sign in to Yahoo
+2014-07-16 10:35:17 INFO  FunctionLibrary:840 - Actual Data---------->>
+2014-07-16 10:35:17 INFO  FunctionLibrary:846 - Error in text - //html/head/title
+2014-07-16 10:35:17 INFO  FunctionLibrary:847 - Actual - 
+2014-07-16 10:35:17 INFO  FunctionLibrary:848 - Expected -Sign in to Yahoo
+2014-07-16 10:35:17 FATAL FunctionLibrary:849 - test verify
+2014-07-16 10:35:17 ERROR FunctionLibrary:850 - error
+2014-07-16 10:35:17 INFO  FunctionLibrary:215 - Switching to Parent Window
+2014-07-16 10:35:18 INFO  FunctionLibrary:166 - Mouse Over to //*[@id='share']/a/img
+2014-07-16 10:35:18 INFO  FunctionLibrary:71 - Clicking on Button a2apage_DEFAULT
+2014-07-16 10:35:18 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='a2apage_linkedin']/span
+2014-07-16 10:35:18 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:35:28 INFO  FunctionLibrary:210 - Switch to New Window
+2014-07-16 10:35:28 INFO  FunctionLibrary:228 - Verifying Page Title
+2014-07-16 10:35:29 INFO  FunctionLibrary:839 - Excepted Data-------->>Sign Up | LinkedIn
+2014-07-16 10:35:29 INFO  FunctionLibrary:840 - Actual Data---------->>Sign Up | LinkedIn
+2014-07-16 10:35:29 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 10:35:29 INFO  FunctionLibrary:237 - Excepted Data-------->>To join LinkedIn, sign up below...it's free!
+2014-07-16 10:35:29 INFO  FunctionLibrary:238 - Actual Data---------->>To join LinkedIn, sign up below...it's free!
+2014-07-16 10:35:29 INFO  FunctionLibrary:215 - Switching to Parent Window
+2014-07-16 10:35:29 INFO  FunctionLibrary:166 - Mouse Over to //*[@id='share']/a/img
+2014-07-16 10:35:29 INFO  FunctionLibrary:71 - Clicking on Button a2apage_DEFAULT
+2014-07-16 10:35:29 INFO  FunctionLibrary:71 - Clicking on Button Twitter
+2014-07-16 10:35:30 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:35:40 INFO  FunctionLibrary:210 - Switch to New Window
+2014-07-16 10:35:40 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 10:35:40 INFO  FunctionLibrary:237 - Excepted Data-------->>Whois Lookup & IP | Whois.net https://qawhois.team-center.net/
+2014-07-16 10:35:40 INFO  FunctionLibrary:238 - Actual Data---------->>Whois Lookup & IP | Whois.net https://qawhois.team-center.net/
+2014-07-16 10:35:40 INFO  FunctionLibrary:215 - Switching to Parent Window
+2014-07-16 10:35:40 INFO  FunctionLibrary:166 - Mouse Over to //*[@id='share']/a/img
+2014-07-16 10:35:40 INFO  FunctionLibrary:71 - Clicking on Button a2apage_DEFAULT
+2014-07-16 10:35:41 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='a2apage_powered_by']/a
+2014-07-16 10:36:02 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:36:12 INFO  FunctionLibrary:210 - Switch to New Window
+2014-07-16 10:36:12 INFO  FunctionLibrary:228 - Verifying Page Title
+2014-07-16 10:36:12 INFO  FunctionLibrary:839 - Excepted Data-------->>AddToAny Share Buttons, Social Share Buttons and Icons
+2014-07-16 10:36:12 INFO  FunctionLibrary:840 - Actual Data---------->>Post a Tweet on Twitter
+2014-07-16 10:36:12 INFO  FunctionLibrary:846 - Error in text - //html/head/title
+2014-07-16 10:36:12 INFO  FunctionLibrary:847 - Actual - Post a Tweet on Twitter
+2014-07-16 10:36:12 INFO  FunctionLibrary:848 - Expected -AddToAny Share Buttons, Social Share Buttons and Icons
+2014-07-16 10:36:12 FATAL FunctionLibrary:849 - test verify
+2014-07-16 10:36:12 ERROR FunctionLibrary:850 - error
+2014-07-16 10:36:12 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-07-16 10:36:12 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 10:36:13 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-16 10:36:13 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-16 10:36:13 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-16 10:36:13 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-16 10:36:16 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:36:26 INFO  FunctionLibrary:205 - Switch to frame------
+2014-07-16 10:36:26 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='l']
+2014-07-16 10:36:27 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:36:37 INFO  FunctionLibrary:210 - Switch to New Window
+2014-07-16 10:36:37 INFO  FunctionLibrary:228 - Verifying Page Title
+2014-07-16 10:36:37 INFO  FunctionLibrary:839 - Excepted Data-------->>Whois.net (@WhoisNet) on Twitter
+2014-07-16 10:36:37 INFO  FunctionLibrary:840 - Actual Data---------->>Whois.net (@WhoisNet) on Twitter
+2014-07-16 10:36:37 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 10:36:37 INFO  FunctionLibrary:237 - Excepted Data-------->>http://www.whois.net
+2014-07-16 10:36:37 INFO  FunctionLibrary:238 - Actual Data---------->>http://www.whois.net
+2014-07-16 10:36:37 INFO  FunctionLibrary:215 - Switching to Parent Window
+2014-07-16 10:36:37 INFO  FunctionLibrary:205 - Switch to frame------
+2014-07-16 10:36:37 INFO  FunctionLibrary:71 - Clicking on Button //div/div/span/div/div/div/div
+2014-07-16 10:36:38 INFO  FunctionLibrary:210 - Switch to New Window
+2014-07-16 10:36:39 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 10:36:39 INFO  FunctionLibrary:237 - Excepted Data-------->>Sign in to continue to Google+
+2014-07-16 10:36:39 INFO  FunctionLibrary:238 - Actual Data---------->>Sign in to continue to Google+
+2014-07-16 10:36:39 INFO  FunctionLibrary:215 - Switching to Parent Window
+2014-07-16 10:36:39 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-16 10:36:39 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 10:36:39 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-16 10:36:40 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-16 10:36:40 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-16 10:36:40 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-16 10:36:42 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:36:53 INFO  FunctionLibrary:71 - Clicking on Button Website Hosting
+2014-07-16 10:36:53 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:37:03 INFO  FunctionLibrary:228 - Verifying Page Title
+2014-07-16 10:47:04 INFO  FunctionLibrary:839 - Excepted Data-------->>Web Hosting Plans & Domain Name Registration - Create Web Sites with Hosted Solutions from Verio
+2014-07-16 10:47:04 INFO  FunctionLibrary:840 - Actual Data---------->>Web Hosting Plans & Domain Name Registration - Create Web Sites with Hosted Solutions from Verio
+2014-07-16 10:47:04 INFO  FunctionLibrary:134 - Clicking on Back Button
+2014-07-16 10:47:04 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:47:14 INFO  FunctionLibrary:71 - Clicking on Button Domain Name Registration
+2014-07-16 10:47:14 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:47:24 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 10:47:29 INFO  FunctionLibrary:237 - Excepted Data-------->>Domain Name Registration
+2014-07-16 10:47:29 INFO  FunctionLibrary:238 - Actual Data---------->>Domain Name Registration
+2014-07-16 10:47:29 INFO  FunctionLibrary:134 - Clicking on Back Button
+2014-07-16 10:47:29 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:47:39 INFO  FunctionLibrary:71 - Clicking on Button Sitemap
+2014-07-16 10:47:39 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:47:49 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 10:47:49 INFO  FunctionLibrary:237 - Excepted Data-------->>SITEMAP
+2014-07-16 10:47:49 INFO  FunctionLibrary:238 - Actual Data---------->>SITEMAP
+2014-07-16 10:47:49 INFO  FunctionLibrary:134 - Clicking on Back Button
+2014-07-16 10:47:49 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:47:59 INFO  FunctionLibrary:71 - Clicking on Button Support
+2014-07-16 10:47:59 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:48:09 INFO  FunctionLibrary:228 - Verifying Page Title
+2014-07-16 10:48:09 INFO  FunctionLibrary:839 - Excepted Data-------->>Verio Support & Customer Portal - Online Chat, Control Panel Access, Customer Tools & Verio KnowledgeBase
+2014-07-16 10:48:09 INFO  FunctionLibrary:840 - Actual Data---------->>Verio Support & Customer Portal - Online Chat, Control Panel Access, Customer Tools & Verio KnowledgeBase
+2014-07-16 10:48:09 INFO  FunctionLibrary:134 - Clicking on Back Button
+2014-07-16 10:48:09 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:48:19 INFO  FunctionLibrary:71 - Clicking on Button Privacy Policy
+2014-07-16 10:48:20 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:48:30 INFO  FunctionLibrary:228 - Verifying Page Title
+2014-07-16 10:53:26 INFO  FunctionLibrary:839 - Excepted Data-------->>Verio Privacy Policy
+2014-07-16 10:53:26 INFO  FunctionLibrary:840 - Actual Data---------->>Verio Privacy Policy
+2014-07-16 10:53:26 INFO  FunctionLibrary:134 - Clicking on Back Button
+2014-07-16 10:53:26 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:53:36 INFO  FunctionLibrary:71 - Clicking on Button Terms and Conditions
+2014-07-16 10:53:37 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:53:47 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 10:53:47 INFO  FunctionLibrary:237 - Excepted Data-------->>TERMS AND CONDITIONS OF WHOIS.NET ("WHOIS.NET")
+2014-07-16 10:53:47 INFO  FunctionLibrary:238 - Actual Data---------->>TERMS AND CONDITIONS OF WHOIS.NET ("WHOIS.NET")
+2014-07-16 10:53:47 INFO  FunctionLibrary:134 - Clicking on Back Button
+2014-07-16 10:53:51 INFO  FunctionLibrary:71 - Clicking on Button Shared Hosting
+2014-07-16 10:53:51 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:54:01 INFO  FunctionLibrary:210 - Switch to New Window
+2014-07-16 10:54:01 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 10:59:01 INFO  FunctionLibrary:237 - Excepted Data-------->>Get the Online Tools You Need to Succeed with Verio's Shared Web Hosting
+2014-07-16 10:59:01 INFO  FunctionLibrary:238 - Actual Data---------->>Get the Online Tools You Need to Succeed with Verio's Shared Web Hosting
+2014-07-16 10:59:01 INFO  FunctionLibrary:215 - Switching to Parent Window
+2014-07-16 10:59:01 INFO  FunctionLibrary:71 - Clicking on Button Unix Hosting
+2014-07-16 10:59:01 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 10:59:11 INFO  FunctionLibrary:210 - Switch to New Window
+2014-07-16 10:59:11 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 11:04:08 INFO  FunctionLibrary:237 - Excepted Data-------->>Starter UNIX Hosting
+2014-07-16 11:04:08 INFO  FunctionLibrary:238 - Actual Data---------->>Starter UNIX Hosting
+2014-07-16 11:04:08 INFO  FunctionLibrary:215 - Switching to Parent Window
+2014-07-16 11:04:09 INFO  FunctionLibrary:71 - Clicking on Button Whois Lookup
+2014-07-16 11:04:09 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 11:04:19 INFO  FunctionLibrary:210 - Switch to New Window
+2014-07-16 11:04:19 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 11:04:19 INFO  FunctionLibrary:237 - Excepted Data-------->>WHOIS Domain Lookup
+2014-07-16 11:04:19 INFO  FunctionLibrary:238 - Actual Data---------->>WHOIS Domain Lookup
+2014-07-16 11:04:19 INFO  FunctionLibrary:215 - Switching to Parent Window
+2014-07-16 11:04:19 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-16 11:04:19 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 11:04:19 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-16 11:04:20 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-16 11:04:20 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-16 11:04:20 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-16 11:04:27 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 11:04:37 INFO  FunctionLibrary:71 - Clicking on Button VPS Hosting
+2014-07-16 11:04:37 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 11:04:47 INFO  FunctionLibrary:210 - Switch to New Window
+2014-07-16 11:04:48 INFO  FunctionLibrary:228 - Verifying Page Title
+2014-07-16 11:09:44 INFO  FunctionLibrary:839 - Excepted Data-------->>Virtual Private Server (VPS) Hosting Plans for Linux & Windows Environments - VPS Hosting Plans from Verio
+2014-07-16 11:09:44 INFO  FunctionLibrary:840 - Actual Data---------->>Virtual Private Server (VPS) Hosting Plans for Linux & Windows Environments - VPS Hosting Plans from Verio
+2014-07-16 11:09:44 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 11:09:44 INFO  FunctionLibrary:237 - Excepted Data-------->>Use VPS Hosting to Power More Demanding Websites in a Virtual Private Server Environment.
+2014-07-16 11:09:44 INFO  FunctionLibrary:238 - Actual Data---------->>Use VPS Hosting to Power More Demanding Websites in a Virtual Private Server Environment.
+2014-07-16 11:09:44 INFO  FunctionLibrary:215 - Switching to Parent Window
+2014-07-16 11:09:44 INFO  FunctionLibrary:71 - Clicking on Button Dedicated Hosting
+2014-07-16 11:09:45 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 11:09:55 INFO  FunctionLibrary:210 - Switch to New Window
+2014-07-16 11:09:55 INFO  FunctionLibrary:228 - Verifying Page Title
+2014-07-16 11:14:53 INFO  FunctionLibrary:839 - Excepted Data-------->>Dedicated Web Hosting Plans & Solutions - Private Servers for Windows & Linux from Verio
+2014-07-16 11:14:53 INFO  FunctionLibrary:840 - Actual Data---------->>Dedicated Web Hosting Plans & Solutions - Private Servers for Windows & Linux from Verio
+2014-07-16 11:14:53 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 11:14:53 INFO  FunctionLibrary:237 - Excepted Data-------->>Dedicated Web Hosting Delivers the Security of Your Own Server
+2014-07-16 11:14:53 INFO  FunctionLibrary:238 - Actual Data---------->>Dedicated Web Hosting Delivers the Security of Your Own Server
+2014-07-16 11:14:53 INFO  FunctionLibrary:215 - Switching to Parent Window
+2014-07-16 11:14:53 INFO  FunctionLibrary:71 - Clicking on Button Shared Hosting
+2014-07-16 11:14:53 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 11:15:03 INFO  FunctionLibrary:210 - Switch to New Window
+2014-07-16 11:15:04 INFO  FunctionLibrary:228 - Verifying Page Title
+2014-07-16 11:20:02 INFO  FunctionLibrary:839 - Excepted Data-------->>Shared Hosting | Verio
+2014-07-16 11:20:02 INFO  FunctionLibrary:840 - Actual Data---------->>Shared Hosting | Verio
+2014-07-16 11:20:02 INFO  FunctionLibrary:224 - Verifying Text
+2014-07-16 11:20:02 INFO  FunctionLibrary:237 - Excepted Data-------->>Get the Online Tools You Need to Succeed with Verio's Shared Web Hosting
+2014-07-16 11:20:02 INFO  FunctionLibrary:238 - Actual Data---------->>Get the Online Tools You Need to Succeed with Verio's Shared Web Hosting
+2014-07-16 11:20:02 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-16 11:20:02 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 11:20:02 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-16 11:20:02 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-16 11:20:02 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-16 11:20:02 INFO  FunctionLibrary:177 - Navigating to ---https://qawhois.team-center.net/
+2014-07-16 11:20:08 INFO  FunctionLibrary:232 - Loading Page
+2014-07-16 11:20:18 INFO  FunctionLibrary:71 - Clicking on Button lmToggle
+2014-07-16 11:20:18 INFO  FunctionLibrary:124 - Getting Text From Webpage
+2014-07-16 11:20:18 INFO  FunctionLibrary:319 - Get Element Text-----------Our WhoIs lookup is designed to help you perform a variety of whois lookup functions. WhoIs lets you perform a domain whois search, whois IP lookup and search the whois database for relevant information on domain registration and availability. This can help provide insight into a domain's history and additional information. Use WhoIs lookup anytime you want to perform a search to see who owns a domain name, how many pages from a site are listed with Google or even search WhoIs address listings for a website's owner.
+2014-07-16 11:20:18 INFO  FunctionLibrary:71 - Clicking on Button lmToggle
+2014-07-16 11:20:18 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-16 11:20:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 11:20:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 11:20:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 11:20:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 11:20:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 11:20:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 11:20:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 11:20:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-16 11:20:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File

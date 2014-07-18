@@ -1,0 +1,2034 @@
+2014-06-25 08:30:00 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 08:30:00 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 08:30:00 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 08:30:00 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 08:30:00 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 08:30:00 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 08:30:00 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 08:30:00 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 08:30:27 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 08:30:27 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 08:30:27 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 08:30:27 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 08:30:27 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 08:30:27 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 08:30:28 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 08:30:28 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 08:30:38 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 08:31:17 INFO  FunctionLibrary:227 - Available
+2014-06-25 08:31:17 INFO  FunctionLibrary:228 - Available
+2014-06-25 08:31:17 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 08:31:17 INFO  FunctionLibrary:227 - already registered
+2014-06-25 08:31:17 INFO  FunctionLibrary:228 - already registered
+2014-06-25 08:31:17 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 08:31:18 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 08:31:21 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 08:31:22 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 08:31:22 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 08:31:49 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 08:31:49 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 08:31:49 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 08:31:49 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 08:31:49 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 08:31:49 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 08:31:49 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 08:31:49 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 08:32:06 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 08:32:06 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 08:32:06 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 08:32:06 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 08:32:06 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 08:32:06 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 08:32:07 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 08:32:07 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 08:32:17 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 08:32:18 INFO  FunctionLibrary:227 - Available
+2014-06-25 08:32:18 INFO  FunctionLibrary:228 - Available
+2014-06-25 08:32:18 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 08:32:18 INFO  FunctionLibrary:227 - already registered
+2014-06-25 08:32:18 INFO  FunctionLibrary:228 - already registered
+2014-06-25 08:32:18 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 08:32:18 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 08:32:20 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 08:32:22 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 08:32:22 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 08:32:32 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 08:32:32 INFO  FunctionLibrary:227 - available
+2014-06-25 08:32:32 INFO  FunctionLibrary:228 - available
+2014-06-25 08:32:32 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='contLeft']/p/a
+2014-06-25 08:32:33 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 08:32:43 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 08:32:49 INFO  FunctionLibrary:227 - Congratulations!
+2014-06-25 08:32:49 INFO  FunctionLibrary:228 - Congratulations!
+2014-06-25 08:32:49 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-06-25 08:32:49 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 08:35:23 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 08:35:23 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 08:35:23 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 08:35:23 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 08:35:23 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 08:35:23 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 08:35:23 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 08:35:23 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 08:35:38 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 08:35:38 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 08:35:38 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 08:35:38 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 08:35:38 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 08:35:38 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 08:35:38 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 08:35:39 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 08:35:49 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 08:36:10 INFO  FunctionLibrary:227 - Available
+2014-06-25 08:36:10 INFO  FunctionLibrary:228 - Available
+2014-06-25 08:36:10 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 08:36:10 INFO  FunctionLibrary:227 - already registered
+2014-06-25 08:36:10 INFO  FunctionLibrary:228 - already registered
+2014-06-25 08:36:10 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 08:36:10 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 08:36:13 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 08:36:15 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 08:36:15 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 08:37:58 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 08:37:58 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 08:37:58 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 08:37:58 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 08:37:58 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 08:37:58 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 08:37:58 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 08:37:58 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 08:38:14 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 08:38:14 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 08:38:14 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 08:38:14 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 08:38:14 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 08:38:14 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 08:38:14 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 08:38:15 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 08:38:25 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 08:38:25 INFO  FunctionLibrary:227 - Available
+2014-06-25 08:38:25 INFO  FunctionLibrary:228 - Available
+2014-06-25 08:38:25 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 08:38:25 INFO  FunctionLibrary:227 - already registered
+2014-06-25 08:38:25 INFO  FunctionLibrary:228 - already registered
+2014-06-25 08:38:25 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 08:38:26 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 08:38:29 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 08:38:30 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 08:38:30 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 08:38:40 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 08:39:41 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 08:39:41 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 08:39:41 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 08:39:41 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 08:39:41 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 08:39:41 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 08:39:41 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 08:39:41 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 08:39:56 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 08:39:56 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 08:39:56 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 08:39:57 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 08:39:57 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 08:39:57 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 08:39:57 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 08:39:58 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 08:40:08 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 08:40:08 INFO  FunctionLibrary:227 - Available
+2014-06-25 08:40:08 INFO  FunctionLibrary:228 - Available
+2014-06-25 08:40:08 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 08:40:08 INFO  FunctionLibrary:227 - already registered
+2014-06-25 08:40:08 INFO  FunctionLibrary:228 - already registered
+2014-06-25 08:40:08 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 08:40:08 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 08:40:11 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 08:40:21 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 08:40:21 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 08:40:21 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 08:40:31 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 08:40:41 INFO  FunctionLibrary:227 - available
+2014-06-25 08:40:41 INFO  FunctionLibrary:228 - available
+2014-06-25 08:40:41 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='contLeft']/p/a
+2014-06-25 08:40:42 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 08:40:52 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 08:40:59 INFO  FunctionLibrary:227 - Congratulations!
+2014-06-25 08:40:59 INFO  FunctionLibrary:228 - Congratulations!
+2014-06-25 08:40:59 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-06-25 08:40:59 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 08:47:24 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 08:47:24 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 08:47:24 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 08:47:24 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 08:47:24 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 08:47:24 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 08:47:24 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 08:47:24 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 08:47:42 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 08:47:42 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 08:47:42 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 08:47:42 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 08:47:42 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 08:47:42 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 08:47:42 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 08:47:43 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 08:47:53 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 08:48:25 INFO  FunctionLibrary:206 - 
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//*[@id='domain_result']/table/tbody/tr/td[2]/div[1]"}
+Command duration or timeout: 10.15 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: 64ebeb30-d1c4-48d7-ae32-59d7ede3ae20
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=30.0}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.projectname.base.Keywords.welement(Keywords.java:364)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:260)
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:218)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:90)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//*[@id='domain_result']/table/tbody/tr/td[2]/div[1]"}
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous831870623892702579webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860:7)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous831870623892702579webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396:5)
+2014-06-25 08:48:25 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-06-25 08:48:25 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 08:49:13 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 08:49:13 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 08:49:13 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 08:49:13 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 08:49:13 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 08:49:13 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 08:49:13 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 08:49:13 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 08:49:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 08:49:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 08:49:28 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 08:49:28 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 08:49:28 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 08:49:29 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 08:49:29 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 08:49:30 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 08:49:40 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 08:50:12 INFO  FunctionLibrary:206 - 
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//*[@id='domain_result']/table/tbody/tr/td[2]/div[1]"}
+Command duration or timeout: 10.14 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: 91ca3c00-e94c-4e89-8c24-e3d677059e93
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=30.0}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.projectname.base.Keywords.welement(Keywords.java:364)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:260)
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:218)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:90)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//*[@id='domain_result']/table/tbody/tr/td[2]/div[1]"}
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous5126112236370756293webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860:7)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous5126112236370756293webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396:5)
+2014-06-25 08:50:12 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-06-25 08:50:12 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:08:57 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 09:08:57 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 09:08:57 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 09:08:57 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 09:08:57 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 09:08:57 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 09:08:57 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 09:08:57 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 09:09:15 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:09:15 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:09:15 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 09:09:16 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 09:09:16 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 09:09:16 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 09:09:16 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 09:09:17 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:09:27 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 09:09:27 INFO  FunctionLibrary:227 - already registered
+2014-06-25 09:09:27 INFO  FunctionLibrary:228 - already registered
+2014-06-25 09:09:27 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 09:09:27 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 09:09:28 INFO  FunctionLibrary:227 - 
+2014-06-25 09:09:28 INFO  FunctionLibrary:228 - Available
+2014-06-25 09:09:28 INFO  FunctionLibrary:234 - Error in text - //table[@class='suggestionTable']/tbody/tr/td[4]
+2014-06-25 09:09:28 INFO  FunctionLibrary:235 - Actual - Available
+2014-06-25 09:09:28 INFO  FunctionLibrary:236 - Expected -null
+2014-06-25 09:09:28 FATAL FunctionLibrary:237 - test verify
+2014-06-25 09:09:28 ERROR FunctionLibrary:238 - error
+2014-06-25 09:09:28 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 09:09:32 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:09:42 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 09:09:42 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 09:09:42 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:10:19 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 09:10:19 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 09:10:19 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 09:10:19 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 09:10:19 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 09:10:19 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 09:10:19 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 09:10:19 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 09:10:38 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:10:38 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:10:38 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 09:10:38 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 09:10:38 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 09:10:38 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 09:10:38 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 09:10:39 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:10:49 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 09:11:12 INFO  FunctionLibrary:227 - already registered
+2014-06-25 09:11:12 INFO  FunctionLibrary:228 - already registered
+2014-06-25 09:11:12 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 09:11:12 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 09:11:13 INFO  FunctionLibrary:227 - 
+2014-06-25 09:11:13 INFO  FunctionLibrary:228 - Available
+2014-06-25 09:11:13 INFO  FunctionLibrary:234 - Error in text - //table[@class='suggestionTable']/tbody/tr/td[4]
+2014-06-25 09:11:13 INFO  FunctionLibrary:235 - Actual - Available
+2014-06-25 09:11:13 INFO  FunctionLibrary:236 - Expected -null
+2014-06-25 09:11:13 FATAL FunctionLibrary:237 - test verify
+2014-06-25 09:11:13 ERROR FunctionLibrary:238 - error
+2014-06-25 09:11:13 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 09:11:16 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:11:26 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 09:11:26 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 09:11:26 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:11:36 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 09:12:38 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 09:12:38 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 09:12:38 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 09:12:38 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 09:12:38 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 09:12:38 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 09:12:38 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 09:12:38 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 09:12:54 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:12:54 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:12:54 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 09:12:54 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 09:12:54 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 09:12:54 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 09:12:54 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 09:12:55 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:13:05 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 09:13:06 INFO  FunctionLibrary:227 - 
+2014-06-25 09:13:06 INFO  FunctionLibrary:228 - Available
+2014-06-25 09:13:06 INFO  FunctionLibrary:234 - Error in text - //table[@class='suggestionTable']/tbody/tr/td[4]
+2014-06-25 09:13:06 INFO  FunctionLibrary:235 - Actual - Available
+2014-06-25 09:13:06 INFO  FunctionLibrary:236 - Expected -null
+2014-06-25 09:13:06 FATAL FunctionLibrary:237 - test verify
+2014-06-25 09:13:06 ERROR FunctionLibrary:238 - error
+2014-06-25 09:13:07 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 09:13:07 INFO  FunctionLibrary:227 - already registered
+2014-06-25 09:13:07 INFO  FunctionLibrary:228 - already registered
+2014-06-25 09:13:07 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 09:13:08 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 09:13:10 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:13:20 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 09:13:20 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 09:13:20 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:19:41 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 09:19:41 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 09:19:41 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 09:19:41 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 09:19:41 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 09:19:41 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 09:19:41 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 09:19:41 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 09:19:56 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:19:56 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:19:56 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:19:56 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 09:19:56 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 09:19:56 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 09:19:59 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:20:09 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 09:20:09 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 09:20:10 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:20:20 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 09:20:20 INFO  FunctionLibrary:227 - available
+2014-06-25 09:20:20 INFO  FunctionLibrary:228 - available
+2014-06-25 09:20:20 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='contLeft']/p/a
+2014-06-25 09:20:20 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:20:30 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 09:20:35 INFO  FunctionLibrary:227 - Congratulations!
+2014-06-25 09:20:35 INFO  FunctionLibrary:228 - Congratulations!
+2014-06-25 09:20:35 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-06-25 09:35:28 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 09:35:28 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 09:35:28 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 09:35:28 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 09:35:28 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 09:35:28 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 09:35:28 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 09:35:28 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 09:35:45 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:35:45 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:35:45 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 09:35:46 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 09:35:46 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 09:35:46 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 09:35:46 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 09:35:47 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:35:57 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 09:35:57 INFO  FunctionLibrary:227 - 
+2014-06-25 09:35:57 INFO  FunctionLibrary:228 - already registered
+2014-06-25 09:35:57 INFO  FunctionLibrary:234 - Error in text - //*[@id='domain_result']/table/tbody/tr/td[2]/div[1]
+2014-06-25 09:35:57 INFO  FunctionLibrary:235 - Actual - already registered
+2014-06-25 09:35:57 INFO  FunctionLibrary:236 - Expected -null
+2014-06-25 09:35:57 FATAL FunctionLibrary:237 - test verify
+2014-06-25 09:35:57 ERROR FunctionLibrary:238 - error
+2014-06-25 09:35:58 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 09:35:58 INFO  FunctionLibrary:227 - 
+2014-06-25 09:35:58 INFO  FunctionLibrary:228 - Available
+2014-06-25 09:35:58 INFO  FunctionLibrary:234 - Error in text - //table[@class='suggestionTable']/tbody/tr/td[4]
+2014-06-25 09:35:58 INFO  FunctionLibrary:235 - Actual - Available
+2014-06-25 09:35:58 INFO  FunctionLibrary:236 - Expected -null
+2014-06-25 09:35:58 FATAL FunctionLibrary:237 - test verify
+2014-06-25 09:35:58 ERROR FunctionLibrary:238 - error
+2014-06-25 09:35:59 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 09:35:59 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 09:36:02 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:36:12 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 09:36:12 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 09:36:12 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:36:22 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 09:36:54 INFO  FunctionLibrary:206 - 
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//*[@id='contLeft']/h2/span"}
+Command duration or timeout: 10.24 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: f897a48a-1362-4d39-bf02-b793745f21a2
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=30.0}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.projectname.base.Keywords.welement(Keywords.java:364)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:260)
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:218)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:90)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//*[@id='contLeft']/h2/span"}
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous3605475520243141070webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860:7)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous3605475520243141070webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396:5)
+2014-06-25 09:36:55 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-06-25 09:36:55 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:39:52 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 09:39:52 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 09:39:52 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 09:39:52 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 09:39:52 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 09:39:52 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 09:39:52 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 09:39:52 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 09:40:08 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:40:08 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:40:08 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 09:40:09 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 09:40:09 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 09:40:09 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 09:40:09 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 09:40:10 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:40:20 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 09:40:36 INFO  FunctionLibrary:206 - 
+org.openqa.selenium.InvalidSelectorException: The given selector //*[@id='domain_result']/table/tbody/tr/td[2]/div[1]] is either invalid or does not result in a WebElement. The following error occurred:
+InvalidSelectorError: Unable to locate an element with the xpath expression //*[@id='domain_result']/table/tbody/tr/td[2]/div[1]] because of the following error:
+[Exception... "The expression is not a legal expression."  code: "12" nsresult: "0x805b0033 (SyntaxError)"  location: "<unknown>"]
+Command duration or timeout: 38 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: 2eaad7d3-91f6-4634-bd5c-db08e0e99f9c
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=30.0}]
+	at sun.reflect.GeneratedConstructorAccessor12.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.projectname.base.Keywords.welement(Keywords.java:364)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:260)
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:218)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:90)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: The given selector //*[@id='domain_result']/table/tbody/tr/td[2]/div[1]] is either invalid or does not result in a WebElement. The following error occurred:
+InvalidSelectorError: Unable to locate an element with the xpath expression //*[@id='domain_result']/table/tbody/tr/td[2]/div[1]] because of the following error:
+[Exception... "The expression is not a legal expression."  code: "12" nsresult: "0x805b0033 (SyntaxError)"  location: "<unknown>"]
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.annotateInvalidSelectorError_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous711102457893189134webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8834:5)
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous711102457893189134webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8865:5)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous711102457893189134webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8869:3)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous711102457893189134webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10831:11)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous711102457893189134webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10836:7)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous711102457893189134webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10778:5)
+2014-06-25 09:40:37 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-06-25 09:40:37 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:42:27 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 09:42:27 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 09:42:27 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 09:42:27 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 09:42:27 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 09:42:27 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 09:42:27 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 09:42:27 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 09:42:42 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:42:42 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:42:42 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 09:42:42 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 09:42:42 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 09:42:42 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 09:42:43 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 09:42:43 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:42:53 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 09:42:54 INFO  FunctionLibrary:227 - 
+2014-06-25 09:42:54 INFO  FunctionLibrary:228 - already registered
+2014-06-25 09:42:54 INFO  FunctionLibrary:234 - Error in text - //*[@id='domain_result']/table/tbody/tr/td[2]/div[1]
+2014-06-25 09:42:54 INFO  FunctionLibrary:235 - Actual - already registered
+2014-06-25 09:42:54 INFO  FunctionLibrary:236 - Expected -null
+2014-06-25 09:42:54 FATAL FunctionLibrary:237 - test verify
+2014-06-25 09:42:54 ERROR FunctionLibrary:238 - error
+2014-06-25 09:42:54 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 09:42:55 INFO  FunctionLibrary:227 - 
+2014-06-25 09:42:55 INFO  FunctionLibrary:228 - Available
+2014-06-25 09:42:55 INFO  FunctionLibrary:234 - Error in text - //table[@class='suggestionTable']/tbody/tr/td[4]
+2014-06-25 09:42:55 INFO  FunctionLibrary:235 - Actual - Available
+2014-06-25 09:42:55 INFO  FunctionLibrary:236 - Expected -null
+2014-06-25 09:42:55 FATAL FunctionLibrary:237 - test verify
+2014-06-25 09:42:55 ERROR FunctionLibrary:238 - error
+2014-06-25 09:42:55 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 09:42:56 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 09:42:58 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:43:08 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 09:43:09 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 09:43:09 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:43:19 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 09:43:51 INFO  FunctionLibrary:206 - 
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//*[@id='contLeft']/h2/span"}
+Command duration or timeout: 10.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: ec064e56-16c2-4665-ba1d-8ef3895d1002
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=30.0}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.projectname.base.Keywords.welement(Keywords.java:364)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:260)
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:218)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:90)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//*[@id='contLeft']/h2/span"}
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous7544121927522239739webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860:7)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous7544121927522239739webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396:5)
+2014-06-25 09:43:51 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-06-25 09:43:52 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:46:44 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 09:46:44 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 09:46:44 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 09:46:44 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 09:46:44 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 09:46:44 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 09:46:44 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 09:46:44 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 09:47:00 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:47:00 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:47:00 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 09:47:01 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 09:47:01 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 09:47:01 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 09:47:01 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 09:47:02 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:47:12 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 09:47:44 INFO  FunctionLibrary:206 - 
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//*[@id='domain_result']/table/tbody/tr/td[2]/div[1]"}
+Command duration or timeout: 10.38 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: e9f112d4-822d-4079-bbb8-fe40ee078173
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=30.0}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.projectname.base.Keywords.welement(Keywords.java:364)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:260)
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:218)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:90)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//*[@id='domain_result']/table/tbody/tr/td[2]/div[1]"}
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous5971257327990906728webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860:7)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous5971257327990906728webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396:5)
+2014-06-25 09:47:45 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-06-25 09:47:45 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:51:22 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 09:51:22 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 09:51:22 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 09:51:22 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 09:51:22 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 09:51:22 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 09:51:22 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 09:51:22 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 09:51:41 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:51:41 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:51:41 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 09:51:41 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 09:51:41 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 09:51:41 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 09:51:41 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 09:51:42 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:51:52 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 09:51:53 INFO  FunctionLibrary:227 - already registered
+2014-06-25 09:51:53 INFO  FunctionLibrary:228 - already registered
+2014-06-25 09:51:53 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 09:51:53 INFO  FunctionLibrary:227 - Available
+2014-06-25 09:51:53 INFO  FunctionLibrary:228 - Available
+2014-06-25 09:51:53 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 09:51:53 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 09:51:55 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:52:05 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 09:52:05 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 09:52:06 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:52:16 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 09:52:48 INFO  FunctionLibrary:206 - 
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//*[@id='contLeft']/h2/span"}
+Command duration or timeout: 10.32 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: 4f36caf2-89d0-4d06-bee4-8d443d651c05
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=30.0}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.projectname.base.Keywords.welement(Keywords.java:364)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:260)
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:218)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:90)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//*[@id='contLeft']/h2/span"}
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous8512518850779989153webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860:7)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous8512518850779989153webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396:5)
+2014-06-25 09:52:48 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-06-25 09:52:48 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:54:13 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 09:54:13 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 09:54:13 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 09:54:13 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 09:54:13 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 09:54:13 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 09:54:13 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 09:54:13 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 09:54:33 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:54:33 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:54:33 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 09:54:33 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 09:54:33 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 09:54:33 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 09:54:34 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 09:54:35 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:54:45 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 09:54:45 INFO  FunctionLibrary:227 - already registered
+2014-06-25 09:54:45 INFO  FunctionLibrary:228 - already registered
+2014-06-25 09:54:45 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 09:54:45 INFO  FunctionLibrary:227 - Available
+2014-06-25 09:54:45 INFO  FunctionLibrary:228 - Available
+2014-06-25 09:54:45 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 09:54:45 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 09:54:48 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:54:58 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:55:08 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 09:55:08 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 09:55:08 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:55:18 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 09:55:50 INFO  FunctionLibrary:206 - 
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//*[@id='contLeft']/h2/span"}
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: 18a149d7-e969-4101-bf01-550d0ee7268d
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=30.0}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.projectname.base.Keywords.welement(Keywords.java:364)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:260)
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:218)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:90)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//*[@id='contLeft']/h2/span"}
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous4661876541582501424webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860:7)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous4661876541582501424webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396:5)
+2014-06-25 09:55:50 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-06-25 09:55:50 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:58:59 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 09:58:59 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 09:58:59 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 09:58:59 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 09:58:59 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 09:58:59 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 09:58:59 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 09:58:59 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 09:59:16 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:59:16 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 09:59:16 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 09:59:16 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 09:59:16 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 09:59:16 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 09:59:16 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 09:59:17 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:59:27 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 09:59:44 INFO  FunctionLibrary:227 - already registered
+2014-06-25 09:59:44 INFO  FunctionLibrary:228 - already registered
+2014-06-25 09:59:44 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 09:59:44 INFO  FunctionLibrary:227 - Available
+2014-06-25 09:59:44 INFO  FunctionLibrary:228 - Available
+2014-06-25 09:59:44 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 09:59:45 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 09:59:48 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 09:59:58 INFO  FunctionLibrary:64 - Clicking on Button domain_search
+2014-06-25 09:59:58 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 09:59:58 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 09:59:58 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 10:00:08 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 10:00:08 INFO  FunctionLibrary:227 - available
+2014-06-25 10:00:08 INFO  FunctionLibrary:228 - available
+2014-06-25 10:00:08 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-06-25 10:00:09 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 10:47:44 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 10:47:44 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 10:47:44 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 10:47:44 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 10:47:44 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 10:47:44 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 10:47:44 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 10:47:44 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 10:48:05 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 10:48:05 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 10:48:05 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 10:48:05 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 10:48:05 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 10:48:05 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 10:48:06 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 10:48:07 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 10:48:17 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 10:48:17 INFO  FunctionLibrary:227 - already registered
+2014-06-25 10:48:17 INFO  FunctionLibrary:228 - already registered
+2014-06-25 10:48:17 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 10:48:49 INFO  FunctionLibrary:206 - 
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//*[@id='domain_suggestions']/table/tbody/tr[2]/td/table/tbody/tr[1]/td[4]"}
+Command duration or timeout: 10.27 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: d769b01c-2dc1-4464-912f-b686f983bc0a
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=30.0}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.projectname.base.Keywords.welement(Keywords.java:364)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:260)
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:218)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:90)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//*[@id='domain_suggestions']/table/tbody/tr[2]/td/table/tbody/tr[1]/td[4]"}
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous6400049489794171443webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860:7)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous6400049489794171443webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396:5)
+2014-06-25 10:48:50 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-06-25 10:48:50 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 10:48:50 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 10:48:50 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 10:48:50 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 10:48:53 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 10:49:03 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 10:49:03 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 10:49:03 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 10:49:13 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 10:49:45 INFO  FunctionLibrary:206 - 
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//*[@id='contLeft']/h2/span"}
+Command duration or timeout: 10.12 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: d769b01c-2dc1-4464-912f-b686f983bc0a
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=30.0}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.projectname.base.Keywords.welement(Keywords.java:364)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:260)
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:218)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:90)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//*[@id='contLeft']/h2/span"}
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous6400049489794171443webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860:7)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous6400049489794171443webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396:5)
+2014-06-25 10:49:46 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-06-25 11:23:13 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 11:23:13 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 11:23:13 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 11:23:13 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 11:23:13 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 11:23:13 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 11:23:13 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 11:23:13 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 11:23:36 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 11:23:36 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 11:23:36 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 11:23:36 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 11:23:37 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 11:23:37 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 11:23:38 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 11:23:48 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 11:23:49 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 11:23:50 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 11:24:00 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 11:24:00 INFO  FunctionLibrary:227 - available
+2014-06-25 11:24:00 INFO  FunctionLibrary:228 - available
+2014-06-25 11:24:00 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='contLeft']/p/a
+2014-06-25 11:24:00 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 11:24:10 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 11:28:43 INFO  FunctionLibrary:206 - 
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//html/body/div[2]/div/div[1]/div/div/form/div[1]/h1"}
+Command duration or timeout: 10.09 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: d3085d35-ad60-499f-b9b5-ad23c660fbed
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=30.0}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.projectname.base.Keywords.welement(Keywords.java:364)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:260)
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:218)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:90)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//html/body/div[2]/div/div[1]/div/div/form/div[1]/h1"}
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous8835126830149052124webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860:7)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous8835126830149052124webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396:5)
+2014-06-25 11:28:43 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-06-25 11:30:51 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 11:30:51 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 11:30:51 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 11:30:51 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 11:30:51 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 11:30:51 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 11:30:51 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 11:30:51 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 11:31:10 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 11:31:10 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 11:31:10 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 11:31:10 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 11:31:11 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 11:31:11 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 11:31:12 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 11:31:22 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 11:31:23 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 11:31:23 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 11:31:33 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 11:31:33 INFO  FunctionLibrary:227 - available
+2014-06-25 11:31:33 INFO  FunctionLibrary:228 - available
+2014-06-25 11:31:33 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='contLeft']/p/a
+2014-06-25 11:31:34 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 11:31:44 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 11:35:31 INFO  FunctionLibrary:206 - 
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//html/body/div[2]/div/div[1]/div/div/form/div[1]/h1"}
+Command duration or timeout: 10.27 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: 3ae9905b-c445-4bb5-90a9-6431cb9e7696
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=30.0}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.projectname.base.Keywords.welement(Keywords.java:364)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:260)
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:218)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:90)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//html/body/div[2]/div/div[1]/div/div/form/div[1]/h1"}
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous6961130880835189682webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860:7)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous6961130880835189682webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396:5)
+2014-06-25 11:35:31 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-06-25 11:39:27 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 11:39:27 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 11:39:27 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 11:39:27 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 11:39:27 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 11:39:27 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 11:39:27 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 11:39:27 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 11:39:48 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 11:39:48 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 11:39:48 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 11:39:48 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 11:39:48 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 11:39:48 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 11:39:51 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 11:40:01 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 11:40:01 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 11:40:02 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 11:40:12 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 11:40:12 INFO  FunctionLibrary:227 - available
+2014-06-25 11:40:12 INFO  FunctionLibrary:228 - available
+2014-06-25 11:40:12 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='contLeft']/p/a
+2014-06-25 11:40:12 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 11:40:22 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 11:40:45 INFO  FunctionLibrary:227 - Congratulations!
+2014-06-25 11:40:45 INFO  FunctionLibrary:228 - Congratulations!
+2014-06-25 11:40:45 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-06-25 11:43:21 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 11:43:21 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 11:43:21 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 11:43:21 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 11:43:21 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 11:43:21 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 11:43:21 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 11:43:22 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 11:43:37 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 11:43:37 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 11:43:37 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 11:43:38 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 11:43:38 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 11:43:38 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 11:43:38 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 11:43:38 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 11:43:48 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 11:44:20 INFO  FunctionLibrary:206 - 
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//*[@id='domain_result']/table/tbody/tr/td[2]/div[1]"}
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: 9c2df8a9-2cf4-474a-8a9c-07c01fa8c211
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=30.0}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.projectname.base.Keywords.welement(Keywords.java:364)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:260)
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:218)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:90)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//*[@id='domain_result']/table/tbody/tr/td[2]/div[1]"}
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous8666204118330882333webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860:7)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous8666204118330882333webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396:5)
+2014-06-25 11:44:21 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-06-25 11:44:21 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 11:44:21 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 11:44:21 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 11:44:21 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 11:44:25 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 11:44:35 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 11:44:35 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 11:44:36 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 11:44:46 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 11:44:46 INFO  FunctionLibrary:227 - available
+2014-06-25 11:44:46 INFO  FunctionLibrary:228 - available
+2014-06-25 11:44:46 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='contLeft']/p/a
+2014-06-25 11:44:47 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 11:44:57 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 11:45:22 INFO  FunctionLibrary:227 - Congratulations!
+2014-06-25 11:45:22 INFO  FunctionLibrary:228 - Congratulations!
+2014-06-25 11:45:22 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-06-25 12:03:55 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 12:03:55 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 12:03:55 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 12:03:55 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 12:03:55 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 12:03:55 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 12:03:55 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 12:03:55 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 12:04:13 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 12:04:13 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 12:04:13 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 12:04:13 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 12:04:13 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 12:04:13 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 12:04:13 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 12:04:16 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 12:04:17 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 12:04:18 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 12:04:28 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 12:05:00 INFO  FunctionLibrary:206 - 
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//*[@id='domain_result']/table/tbody/tr/td[2]/div[1]"}
+Command duration or timeout: 10.13 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: 68489e37-a0b4-4b54-b2c1-4bb13d6ecf1f
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=30.0}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.projectname.base.Keywords.welement(Keywords.java:364)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:260)
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:218)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:90)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//*[@id='domain_result']/table/tbody/tr/td[2]/div[1]"}
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous521670975717363337webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860:7)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous521670975717363337webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396:5)
+2014-06-25 12:05:01 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-06-25 12:05:57 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 12:05:57 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 12:05:57 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 12:05:57 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 12:05:57 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 12:05:57 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 12:05:57 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 12:05:58 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 12:06:14 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 12:06:14 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 12:06:14 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 12:06:14 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 12:06:14 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 12:06:14 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 12:06:14 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 12:06:16 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 12:06:17 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 12:06:18 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 12:06:28 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 12:06:59 INFO  FunctionLibrary:206 - 
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//*[@id='domain_result']/table/tbody/tr/td[2]/div[1]"}
+Command duration or timeout: 10.14 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: 372e81b8-d8c3-430f-8fea-de30ec3e7b7a
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=30.0}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.projectname.base.Keywords.welement(Keywords.java:364)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:260)
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:218)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:90)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//*[@id='domain_result']/table/tbody/tr/td[2]/div[1]"}
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous7619755679722885770webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860:7)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous7619755679722885770webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396:5)
+2014-06-25 12:07:00 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-06-25 12:08:27 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 12:08:27 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 12:08:27 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 12:08:28 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 12:08:28 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 12:08:28 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 12:08:28 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 12:08:28 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 12:08:43 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 12:08:43 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 12:08:43 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 12:08:43 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 12:08:43 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 12:08:44 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 12:08:44 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 12:08:46 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 12:08:46 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 12:08:47 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 12:08:57 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 12:09:29 INFO  FunctionLibrary:206 - 
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//*[@id='domain_result']/table/tbody/tr/td[2]/div[1]"}
+Command duration or timeout: 10.22 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: 0784bfff-f327-4b66-bffd-17d7af01031b
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=30.0}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.projectname.base.Keywords.welement(Keywords.java:364)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:260)
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:218)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:90)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//*[@id='domain_result']/table/tbody/tr/td[2]/div[1]"}
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous4547824724259171156webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860:7)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous4547824724259171156webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396:5)
+2014-06-25 12:09:29 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-06-25 12:11:28 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 12:11:28 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 12:11:28 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 12:11:28 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 12:11:28 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 12:11:28 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 12:11:28 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 12:11:29 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 12:11:44 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 12:11:44 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 12:11:44 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 12:11:44 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 12:11:44 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 12:11:44 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 12:11:44 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 12:11:48 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 12:11:49 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 12:11:49 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 12:11:59 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 12:12:09 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 12:12:19 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 12:12:51 INFO  FunctionLibrary:206 - 
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//*[@id='domain_result']/table/tbody/tr/td[2]/div[1]"}
+Command duration or timeout: 10.15 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: 2ffaa8bf-d11a-4634-b71d-a97b0c828c48
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=30.0}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.projectname.base.Keywords.welement(Keywords.java:364)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:260)
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:218)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:90)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//*[@id='domain_result']/table/tbody/tr/td[2]/div[1]"}
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous5060179482513924260webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860:7)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous5060179482513924260webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396:5)
+2014-06-25 12:12:52 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-06-25 16:02:12 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 16:02:12 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 16:02:12 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 16:02:12 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 16:02:13 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 16:02:13 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 16:02:13 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 16:02:13 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 16:02:42 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 16:02:42 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 16:02:42 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 16:02:42 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 16:02:42 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 16:02:42 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 16:02:42 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 16:02:45 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 16:02:46 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 16:02:47 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 16:02:57 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 16:03:07 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 16:03:17 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 16:03:17 INFO  FunctionLibrary:227 - already registered
+2014-06-25 16:03:17 INFO  FunctionLibrary:228 - already registered
+2014-06-25 16:03:17 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 16:03:17 INFO  FunctionLibrary:64 - Clicking on Button MAKE AN OFFER
+2014-06-25 16:03:18 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-06-25 16:08:56 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 16:08:56 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 16:08:56 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 16:08:56 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 16:08:56 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 16:08:56 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 16:08:56 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 16:08:56 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 16:09:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 16:09:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 16:09:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 16:09:18 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 16:09:18 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 16:09:18 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 16:09:18 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 16:09:20 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 16:09:20 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 16:09:21 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 16:09:31 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 16:09:41 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 16:09:51 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 16:09:51 INFO  FunctionLibrary:227 - already registered
+2014-06-25 16:09:51 INFO  FunctionLibrary:228 - already registered
+2014-06-25 16:09:51 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 16:09:52 INFO  FunctionLibrary:64 - Clicking on Button MAKE AN OFFER
+2014-06-25 16:09:52 INFO  FunctionLibrary:97 - Switch to New Window
+2014-06-25 16:09:52 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-06-25 16:11:08 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 16:11:08 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 16:11:08 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 16:11:08 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 16:11:08 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 16:11:08 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 16:11:08 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 16:11:08 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 16:11:24 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 16:11:24 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 16:11:24 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 16:11:24 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 16:11:24 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 16:11:24 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 16:11:24 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 16:11:26 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 16:11:27 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 16:11:28 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 16:11:38 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 16:11:48 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 16:11:58 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 16:11:58 INFO  FunctionLibrary:227 - already registered
+2014-06-25 16:11:58 INFO  FunctionLibrary:228 - already registered
+2014-06-25 16:11:58 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 16:11:58 INFO  FunctionLibrary:64 - Clicking on Button MAKE AN OFFER
+2014-06-25 16:11:59 INFO  FunctionLibrary:97 - Switch to New Window
+2014-06-25 16:11:59 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-06-25 16:14:52 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 16:14:52 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 16:14:52 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 16:14:52 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 16:14:52 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 16:14:52 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 16:14:52 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 16:14:52 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 16:15:13 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 16:15:13 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 16:15:13 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 16:15:13 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 16:15:13 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 16:15:13 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 16:15:13 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 16:15:16 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 16:15:17 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 16:15:17 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 16:15:27 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 16:15:37 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 16:15:47 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 16:15:47 INFO  FunctionLibrary:227 - already registered
+2014-06-25 16:15:47 INFO  FunctionLibrary:228 - already registered
+2014-06-25 16:15:47 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 16:15:48 INFO  FunctionLibrary:64 - Clicking on Button MAKE AN OFFER
+2014-06-25 16:15:48 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 16:15:58 INFO  FunctionLibrary:97 - Switch to New Window
+2014-06-25 16:15:58 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 16:15:59 INFO  FunctionLibrary:227 - Domain Acquisition Service
+2014-06-25 16:15:59 INFO  FunctionLibrary:228 - Domain Acquisition Service
+2014-06-25 16:15:59 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-06-25 16:18:11 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 16:18:11 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 16:18:11 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 16:18:11 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 16:18:11 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 16:18:11 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 16:18:11 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 16:18:11 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 16:18:29 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 16:18:29 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 16:18:29 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 16:18:29 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 16:18:29 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 16:18:29 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 16:18:29 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 16:18:32 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 16:18:32 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 16:18:33 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 16:18:43 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 16:18:53 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 16:19:03 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 16:19:03 INFO  FunctionLibrary:227 - already registered
+2014-06-25 16:19:03 INFO  FunctionLibrary:228 - already registered
+2014-06-25 16:19:03 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 16:19:04 INFO  FunctionLibrary:64 - Clicking on Button MAKE AN OFFER
+2014-06-25 16:19:04 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 16:19:14 INFO  FunctionLibrary:97 - Switch to New Window
+2014-06-25 16:19:14 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 16:19:14 INFO  FunctionLibrary:227 - Domain Acquisition Service
+2014-06-25 16:19:14 INFO  FunctionLibrary:228 - Domain Acquisition Service
+2014-06-25 16:19:14 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 16:19:14 INFO  FunctionLibrary:227 - Status: This domain is already registered.
+2014-06-25 16:19:14 INFO  FunctionLibrary:228 - Status: This domain is already registered.
+2014-06-25 16:19:15 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-06-25 17:17:30 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-06-25 17:17:30 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-06-25 17:17:30 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-06-25 17:17:30 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-06-25 17:17:30 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-06-25 17:17:30 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-06-25 17:17:30 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-06-25 17:17:30 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-06-25 17:17:51 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 17:17:51 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 17:17:51 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 17:17:51 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 17:17:51 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 17:17:51 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 17:17:52 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 17:17:52 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 17:18:02 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 17:18:02 INFO  FunctionLibrary:227 - already registered
+2014-06-25 17:18:02 INFO  FunctionLibrary:228 - already registered
+2014-06-25 17:18:02 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 17:18:02 INFO  FunctionLibrary:227 - Available
+2014-06-25 17:18:02 INFO  FunctionLibrary:228 - Available
+2014-06-25 17:18:02 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 17:18:03 INFO  FunctionLibrary:191 - Verifying Text
+2014-06-25 17:18:05 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 17:18:15 INFO  FunctionLibrary:64 - Clicking on Button domain_search
+2014-06-25 17:18:15 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 17:18:16 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 17:18:16 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 17:18:26 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 17:18:26 INFO  FunctionLibrary:227 - available
+2014-06-25 17:18:26 INFO  FunctionLibrary:228 - available
+2014-06-25 17:18:26 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-06-25 17:18:26 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 17:18:26 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 17:18:26 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 17:18:26 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 17:18:28 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 17:18:38 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 17:18:38 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 17:18:39 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 17:18:49 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 17:19:20 INFO  FunctionLibrary:206 - 
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//*[@id='contLeft']/h2/span"}
+Command duration or timeout: 10.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: c9706cdf-d673-4789-8825-96607afc21d3
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=30.0}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.projectname.base.Keywords.welement(Keywords.java:364)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:260)
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:218)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:90)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//*[@id='contLeft']/h2/span"}
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous954547658021688562webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860:7)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous954547658021688562webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396:5)
+2014-06-25 17:19:21 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-06-25 17:19:21 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-06-25 17:19:21 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-06-25 17:19:22 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-06-25 17:19:22 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-06-25 17:19:24 INFO  FunctionLibrary:68 - Entering Data into domain_search
+2014-06-25 17:19:26 INFO  FunctionLibrary:64 - Clicking on Button goButton
+2014-06-25 17:19:26 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 17:19:36 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 17:19:46 INFO  FunctionLibrary:82 - Loading Page
+2014-06-25 17:19:56 INFO  FunctionLibrary:89 - Verifying Text
+2014-06-25 17:20:28 INFO  FunctionLibrary:206 - 
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//*[@id='domain_result']/table/tbody/tr/td[2]/div[1]"}
+Command duration or timeout: 10.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: c9706cdf-d673-4789-8825-96607afc21d3
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=30.0}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.projectname.base.Keywords.welement(Keywords.java:364)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:260)
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:218)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:90)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//*[@id='domain_result']/table/tbody/tr/td[2]/div[1]"}
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous954547658021688562webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860:7)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous954547658021688562webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396:5)
+2014-06-25 17:20:28 INFO  FunctionLibrary:185 - Test Scenario Result --Fail

@@ -1,0 +1,121 @@
+2014-06-17 17:13:54 INFO  FunctionLibrary:36 - Initialized All Resources Files
+2014-06-17 17:13:54 INFO  FunctionLibrary:38 - Creatng Driver Script Object
+2014-06-17 17:13:54 INFO  FunctionLibrary:40 - Creating Test Suite
+2014-06-17 17:13:54 INFO  FunctionLibrary:42 - Creating Test Suite For Email Report
+2014-06-17 17:13:54 INFO  FunctionLibrary:47 - Creating Suite In Detailed Test Report
+2014-06-17 17:13:54 INFO  FunctionLibrary:49 - Creating Suite In Mailing Report
+2014-06-17 17:13:54 INFO  FunctionLibrary:54 - Creating Excel Sheet For Test Results
+2014-06-17 17:13:54 INFO  FunctionLibrary:69 - Launching Google Chrome.......
+2014-06-17 17:14:31 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-17 17:14:31 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-17 17:14:31 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-17 17:14:31 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-17 17:14:31 INFO  FunctionLibrary:79 - Loading Page
+2014-06-17 17:14:41 INFO  FunctionLibrary:176 - Scroll down
+2014-06-17 17:14:41 INFO  FunctionLibrary:309 - Getting the value form WebPage-----
+2014-06-17 17:14:41 INFO  FunctionLibrary:735 - Type here for whois, domain and keyword results
+2014-06-17 17:14:41 INFO  FunctionLibrary:736 - Type here for whois, domain and keyword results
+2014-06-17 17:14:41 INFO  FunctionLibrary:65 - Entering Data into domain_search
+2014-06-17 17:14:41 INFO  FunctionLibrary:74 - Selecting DropDown Value .net
+2014-06-17 17:14:41 INFO  FunctionLibrary:61 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr[2]/td/table/tbody/tr/td[3]/a/img
+2014-06-17 17:14:42 INFO  FunctionLibrary:79 - Loading Page
+2014-06-17 17:14:52 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-17 17:14:52 INFO  FunctionLibrary:227 - newgt.net is available *
+2014-06-17 17:14:52 INFO  FunctionLibrary:228 - newgt.net is available *
+2014-06-17 17:14:52 INFO  FunctionLibrary:61 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div[2]/table/tbody/tr[3]/td/span/table/tbody/tr[1]/td/table/tbody/tr[2]/td[2]/table/tbody/tr[1]/td/table/tbody/tr/td[2]/div/a
+2014-06-17 17:14:52 INFO  FunctionLibrary:79 - Loading Page
+2014-06-17 17:15:02 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-17 17:15:09 INFO  FunctionLibrary:227 - Congratulations!
+2014-06-17 17:15:09 INFO  FunctionLibrary:228 - Congratulations!
+2014-06-17 17:15:09 INFO  FunctionLibrary:184 - Scroll down
+2014-06-17 17:15:09 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-17 17:15:09 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-17 17:15:09 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-17 17:15:09 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-17 17:15:09 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-17 17:15:09 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-17 17:15:09 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-17 17:15:10 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-17 17:15:10 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-17 17:15:10 INFO  FunctionLibrary:79 - Loading Page
+2014-06-17 17:15:20 INFO  FunctionLibrary:61 - Clicking on Button Domain Name Registration
+2014-06-17 17:15:20 INFO  FunctionLibrary:79 - Loading Page
+2014-06-17 17:15:30 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-17 17:15:30 INFO  FunctionLibrary:227 - Verio offers tons of FREE tools with every domain and FREE domain registration when you order a hosting plan.
+2014-06-17 17:15:30 INFO  FunctionLibrary:228 - Verio offers tons of FREE tools with every domain and FREE domain registration when you order a hosting plan.
+2014-06-17 17:15:30 INFO  FunctionLibrary:184 - Scroll down
+2014-06-17 17:15:32 INFO  FunctionLibrary:61 - Clicking on Button Sitemap
+2014-06-17 17:15:32 INFO  FunctionLibrary:79 - Loading Page
+2014-06-17 17:15:42 INFO  FunctionLibrary:184 - Scroll down
+2014-06-17 17:15:44 INFO  FunctionLibrary:79 - Loading Page
+2014-06-17 17:15:54 INFO  FunctionLibrary:61 - Clicking on Button Support
+2014-06-17 17:15:55 INFO  FunctionLibrary:79 - Loading Page
+2014-06-17 17:16:05 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-17 17:16:05 INFO  FunctionLibrary:227 - SELF SERVICE PORTAL
+2014-06-17 17:16:05 INFO  FunctionLibrary:228 - SELF SERVICE PORTAL
+2014-06-17 17:16:05 INFO  FunctionLibrary:79 - Loading Page
+2014-06-17 17:16:15 INFO  FunctionLibrary:184 - Scroll down
+2014-06-17 17:16:15 INFO  FunctionLibrary:61 - Clicking on Button Privacy Policy
+2014-06-17 17:16:18 INFO  FunctionLibrary:79 - Loading Page
+2014-06-17 17:16:28 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-17 17:16:30 INFO  FunctionLibrary:227 - Privacy Policy for Customer and Visitor Information
+2014-06-17 17:16:30 INFO  FunctionLibrary:228 - Privacy Policy for Customer and Visitor Information
+2014-06-17 17:16:30 INFO  FunctionLibrary:184 - Scroll down
+2014-06-17 17:16:30 INFO  FunctionLibrary:61 - Clicking on Button *** Terms and Conditions
+2014-06-17 17:16:32 INFO  FunctionLibrary:79 - Loading Page
+2014-06-17 17:16:42 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-17 17:16:42 INFO  FunctionLibrary:227 - TERMS AND CONDITIONS OF WHOIS.NET ("WHOIS.NET")
+2014-06-17 17:16:42 INFO  FunctionLibrary:228 - TERMS AND CONDITIONS OF WHOIS.NET ("WHOIS.NET")
+2014-06-17 17:16:42 INFO  FunctionLibrary:184 - Scroll down
+2014-06-17 17:16:44 INFO  FunctionLibrary:61 - Clicking on Button Quick Links
+2014-06-17 17:16:44 INFO  FunctionLibrary:79 - Loading Page
+2014-06-17 17:16:54 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-17 17:16:54 INFO  FunctionLibrary:227 - Shared Hosting | VPS Hosting | Dedicated Hosting | Ecommerce Hosting | Windows HostingUnix Hosting | Linux Hosting | Hosted Microsoft Exchange 2010 | Microsoft SharePoint Hosting | Whois Lookup
+2014-06-17 17:16:54 INFO  FunctionLibrary:228 - Shared Hosting | VPS Hosting | Dedicated Hosting | Ecommerce Hosting | Windows HostingUnix Hosting | Linux Hosting | Hosted Microsoft Exchange 2010 | Microsoft SharePoint Hosting | Whois Lookup
+2014-06-17 17:16:54 INFO  FunctionLibrary:61 - Clicking on Button Website Hosting
+2014-06-17 17:16:54 INFO  FunctionLibrary:79 - Loading Page
+2014-06-17 17:17:04 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-17 17:17:05 INFO  FunctionLibrary:227 - New Products!
+2014-06-17 17:17:05 INFO  FunctionLibrary:228 - New Products!
+2014-06-17 17:17:05 INFO  FunctionLibrary:184 - Scroll down
+2014-06-17 17:17:07 INFO  FunctionLibrary:61 - Clicking on Button null
+2014-06-17 17:17:08 INFO  FunctionLibrary:200 - 
+java.lang.IllegalArgumentException: Cannot find elements when the XPath expression is null.
+	at org.openqa.selenium.By.xpath(By.java:112)
+	at com.projectname.base.Keywords.welement(Keywords.java:355)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:240)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:62)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:183)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:80)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2014-06-17 17:17:08 INFO  FunctionLibrary:186 - Test Scenario Result --Fail
+2014-06-17 17:17:08 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-17 17:17:08 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-17 17:17:08 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-17 17:17:08 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-17 17:17:08 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-17 17:17:08 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-17 17:17:08 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File

@@ -1,0 +1,94 @@
+2014-07-18 18:24:38 INFO  FunctionLibrary:39 - Initialized All Resources Files
+2014-07-18 18:24:38 INFO  FunctionLibrary:41 - Creatng Driver Script Object
+2014-07-18 18:24:38 INFO  FunctionLibrary:43 - Creating Test Suite
+2014-07-18 18:24:38 INFO  FunctionLibrary:45 - Creating Test Suite For Email Report
+2014-07-18 18:24:38 INFO  FunctionLibrary:51 - Creating Suite In Detailed Test Report
+2014-07-18 18:24:38 INFO  FunctionLibrary:53 - Creating Suite In Mailing Report
+2014-07-18 18:24:38 INFO  FunctionLibrary:58 - Creating Excel Sheet For Test Results
+2014-07-18 18:24:38 INFO  FunctionLibrary:115 - Launching Safari .......
+2014-07-18 18:25:45 INFO  FunctionLibrary:39 - Initialized All Resources Files
+2014-07-18 18:25:45 INFO  FunctionLibrary:41 - Creatng Driver Script Object
+2014-07-18 18:25:45 INFO  FunctionLibrary:43 - Creating Test Suite
+2014-07-18 18:25:45 INFO  FunctionLibrary:45 - Creating Test Suite For Email Report
+2014-07-18 18:25:45 INFO  FunctionLibrary:51 - Creating Suite In Detailed Test Report
+2014-07-18 18:25:45 INFO  FunctionLibrary:53 - Creating Suite In Mailing Report
+2014-07-18 18:25:45 INFO  FunctionLibrary:58 - Creating Excel Sheet For Test Results
+2014-07-18 18:25:45 INFO  FunctionLibrary:88 - Launching Mozilla Firefox.......
+2014-07-18 18:26:06 INFO  FunctionLibrary:153 - Selecting Test Scenario From Controller File
+2014-07-18 18:26:06 INFO  FunctionLibrary:153 - Selecting Test Scenario From Controller File
+2014-07-18 18:26:06 INFO  FunctionLibrary:153 - Selecting Test Scenario From Controller File
+2014-07-18 18:26:06 INFO  FunctionLibrary:153 - Selecting Test Scenario From Controller File
+2014-07-18 18:26:06 INFO  FunctionLibrary:153 - Selecting Test Scenario From Controller File
+2014-07-18 18:26:06 INFO  FunctionLibrary:153 - Selecting Test Scenario From Controller File
+2014-07-18 18:26:06 INFO  FunctionLibrary:157 - Navigate To Test Scenario Sheet
+2014-07-18 18:26:07 INFO  FunctionLibrary:163 - Loading Test Data Work Book
+2014-07-18 18:26:07 INFO  FunctionLibrary:174 - Passing Parameters Driver Script to ContolScript
+2014-07-18 18:26:07 INFO  FunctionLibrary:180 - Navigating to ---https://qawhois.team-center.net/
+2014-07-18 18:26:08 INFO  FunctionLibrary:235 - Loading Page
+2014-07-18 18:26:19 INFO  FunctionLibrary:169 - Mouse Over to //*[@id='share']/a/img
+2014-07-18 18:26:19 INFO  FunctionLibrary:71 - Clicking on Button a2apage_EMAIL
+2014-07-18 18:26:20 INFO  FunctionLibrary:71 - Clicking on Button Google Gmail
+2014-07-18 18:26:21 INFO  FunctionLibrary:235 - Loading Page
+2014-07-18 18:26:31 INFO  FunctionLibrary:213 - Switch to New Window
+2014-07-18 18:26:31 INFO  FunctionLibrary:231 - Verifying Page Title
+2014-07-18 18:26:31 INFO  FunctionLibrary:846 - Excepted Data-------->>Gmail - Email from Google
+2014-07-18 18:26:31 INFO  FunctionLibrary:847 - Actual Data---------->>Gmail - Email from Google
+2014-07-18 18:26:31 INFO  FunctionLibrary:218 - Switching to Parent Window
+2014-07-18 18:26:31 INFO  FunctionLibrary:169 - Mouse Over to //*[@id='share']/a/img
+2014-07-18 18:26:31 INFO  FunctionLibrary:71 - Clicking on Button a2apage_EMAIL
+2014-07-18 18:26:31 INFO  FunctionLibrary:71 - Clicking on Button Yahoo Mail
+2014-07-18 18:26:32 INFO  FunctionLibrary:235 - Loading Page
+2014-07-18 18:26:42 INFO  FunctionLibrary:213 - Switch to New Window
+2014-07-18 18:26:42 INFO  FunctionLibrary:231 - Verifying Page Title
+2014-07-18 18:26:48 INFO  FunctionLibrary:846 - Excepted Data-------->>Sign in to Yahoo
+2014-07-18 18:26:48 INFO  FunctionLibrary:847 - Actual Data---------->>Sign in to Yahoo
+2014-07-18 18:26:48 INFO  FunctionLibrary:218 - Switching to Parent Window
+2014-07-18 18:26:49 INFO  FunctionLibrary:169 - Mouse Over to //*[@id='share']/a/img
+2014-07-18 18:26:50 INFO  FunctionLibrary:71 - Clicking on Button a2apage_DEFAULT
+2014-07-18 18:26:50 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='a2apage_linkedin']/span
+2014-07-18 18:26:51 INFO  FunctionLibrary:235 - Loading Page
+2014-07-18 18:27:01 INFO  FunctionLibrary:213 - Switch to New Window
+2014-07-18 18:27:01 INFO  FunctionLibrary:231 - Verifying Page Title
+2014-07-18 18:27:01 INFO  FunctionLibrary:846 - Excepted Data-------->>Sign Up | LinkedIn
+2014-07-18 18:27:01 INFO  FunctionLibrary:847 - Actual Data---------->>Sign Up | LinkedIn
+2014-07-18 18:27:01 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-18 18:27:01 INFO  FunctionLibrary:237 - Excepted Data-------->>To join LinkedIn, sign up below...it's free!
+2014-07-18 18:27:01 INFO  FunctionLibrary:238 - Actual Data---------->>To join LinkedIn, sign up below...it's free!
+2014-07-18 18:27:01 INFO  FunctionLibrary:218 - Switching to Parent Window
+2014-07-18 18:27:01 INFO  FunctionLibrary:169 - Mouse Over to //*[@id='share']/a/img
+2014-07-18 18:27:01 INFO  FunctionLibrary:71 - Clicking on Button a2apage_DEFAULT
+2014-07-18 18:27:01 INFO  FunctionLibrary:71 - Clicking on Button Twitter
+2014-07-18 18:27:02 INFO  FunctionLibrary:235 - Loading Page
+2014-07-18 18:27:12 INFO  FunctionLibrary:213 - Switch to New Window
+2014-07-18 18:27:12 INFO  FunctionLibrary:227 - Verifying Text
+2014-07-18 18:27:12 INFO  FunctionLibrary:237 - Excepted Data-------->>Whois Lookup & IP | Whois.net https://qawhois.team-center.net/
+2014-07-18 18:27:12 INFO  FunctionLibrary:238 - Actual Data---------->>Whois Lookup & IP | Whois.net https://qawhois.team-center.net/
+2014-07-18 18:27:12 INFO  FunctionLibrary:218 - Switching to Parent Window
+2014-07-18 18:27:12 INFO  FunctionLibrary:169 - Mouse Over to //*[@id='share']/a/img
+2014-07-18 18:27:13 INFO  FunctionLibrary:71 - Clicking on Button a2apage_DEFAULT
+2014-07-18 18:27:13 INFO  FunctionLibrary:235 - Loading Page
+2014-07-18 18:27:23 INFO  FunctionLibrary:71 - Clicking on Button //*[@id='a2apage_powered_by']/a
+2014-07-18 18:27:44 INFO  FunctionLibrary:235 - Loading Page
+2014-07-18 18:27:54 INFO  FunctionLibrary:213 - Switch to New Window
+2014-07-18 18:27:54 INFO  FunctionLibrary:231 - Verifying Page Title
+2014-07-18 18:27:54 INFO  FunctionLibrary:846 - Excepted Data-------->>AddToAny Share Buttons, Social Share Buttons and Icons
+2014-07-18 18:27:54 INFO  FunctionLibrary:847 - Actual Data---------->>Post a Tweet on Twitter
+2014-07-18 18:27:54 INFO  FunctionLibrary:853 - Error in text - //html/head/title
+2014-07-18 18:27:54 INFO  FunctionLibrary:854 - Actual - Post a Tweet on Twitter
+2014-07-18 18:27:54 INFO  FunctionLibrary:855 - Expected -AddToAny Share Buttons, Social Share Buttons and Icons
+2014-07-18 18:27:54 FATAL FunctionLibrary:856 - test verify
+2014-07-18 18:27:54 ERROR FunctionLibrary:857 - error
+2014-07-18 18:27:55 INFO  FunctionLibrary:179 - Test Scenario Result --Fail
+2014-07-18 18:27:55 INFO  FunctionLibrary:153 - Selecting Test Scenario From Controller File
+2014-07-18 18:27:55 INFO  FunctionLibrary:153 - Selecting Test Scenario From Controller File
+2014-07-18 18:27:55 INFO  FunctionLibrary:153 - Selecting Test Scenario From Controller File
+2014-07-18 18:27:55 INFO  FunctionLibrary:153 - Selecting Test Scenario From Controller File
+2014-07-18 18:27:55 INFO  FunctionLibrary:153 - Selecting Test Scenario From Controller File
+2014-07-18 18:27:55 INFO  FunctionLibrary:153 - Selecting Test Scenario From Controller File
+2014-07-18 18:27:55 INFO  FunctionLibrary:153 - Selecting Test Scenario From Controller File
+2014-07-18 18:27:55 INFO  FunctionLibrary:153 - Selecting Test Scenario From Controller File
+2014-07-18 18:27:55 INFO  FunctionLibrary:153 - Selecting Test Scenario From Controller File
+2014-07-18 18:27:55 INFO  FunctionLibrary:153 - Selecting Test Scenario From Controller File
+2014-07-18 18:27:55 INFO  FunctionLibrary:153 - Selecting Test Scenario From Controller File
+2014-07-18 18:27:55 INFO  FunctionLibrary:153 - Selecting Test Scenario From Controller File
+2014-07-18 18:27:55 INFO  FunctionLibrary:153 - Selecting Test Scenario From Controller File

@@ -1,0 +1,858 @@
+2014-07-01 10:49:25 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-01 10:49:25 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-01 10:49:25 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-01 10:49:25 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-01 10:49:25 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-01 10:49:25 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-01 10:49:25 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-01 10:49:25 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-01 10:49:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 10:49:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 10:49:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 10:49:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 10:49:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 10:49:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 10:49:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 10:49:58 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-01 10:49:58 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-01 10:49:58 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-01 10:50:00 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 10:50:10 INFO  FunctionLibrary:188 - Switch to frame------
+2014-07-01 10:50:11 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='l']
+2014-07-01 10:50:11 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 10:50:21 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 10:50:21 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 10:50:21 INFO  FunctionLibrary:232 - http://www.whois.net
+2014-07-01 10:50:21 INFO  FunctionLibrary:233 - http://www.whois.net
+2014-07-01 10:50:21 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 10:50:21 INFO  FunctionLibrary:188 - Switch to frame------
+2014-07-01 10:50:22 INFO  FunctionLibrary:64 - Clicking on Button //div/div/span/div/div/div/div
+2014-07-01 10:50:22 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-01 10:51:13 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-01 10:51:13 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-01 10:51:13 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-01 10:51:13 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-01 10:51:13 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-01 10:51:13 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-01 10:51:13 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-01 10:51:14 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-01 10:51:40 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 10:51:40 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 10:51:40 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 10:51:40 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 10:51:40 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 10:51:40 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 10:51:40 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 10:51:40 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-01 10:51:40 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-01 10:51:40 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-01 10:51:43 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 10:51:53 INFO  FunctionLibrary:188 - Switch to frame------
+2014-07-01 10:51:53 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='l']
+2014-07-01 10:51:54 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 10:52:04 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 10:52:04 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 10:52:04 INFO  FunctionLibrary:232 - http://www.whois.net
+2014-07-01 10:52:04 INFO  FunctionLibrary:233 - http://www.whois.net
+2014-07-01 10:52:04 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 10:52:04 INFO  FunctionLibrary:188 - Switch to frame------
+2014-07-01 10:52:04 INFO  FunctionLibrary:64 - Clicking on Button //div/div/span/div/div/div/div
+2014-07-01 10:52:04 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-01 10:55:08 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-01 10:55:08 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-01 10:55:08 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-01 10:55:08 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-01 10:55:08 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-01 10:55:08 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-01 10:55:08 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-01 10:55:08 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-01 10:55:46 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 10:55:46 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 10:55:46 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 10:55:46 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 10:55:46 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 10:55:46 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 10:55:46 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 10:55:46 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-01 10:55:46 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-01 10:55:46 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-01 10:55:52 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 10:56:02 INFO  FunctionLibrary:188 - Switch to frame------
+2014-07-01 10:56:04 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='l']
+2014-07-01 10:56:04 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 10:56:14 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 10:56:14 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 10:56:18 INFO  FunctionLibrary:232 - http://www.whois.net
+2014-07-01 10:56:18 INFO  FunctionLibrary:233 - http://www.whois.net
+2014-07-01 10:56:18 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 10:56:18 INFO  FunctionLibrary:188 - Switch to frame------
+2014-07-01 10:56:18 INFO  FunctionLibrary:64 - Clicking on Button //div/div/span/div/div/div/div
+2014-07-01 10:56:19 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 10:56:19 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 10:56:20 INFO  FunctionLibrary:232 - Sign in to continue to Google+
+2014-07-01 10:56:20 INFO  FunctionLibrary:233 - Sign in to continue to Google+
+2014-07-01 10:56:20 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 10:56:20 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-01 11:12:52 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-01 11:12:52 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-01 11:12:52 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-01 11:12:52 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-01 11:12:52 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-01 11:12:52 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-01 11:12:52 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-01 11:12:52 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-01 11:13:15 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:13:15 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:13:15 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:13:15 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:13:15 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:13:15 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:13:15 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:13:15 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:13:15 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-01 11:13:15 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-01 11:13:15 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-01 11:13:17 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 11:13:27 INFO  FunctionLibrary:64 - Clicking on Button VPS Hosting
+2014-07-01 11:13:28 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 11:13:38 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 11:13:38 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 11:13:43 INFO  FunctionLibrary:232 - ADVANCED VPS HOSTING
+2014-07-01 11:13:43 INFO  FunctionLibrary:233 - 
+2014-07-01 11:13:43 INFO  FunctionLibrary:239 - Error in text - //*[@id='header3']
+2014-07-01 11:13:43 INFO  FunctionLibrary:240 - Actual - 
+2014-07-01 11:13:43 INFO  FunctionLibrary:241 - Expected -ADVANCED VPS HOSTING
+2014-07-01 11:13:43 FATAL FunctionLibrary:242 - test verify
+2014-07-01 11:13:43 ERROR FunctionLibrary:243 - error
+2014-07-01 11:13:50 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-07-01 11:16:59 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-01 11:16:59 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-01 11:16:59 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-01 11:16:59 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-01 11:16:59 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-01 11:16:59 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-01 11:16:59 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-01 11:16:59 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-01 11:17:29 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:17:29 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:17:29 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:17:29 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:17:29 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:17:29 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:17:29 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:17:29 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:17:29 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-01 11:17:29 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-01 11:17:29 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-01 11:17:32 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 11:17:42 INFO  FunctionLibrary:64 - Clicking on Button VPS Hosting
+2014-07-01 11:17:43 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 11:17:53 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 11:17:53 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-01 11:22:50 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-01 11:22:50 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-01 11:22:50 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-01 11:22:50 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-01 11:22:50 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-01 11:22:50 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-01 11:22:50 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-01 11:22:50 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-01 11:23:12 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:23:12 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:23:12 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:23:12 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:23:12 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:23:12 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:23:12 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:23:12 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:23:12 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-01 11:23:12 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-01 11:23:12 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-01 11:23:15 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 11:23:25 INFO  FunctionLibrary:64 - Clicking on Button VPS Hosting
+2014-07-01 11:23:26 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 11:23:36 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 11:23:36 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 11:23:40 INFO  FunctionLibrary:232 - Use VPS Hosting to Power More Demanding Websites in a Virtual Private Server Environment.
+2014-07-01 11:23:40 INFO  FunctionLibrary:233 - Use VPS Hosting to Power More Demanding Websites in a Virtual Private Server Environment.
+2014-07-01 11:23:40 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-01 11:32:23 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-01 11:32:23 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-01 11:32:23 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-01 11:32:23 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-01 11:32:23 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-01 11:32:23 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-01 11:32:23 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-01 11:32:23 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-01 11:32:41 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:32:41 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:32:41 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:32:41 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:32:41 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:32:41 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:32:41 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:32:41 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:32:41 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-01 11:32:41 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-01 11:32:41 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-01 11:32:43 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 11:32:53 INFO  FunctionLibrary:64 - Clicking on Button VPS Hosting
+2014-07-01 11:32:54 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 11:33:04 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 11:33:04 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 11:33:08 INFO  FunctionLibrary:232 - Use VPS Hosting to Power More Demanding Websites in a Virtual Private Server Environment.
+2014-07-01 11:33:08 INFO  FunctionLibrary:233 - Use VPS Hosting to Power More Demanding Websites in a Virtual Private Server Environment.
+2014-07-01 11:33:08 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 11:33:08 INFO  FunctionLibrary:64 - Clicking on Button Dedicated Hosting
+2014-07-01 11:33:08 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 11:33:18 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 11:33:18 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 11:33:18 INFO  FunctionLibrary:232 - Dedicated Web Hosting Delivers the Security of Your Own Server
+2014-07-01 11:33:18 INFO  FunctionLibrary:233 - Dedicated Web Hosting Delivers the Security of Your Own Server
+2014-07-01 11:33:18 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-01 11:43:05 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-01 11:43:05 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-01 11:43:05 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-01 11:43:05 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-01 11:43:05 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-01 11:43:05 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-01 11:43:05 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-01 11:43:06 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-01 11:43:24 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:43:24 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:43:24 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:43:24 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:43:24 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:43:24 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:43:24 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:43:24 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 11:43:24 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-01 11:43:24 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-01 11:43:24 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-01 11:43:26 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 11:43:36 INFO  FunctionLibrary:64 - Clicking on Button VPS Hosting
+2014-07-01 11:43:37 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 11:43:47 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 11:43:47 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 11:43:49 INFO  FunctionLibrary:232 - Use VPS Hosting to Power More Demanding Websites in a Virtual Private Server Environment.
+2014-07-01 11:43:49 INFO  FunctionLibrary:233 - Use VPS Hosting to Power More Demanding Websites in a Virtual Private Server Environment.
+2014-07-01 11:43:49 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 11:43:50 INFO  FunctionLibrary:64 - Clicking on Button Dedicated Hosting
+2014-07-01 11:43:50 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 11:44:00 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 11:44:00 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 11:44:00 INFO  FunctionLibrary:232 - Dedicated Web Hosting Delivers the Security of Your Own Server
+2014-07-01 11:44:00 INFO  FunctionLibrary:233 - Dedicated Web Hosting Delivers the Security of Your Own Server
+2014-07-01 11:44:00 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 11:44:00 INFO  FunctionLibrary:64 - Clicking on Button Shared Hosting
+2014-07-01 11:44:01 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 11:44:11 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 11:44:11 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 11:44:11 INFO  FunctionLibrary:232 - Get the Online Tools You Need to Succeed with Verio's Shared Web Hosting
+2014-07-01 11:44:11 INFO  FunctionLibrary:233 - Get the Online Tools You Need to Succeed with Verio's Shared Web Hosting
+2014-07-01 11:44:11 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-01 12:21:07 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-01 12:21:07 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-01 12:21:07 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-01 12:21:07 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-01 12:21:07 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-01 12:21:07 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-01 12:21:07 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-01 12:21:07 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-01 12:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:21:28 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:21:28 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-01 12:21:28 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-01 12:21:28 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-01 12:21:31 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 12:21:41 INFO  FunctionLibrary:64 - Clicking on Button VPS Hosting
+2014-07-01 12:21:41 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 12:21:51 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 12:21:52 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 12:25:54 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-01 12:25:54 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-01 12:25:54 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-01 12:25:54 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-01 12:25:54 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-01 12:25:54 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-01 12:25:54 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-01 12:25:54 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-01 12:26:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:26:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:26:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:26:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:26:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:26:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:26:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:26:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:26:11 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:26:11 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-01 12:26:12 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-01 12:26:12 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-01 12:26:14 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 12:26:24 INFO  FunctionLibrary:64 - Clicking on Button lmToggle
+2014-07-01 12:26:24 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-01 12:31:46 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-01 12:31:46 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-01 12:31:46 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-01 12:31:46 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-01 12:31:46 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-01 12:31:46 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-01 12:31:46 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-01 12:31:46 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-01 12:32:03 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:32:03 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:32:03 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:32:03 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:32:03 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:32:03 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:32:03 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:32:03 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:32:03 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:32:03 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-01 12:32:04 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-01 12:32:04 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-01 12:32:06 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 12:32:16 INFO  FunctionLibrary:64 - Clicking on Button lmToggle
+2014-07-01 12:32:16 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 12:32:16 INFO  FunctionLibrary:232 - Our WhoIs lookup is designed to help you perform a variety of whois lookup functions. WhoIs lets you perform a domain whois search, whois IP lookup and search the whois database for relevant information on domain registration and availability. This can help provide insight into a domain's history and additional information. Use WhoIs lookup anytime you want to perform a search to see who owns a domain name, how many pages from a site are listed with Google or even search WhoIs address listings for a website's owner.
+2014-07-01 12:32:16 INFO  FunctionLibrary:233 - Our WhoIs lookup is designed to help you perform a variety of whois lookup functions. WhoIs lets you perform a domain whois search, whois IP lookup and search the whois database for relevant information on domain registration and availability. This can help provide insight into a domain's history and additional information. Use WhoIs lookup anytime you want to perform a search to see who owns a domain name, how many pages from a site are listed with Google or even search WhoIs address listings for a website's owner.
+2014-07-01 12:32:16 INFO  FunctionLibrary:64 - Clicking on Button lmToggle
+2014-07-01 12:32:17 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-01 12:35:56 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-01 12:35:56 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-01 12:35:56 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-01 12:35:56 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-01 12:35:56 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-01 12:35:56 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-01 12:35:56 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-01 12:35:56 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-01 12:36:16 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:36:16 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:36:16 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:36:16 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:36:16 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:36:16 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:36:16 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-01 12:36:16 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-01 12:36:16 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-01 12:36:19 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 12:36:29 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 12:36:29 INFO  FunctionLibrary:64 - Clicking on Button a2apage_EMAIL
+2014-07-01 12:36:30 INFO  FunctionLibrary:64 - Clicking on Button Google Gmail
+2014-07-01 12:36:31 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 12:36:41 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 12:36:41 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 12:36:41 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 12:36:41 INFO  FunctionLibrary:64 - Clicking on Button a2apage_EMAIL
+2014-07-01 12:36:41 INFO  FunctionLibrary:64 - Clicking on Button Yahoo Mail
+2014-07-01 12:36:42 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 12:36:52 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 12:36:52 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 12:36:52 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 12:36:52 INFO  FunctionLibrary:64 - Clicking on Button a2apage_DEFAULT
+2014-07-01 12:36:52 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='a2apage_linkedin']/span
+2014-07-01 12:36:53 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 12:37:03 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 12:37:03 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 12:37:04 INFO  FunctionLibrary:232 - To join LinkedIn, sign up below...it's free!
+2014-07-01 12:37:04 INFO  FunctionLibrary:233 - To join LinkedIn, sign up below...it's free!
+2014-07-01 12:37:04 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 12:37:04 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 12:37:04 INFO  FunctionLibrary:64 - Clicking on Button a2apage_DEFAULT
+2014-07-01 12:37:05 INFO  FunctionLibrary:64 - Clicking on Button Twitter
+2014-07-01 12:37:05 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 12:37:15 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 12:37:16 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 12:37:48 INFO  FunctionLibrary:234 - 
+java.lang.NullPointerException
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:230)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:211)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2014-07-01 12:37:48 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-07-01 12:37:48 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:37:48 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-01 12:37:48 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-01 12:37:48 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-01 12:37:51 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 12:38:01 INFO  FunctionLibrary:188 - Switch to frame------
+2014-07-01 12:38:01 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='l']
+2014-07-01 12:38:01 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 12:38:11 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 12:38:12 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 12:38:12 INFO  FunctionLibrary:232 - http://www.whois.net
+2014-07-01 12:38:12 INFO  FunctionLibrary:233 - http://www.whois.net
+2014-07-01 12:38:12 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 12:38:13 INFO  FunctionLibrary:188 - Switch to frame------
+2014-07-01 12:38:13 INFO  FunctionLibrary:64 - Clicking on Button //div/div/span/div/div/div/div
+2014-07-01 12:38:14 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 12:38:15 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 12:38:16 INFO  FunctionLibrary:232 - Sign in to continue to Google+
+2014-07-01 12:38:16 INFO  FunctionLibrary:233 - Sign in to continue to Google+
+2014-07-01 12:38:16 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 12:38:16 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-01 12:38:16 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:38:16 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-01 12:38:16 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-01 12:38:16 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-01 12:38:19 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 12:38:29 INFO  FunctionLibrary:64 - Clicking on Button VPS Hosting
+2014-07-01 12:38:30 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 12:38:40 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 12:38:41 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 12:38:43 INFO  FunctionLibrary:232 - Use VPS Hosting to Power More Demanding Websites in a Virtual Private Server Environment.
+2014-07-01 12:38:43 INFO  FunctionLibrary:233 - Use VPS Hosting to Power More Demanding Websites in a Virtual Private Server Environment.
+2014-07-01 12:38:43 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 12:38:43 INFO  FunctionLibrary:64 - Clicking on Button Dedicated Hosting
+2014-07-01 12:38:43 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 12:38:53 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 12:38:54 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 12:38:54 INFO  FunctionLibrary:232 - Dedicated Web Hosting Delivers the Security of Your Own Server
+2014-07-01 12:38:54 INFO  FunctionLibrary:233 - Dedicated Web Hosting Delivers the Security of Your Own Server
+2014-07-01 12:38:54 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 12:38:54 INFO  FunctionLibrary:64 - Clicking on Button Shared Hosting
+2014-07-01 12:38:55 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 12:39:05 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 12:39:05 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 12:39:05 INFO  FunctionLibrary:232 - Get the Online Tools You Need to Succeed with Verio's Shared Web Hosting
+2014-07-01 12:39:05 INFO  FunctionLibrary:233 - Get the Online Tools You Need to Succeed with Verio's Shared Web Hosting
+2014-07-01 12:39:05 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-01 12:39:05 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 12:39:05 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-01 12:39:05 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-01 12:39:05 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-01 12:39:09 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 12:39:19 INFO  FunctionLibrary:64 - Clicking on Button lmToggle
+2014-07-01 12:39:19 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 12:39:19 INFO  FunctionLibrary:232 - Our WhoIs lookup is designed to help you perform a variety of whois lookup functions. WhoIs lets you perform a domain whois search, whois IP lookup and search the whois database for relevant information on domain registration and availability. This can help provide insight into a domain's history and additional information. Use WhoIs lookup anytime you want to perform a search to see who owns a domain name, how many pages from a site are listed with Google or even search WhoIs address listings for a website's owner.
+2014-07-01 12:39:19 INFO  FunctionLibrary:233 - Our WhoIs lookup is designed to help you perform a variety of whois lookup functions. WhoIs lets you perform a domain whois search, whois IP lookup and search the whois database for relevant information on domain registration and availability. This can help provide insight into a domain's history and additional information. Use WhoIs lookup anytime you want to perform a search to see who owns a domain name, how many pages from a site are listed with Google or even search WhoIs address listings for a website's owner.
+2014-07-01 12:39:19 INFO  FunctionLibrary:64 - Clicking on Button lmToggle
+2014-07-01 12:39:20 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-01 13:02:35 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-01 13:02:35 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-01 13:02:35 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-01 13:02:35 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-01 13:02:35 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-01 13:02:35 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-01 13:02:35 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-01 13:02:35 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-01 13:03:04 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 13:03:04 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 13:03:04 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 13:03:04 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 13:03:04 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 13:03:04 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 13:03:04 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-01 13:03:04 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-01 13:03:04 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-01 13:03:07 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 13:03:17 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 13:03:17 INFO  FunctionLibrary:64 - Clicking on Button a2apage_EMAIL
+2014-07-01 13:03:18 INFO  FunctionLibrary:64 - Clicking on Button Google Gmail
+2014-07-01 13:03:19 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 13:03:29 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 13:03:29 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 13:03:29 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 13:03:29 INFO  FunctionLibrary:64 - Clicking on Button a2apage_EMAIL
+2014-07-01 13:03:30 INFO  FunctionLibrary:64 - Clicking on Button Yahoo Mail
+2014-07-01 13:03:30 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 13:03:40 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 13:03:40 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 13:03:41 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 13:03:41 INFO  FunctionLibrary:64 - Clicking on Button a2apage_DEFAULT
+2014-07-01 13:03:41 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='a2apage_linkedin']/span
+2014-07-01 13:03:41 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 13:03:51 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 13:03:51 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 13:03:52 INFO  FunctionLibrary:232 - To join LinkedIn, sign up below...it's free!
+2014-07-01 13:03:52 INFO  FunctionLibrary:233 - To join LinkedIn, sign up below...it's free!
+2014-07-01 13:03:52 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 13:03:53 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 13:03:53 INFO  FunctionLibrary:64 - Clicking on Button a2apage_DEFAULT
+2014-07-01 13:03:53 INFO  FunctionLibrary:64 - Clicking on Button Twitter
+2014-07-01 13:03:54 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 13:04:04 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 13:04:04 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 13:04:36 INFO  FunctionLibrary:234 - 
+java.lang.NullPointerException
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:230)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:211)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:182)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:101)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2014-07-01 13:04:36 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-07-01 13:04:36 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 13:04:36 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 13:04:36 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 13:06:16 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-01 13:06:16 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-01 13:06:16 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-01 13:06:16 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-01 13:06:16 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-01 13:06:16 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-01 13:06:16 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-01 13:06:16 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-01 13:06:32 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 13:06:32 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 13:06:32 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 13:06:32 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 13:06:32 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 13:06:32 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 13:06:32 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-01 13:06:32 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-01 13:06:32 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-01 13:06:34 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 13:06:44 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 13:06:44 INFO  FunctionLibrary:64 - Clicking on Button a2apage_EMAIL
+2014-07-01 13:06:46 INFO  FunctionLibrary:64 - Clicking on Button Google Gmail
+2014-07-01 13:06:46 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 13:06:56 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 13:06:56 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 13:06:56 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 13:06:56 INFO  FunctionLibrary:64 - Clicking on Button a2apage_EMAIL
+2014-07-01 13:06:57 INFO  FunctionLibrary:64 - Clicking on Button Yahoo Mail
+2014-07-01 13:06:57 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 13:07:07 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 13:07:07 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 13:07:07 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 13:07:08 INFO  FunctionLibrary:64 - Clicking on Button a2apage_DEFAULT
+2014-07-01 13:07:08 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='a2apage_linkedin']/span
+2014-07-01 13:07:08 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 13:07:18 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 13:07:18 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 13:07:19 INFO  FunctionLibrary:232 - To join LinkedIn, sign up below...it's free!
+2014-07-01 13:07:19 INFO  FunctionLibrary:233 - To join LinkedIn, sign up below...it's free!
+2014-07-01 13:07:19 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 13:07:19 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 13:07:19 INFO  FunctionLibrary:64 - Clicking on Button a2apage_DEFAULT
+2014-07-01 13:07:19 INFO  FunctionLibrary:64 - Clicking on Button Twitter
+2014-07-01 13:07:20 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 13:07:30 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 13:07:30 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 13:07:46 INFO  FunctionLibrary:232 - Whois.net (@WhoisNet) on Twitter
+2014-07-01 13:07:46 INFO  FunctionLibrary:233 - 
+2014-07-01 13:07:46 INFO  FunctionLibrary:239 - Error in text - //html/head/title
+2014-07-01 13:07:46 INFO  FunctionLibrary:240 - Actual - 
+2014-07-01 13:07:46 INFO  FunctionLibrary:241 - Expected -Whois.net (@WhoisNet) on Twitter
+2014-07-01 13:07:46 FATAL FunctionLibrary:242 - test verify
+2014-07-01 13:07:46 ERROR FunctionLibrary:243 - error
+2014-07-01 13:07:46 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 13:07:46 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 13:07:47 INFO  FunctionLibrary:64 - Clicking on Button a2apage_DEFAULT
+2014-07-01 13:07:47 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='a2apage_powered_by']/a
+2014-07-01 13:08:18 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 13:08:28 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 13:08:29 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-07-01 13:08:29 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 13:08:29 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 13:08:29 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:36:14 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-01 14:36:14 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-01 14:36:14 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-01 14:36:14 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-01 14:36:14 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-01 14:36:14 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-01 14:36:14 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-01 14:36:14 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-01 14:36:41 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:36:41 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:36:41 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:36:41 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:36:41 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:36:41 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:36:41 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-01 14:36:41 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-01 14:36:41 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-01 14:36:46 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 14:36:56 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 14:36:57 INFO  FunctionLibrary:64 - Clicking on Button a2apage_EMAIL
+2014-07-01 14:36:58 INFO  FunctionLibrary:64 - Clicking on Button Google Gmail
+2014-07-01 14:36:58 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 14:37:08 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 14:37:09 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 14:37:09 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 14:37:09 INFO  FunctionLibrary:64 - Clicking on Button a2apage_EMAIL
+2014-07-01 14:37:09 INFO  FunctionLibrary:64 - Clicking on Button Yahoo Mail
+2014-07-01 14:37:10 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 14:37:20 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 14:37:20 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 14:37:20 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 14:37:20 INFO  FunctionLibrary:64 - Clicking on Button a2apage_DEFAULT
+2014-07-01 14:37:21 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='a2apage_linkedin']/span
+2014-07-01 14:37:21 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 14:37:31 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 14:37:31 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 14:37:31 INFO  FunctionLibrary:232 - To join LinkedIn, sign up below...it's free!
+2014-07-01 14:37:31 INFO  FunctionLibrary:233 - To join LinkedIn, sign up below...it's free!
+2014-07-01 14:37:31 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 14:37:32 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 14:37:32 INFO  FunctionLibrary:64 - Clicking on Button a2apage_DEFAULT
+2014-07-01 14:37:32 INFO  FunctionLibrary:64 - Clicking on Button Twitter
+2014-07-01 14:37:33 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 14:37:43 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 14:37:43 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 14:37:43 INFO  FunctionLibrary:232 - Whois.net (@WhoisNet) on Twitter
+2014-07-01 14:37:43 INFO  FunctionLibrary:233 - Whois Lookup & IP | Whois.net https://qawhois.team-center.net/
+2014-07-01 14:37:43 INFO  FunctionLibrary:239 - Error in text - //*[@id='status']
+2014-07-01 14:37:43 INFO  FunctionLibrary:240 - Actual - Whois Lookup & IP | Whois.net https://qawhois.team-center.net/
+2014-07-01 14:37:43 INFO  FunctionLibrary:241 - Expected -Whois.net (@WhoisNet) on Twitter
+2014-07-01 14:37:43 FATAL FunctionLibrary:242 - test verify
+2014-07-01 14:37:43 ERROR FunctionLibrary:243 - error
+2014-07-01 14:37:43 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 14:37:44 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 14:37:44 INFO  FunctionLibrary:64 - Clicking on Button a2apage_DEFAULT
+2014-07-01 14:37:44 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='a2apage_powered_by']/a
+2014-07-01 14:38:16 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 14:38:26 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 14:38:27 INFO  FunctionLibrary:185 - Test Scenario Result --Fail
+2014-07-01 14:38:27 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:38:27 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:38:27 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:38:57 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-01 14:38:57 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-01 14:38:57 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-01 14:38:57 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-01 14:38:57 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-01 14:38:57 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-01 14:38:57 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-01 14:38:57 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-01 14:39:19 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:39:19 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:39:19 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:39:19 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:39:19 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:39:19 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:39:19 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-01 14:39:19 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-01 14:39:19 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-01 14:39:22 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 14:39:32 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 14:39:32 INFO  FunctionLibrary:64 - Clicking on Button a2apage_EMAIL
+2014-07-01 14:39:33 INFO  FunctionLibrary:64 - Clicking on Button Google Gmail
+2014-07-01 14:39:33 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 14:39:43 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 14:39:43 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 14:39:44 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 14:39:44 INFO  FunctionLibrary:64 - Clicking on Button a2apage_EMAIL
+2014-07-01 14:39:44 INFO  FunctionLibrary:64 - Clicking on Button Yahoo Mail
+2014-07-01 14:39:45 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 14:39:55 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 14:39:55 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 14:39:55 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 14:39:55 INFO  FunctionLibrary:64 - Clicking on Button a2apage_DEFAULT
+2014-07-01 14:39:56 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='a2apage_linkedin']/span
+2014-07-01 14:39:56 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 14:40:06 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 14:40:06 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 14:40:06 INFO  FunctionLibrary:232 - To join LinkedIn, sign up below...it's free!
+2014-07-01 14:40:06 INFO  FunctionLibrary:233 - To join LinkedIn, sign up below...it's free!
+2014-07-01 14:40:06 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 14:40:07 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 14:40:07 INFO  FunctionLibrary:64 - Clicking on Button a2apage_DEFAULT
+2014-07-01 14:40:07 INFO  FunctionLibrary:64 - Clicking on Button Twitter
+2014-07-01 14:40:08 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 14:40:18 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 14:40:18 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 14:40:18 INFO  FunctionLibrary:232 - Whois Lookup & IP | Whois.net https://qawhois.team-center.net/
+2014-07-01 14:40:18 INFO  FunctionLibrary:233 - Whois Lookup & IP | Whois.net https://qawhois.team-center.net/
+2014-07-01 14:40:18 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 14:40:18 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 14:40:19 INFO  FunctionLibrary:64 - Clicking on Button a2apage_DEFAULT
+2014-07-01 14:40:19 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='a2apage_powered_by']/a
+2014-07-01 14:40:51 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 14:41:01 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 14:41:01 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-01 14:41:01 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:41:01 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:41:01 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:43:44 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-01 14:43:44 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-01 14:43:44 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-01 14:43:44 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-01 14:43:44 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-01 14:43:44 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-01 14:43:44 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-01 14:43:45 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-01 14:44:00 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:44:00 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:44:00 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:44:00 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:44:00 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:44:00 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:44:00 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-01 14:44:00 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-01 14:44:00 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-01 14:44:02 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 14:44:12 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 14:44:13 INFO  FunctionLibrary:64 - Clicking on Button a2apage_EMAIL
+2014-07-01 14:44:14 INFO  FunctionLibrary:64 - Clicking on Button Google Gmail
+2014-07-01 14:44:14 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 14:44:24 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 14:44:24 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 14:44:25 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 14:44:25 INFO  FunctionLibrary:64 - Clicking on Button a2apage_EMAIL
+2014-07-01 14:44:25 INFO  FunctionLibrary:64 - Clicking on Button Yahoo Mail
+2014-07-01 14:44:25 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 14:44:35 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 14:44:36 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 14:44:36 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 14:44:36 INFO  FunctionLibrary:64 - Clicking on Button a2apage_DEFAULT
+2014-07-01 14:44:36 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='a2apage_linkedin']/span
+2014-07-01 14:44:37 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 14:44:47 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 14:44:47 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 14:44:47 INFO  FunctionLibrary:232 - To join LinkedIn, sign up below...it's free!
+2014-07-01 14:44:47 INFO  FunctionLibrary:233 - To join LinkedIn, sign up below...it's free!
+2014-07-01 14:44:47 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 14:44:47 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 14:44:48 INFO  FunctionLibrary:64 - Clicking on Button a2apage_DEFAULT
+2014-07-01 14:44:48 INFO  FunctionLibrary:64 - Clicking on Button Twitter
+2014-07-01 14:44:48 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 14:44:58 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 14:44:59 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 14:44:59 INFO  FunctionLibrary:232 - Whois Lookup & IP | Whois.net https://qawhois.team-center.net/
+2014-07-01 14:44:59 INFO  FunctionLibrary:233 - Whois Lookup & IP | Whois.net https://qawhois.team-center.net/
+2014-07-01 14:44:59 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 14:44:59 INFO  FunctionLibrary:155 - Mouse Over to //*[@id='share']/a/img
+2014-07-01 14:44:59 INFO  FunctionLibrary:64 - Clicking on Button a2apage_DEFAULT
+2014-07-01 14:45:00 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='a2apage_powered_by']/a
+2014-07-01 14:45:32 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 14:45:42 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 14:45:42 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-01 14:45:42 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:45:42 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-01 14:45:42 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-01 14:45:42 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-01 14:45:46 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 14:45:56 INFO  FunctionLibrary:188 - Switch to frame------
+2014-07-01 14:45:56 INFO  FunctionLibrary:64 - Clicking on Button //*[@id='l']
+2014-07-01 14:45:57 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 14:46:07 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 14:46:07 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 14:46:07 INFO  FunctionLibrary:232 - http://www.whois.net
+2014-07-01 14:46:07 INFO  FunctionLibrary:233 - http://www.whois.net
+2014-07-01 14:46:07 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 14:46:07 INFO  FunctionLibrary:188 - Switch to frame------
+2014-07-01 14:46:07 INFO  FunctionLibrary:64 - Clicking on Button //div/div/span/div/div/div/div
+2014-07-01 14:46:08 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 14:46:09 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 14:46:09 INFO  FunctionLibrary:232 - Sign in to continue to Google+
+2014-07-01 14:46:09 INFO  FunctionLibrary:233 - Sign in to continue to Google+
+2014-07-01 14:46:09 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 14:46:09 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-01 14:46:09 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:46:09 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-01 14:46:09 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-01 14:46:09 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-01 14:46:12 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 14:46:22 INFO  FunctionLibrary:64 - Clicking on Button VPS Hosting
+2014-07-01 14:46:23 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 14:46:33 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 14:46:33 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 14:46:33 INFO  FunctionLibrary:232 - Use VPS Hosting to Power More Demanding Websites in a Virtual Private Server Environment.
+2014-07-01 14:46:33 INFO  FunctionLibrary:233 - Use VPS Hosting to Power More Demanding Websites in a Virtual Private Server Environment.
+2014-07-01 14:46:33 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 14:46:34 INFO  FunctionLibrary:64 - Clicking on Button Dedicated Hosting
+2014-07-01 14:46:34 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 14:46:44 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 14:46:45 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 14:46:45 INFO  FunctionLibrary:232 - Dedicated Web Hosting Delivers the Security of Your Own Server
+2014-07-01 14:46:45 INFO  FunctionLibrary:233 - Dedicated Web Hosting Delivers the Security of Your Own Server
+2014-07-01 14:46:45 INFO  FunctionLibrary:198 - Switching to Parent Window
+2014-07-01 14:46:45 INFO  FunctionLibrary:64 - Clicking on Button Shared Hosting
+2014-07-01 14:46:45 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 14:46:55 INFO  FunctionLibrary:193 - Switch to New Window
+2014-07-01 14:46:56 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 14:46:56 INFO  FunctionLibrary:232 - Get the Online Tools You Need to Succeed with Verio's Shared Web Hosting
+2014-07-01 14:46:56 INFO  FunctionLibrary:233 - Get the Online Tools You Need to Succeed with Verio's Shared Web Hosting
+2014-07-01 14:46:56 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-01 14:46:56 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 14:46:56 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-01 14:46:56 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-01 14:46:56 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-01 14:47:00 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 14:47:10 INFO  FunctionLibrary:64 - Clicking on Button lmToggle
+2014-07-01 14:47:11 INFO  FunctionLibrary:210 - Verifying Text
+2014-07-01 14:47:11 INFO  FunctionLibrary:232 - Our WhoIs lookup is designed to help you perform a variety of whois lookup functions. WhoIs lets you perform a domain whois search, whois IP lookup and search the whois database for relevant information on domain registration and availability. This can help provide insight into a domain's history and additional information. Use WhoIs lookup anytime you want to perform a search to see who owns a domain name, how many pages from a site are listed with Google or even search WhoIs address listings for a website's owner.
+2014-07-01 14:47:11 INFO  FunctionLibrary:233 - Our WhoIs lookup is designed to help you perform a variety of whois lookup functions. WhoIs lets you perform a domain whois search, whois IP lookup and search the whois database for relevant information on domain registration and availability. This can help provide insight into a domain's history and additional information. Use WhoIs lookup anytime you want to perform a search to see who owns a domain name, how many pages from a site are listed with Google or even search WhoIs address listings for a website's owner.
+2014-07-01 14:47:11 INFO  FunctionLibrary:64 - Clicking on Button lmToggle
+2014-07-01 14:47:11 INFO  FunctionLibrary:197 - Test Scenario Result --Pass
+2014-07-01 15:34:37 INFO  FunctionLibrary:37 - Initialized All Resources Files
+2014-07-01 15:34:37 INFO  FunctionLibrary:39 - Creatng Driver Script Object
+2014-07-01 15:34:37 INFO  FunctionLibrary:41 - Creating Test Suite
+2014-07-01 15:34:37 INFO  FunctionLibrary:43 - Creating Test Suite For Email Report
+2014-07-01 15:34:37 INFO  FunctionLibrary:48 - Creating Suite In Detailed Test Report
+2014-07-01 15:34:37 INFO  FunctionLibrary:50 - Creating Suite In Mailing Report
+2014-07-01 15:34:37 INFO  FunctionLibrary:55 - Creating Excel Sheet For Test Results
+2014-07-01 15:34:37 INFO  FunctionLibrary:92 - Launching Mozilla Firefox.......
+2014-07-01 15:34:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 15:34:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 15:34:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 15:34:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 15:34:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 15:34:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 15:34:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 15:34:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 15:34:58 INFO  FunctionLibrary:162 - Selecting Test Scenario From Controller File
+2014-07-01 15:34:58 INFO  FunctionLibrary:166 - Navigate To Test Scenario Sheet
+2014-07-01 15:34:58 INFO  FunctionLibrary:172 - Loading Test Data Work Book
+2014-07-01 15:34:58 INFO  FunctionLibrary:181 - Passing Parameters Driver Script to ContolScript
+2014-07-01 15:35:00 INFO  FunctionLibrary:218 - Loading Page
+2014-07-01 15:35:10 INFO  FunctionLibrary:64 - Clicking on Button lmToggle
+2014-07-01 15:35:10 INFO  FunctionLibrary:113 - Getting Text From Webpage
+2014-07-01 15:35:11 INFO  FunctionLibrary:64 - Clicking on Button lmToggle
+2014-07-01 15:35:11 INFO  FunctionLibrary:197 - Test Scenario Result --Pass

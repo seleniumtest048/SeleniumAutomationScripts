@@ -1,0 +1,1364 @@
+2014-06-13 16:10:19 INFO  FunctionLibrary:36 - Initialized All Resources Files
+2014-06-13 16:10:19 INFO  FunctionLibrary:38 - Creatng Driver Script Object
+2014-06-13 16:10:19 INFO  FunctionLibrary:40 - Creating Test Suite
+2014-06-13 16:10:19 INFO  FunctionLibrary:42 - Creating Test Suite For Email Report
+2014-06-13 16:10:19 INFO  FunctionLibrary:47 - Creating Suite In Detailed Test Report
+2014-06-13 16:10:19 INFO  FunctionLibrary:49 - Creating Suite In Mailing Report
+2014-06-13 16:10:19 INFO  FunctionLibrary:54 - Creating Excel Sheet For Test Results
+2014-06-13 16:10:19 INFO  FunctionLibrary:69 - Launching Google Chrome.......
+2014-06-13 16:10:33 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 16:10:33 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 16:10:33 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 16:10:33 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 16:10:33 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:10:43 INFO  FunctionLibrary:181 - Scroll down
+2014-06-13 16:10:43 INFO  FunctionLibrary:314 - Scroll down
+2014-06-13 16:10:43 INFO  FunctionLibrary:894 - Type here for whois, domain and keyword results
+2014-06-13 16:10:43 INFO  FunctionLibrary:895 - Type here for whois, domain and keyword results
+2014-06-13 16:10:43 INFO  FunctionLibrary:69 - Entering Data into domain_search
+2014-06-13 16:10:43 INFO  FunctionLibrary:78 - Selecting DropDown Value .net
+2014-06-13 16:10:43 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr[2]/td/table/tbody/tr/td[3]/a/img
+2014-06-13 16:10:44 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:10:54 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:10:54 INFO  FunctionLibrary:365 - newgt.net is available *
+2014-06-13 16:10:54 INFO  FunctionLibrary:366 - newgt.net is available *
+2014-06-13 16:10:54 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div[2]/table/tbody/tr[3]/td/span/table/tbody/tr[1]/td/table/tbody/tr[2]/td[2]/table/tbody/tr[1]/td/table/tbody/tr/td[2]/div/a
+2014-06-13 16:10:54 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:11:04 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:11:08 INFO  FunctionLibrary:365 - Congratulations!
+2014-06-13 16:11:08 INFO  FunctionLibrary:366 - Congratulations!
+2014-06-13 16:11:08 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 16:11:08 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 16:11:08 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 16:11:08 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 16:11:08 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 16:11:08 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 16:11:08 INFO  FunctionLibrary:65 - Clicking on Button Sign In
+2014-06-13 16:11:11 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:11:11 INFO  FunctionLibrary:365 - New to WhoIs.net? 
+2014-06-13 16:11:11 INFO  FunctionLibrary:366 - New to WhoIs.net?
+Request an account here.
+2014-06-13 16:11:11 INFO  FunctionLibrary:372 - Error in text - //html/body/form/div[2]/table/tbody/tr/td[3]/table/tbody/tr[3]/td
+2014-06-13 16:11:11 INFO  FunctionLibrary:373 - Actual - New to WhoIs.net?
+Request an account here.
+2014-06-13 16:11:11 INFO  FunctionLibrary:374 - Expected -New to WhoIs.net? 
+2014-06-13 16:11:11 FATAL FunctionLibrary:375 - test verify
+2014-06-13 16:11:11 ERROR FunctionLibrary:376 - error
+2014-06-13 16:11:11 INFO  FunctionLibrary:69 - Entering Data into user_input
+2014-06-13 16:11:12 INFO  FunctionLibrary:69 - Entering Data into pass_input
+2014-06-13 16:11:12 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/div[2]/table/tbody/tr/td[2]/table/tbody/tr[6]/td/a
+2014-06-13 16:11:14 INFO  FunctionLibrary:186 - Test Scenario Result --Fail
+2014-06-13 16:11:14 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 16:11:14 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 16:11:14 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 16:11:14 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 16:11:14 INFO  FunctionLibrary:65 - Clicking on Button Forgot your password?
+2014-06-13 16:11:14 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:11:14 INFO  FunctionLibrary:365 - Lost Password
+2014-06-13 16:11:14 INFO  FunctionLibrary:366 - Lost Password
+2014-06-13 16:11:14 INFO  FunctionLibrary:69 - Entering Data into lost_email
+2014-06-13 16:11:15 INFO  FunctionLibrary:65 - Clicking on Button Submit
+2014-06-13 16:11:17 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 16:11:17 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 16:11:17 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 16:11:17 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 16:11:17 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 16:11:17 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:11:17 INFO  FunctionLibrary:365 - New Account Request
+2014-06-13 16:11:17 INFO  FunctionLibrary:366 - New Account Request
+2014-06-13 16:11:17 INFO  FunctionLibrary:65 - Clicking on Button Request Account
+2014-06-13 16:11:17 INFO  FunctionLibrary:69 - Entering Data into company_input
+2014-06-13 16:11:17 INFO  FunctionLibrary:69 - Entering Data into name_input
+2014-06-13 16:11:18 INFO  FunctionLibrary:69 - Entering Data into email_input
+2014-06-13 16:11:18 INFO  FunctionLibrary:69 - Entering Data into phone_input
+2014-06-13 16:11:18 INFO  FunctionLibrary:65 - Clicking on Button Submit Request
+2014-06-13 16:11:21 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/div[2]/table/tbody/tr/td[1]/a/img
+2014-06-13 16:11:21 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 16:11:21 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 16:11:21 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 16:11:21 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 16:11:21 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 16:11:21 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:11:31 INFO  FunctionLibrary:65 - Clicking on Button VPS Hosting,
+2014-06-13 16:11:31 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:11:41 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:11:47 INFO  FunctionLibrary:365 - ADVANCED VPS HOSTING
+2014-06-13 16:11:47 INFO  FunctionLibrary:366 - ADVANCED VPS HOSTING
+2014-06-13 16:11:47 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 16:11:47 INFO  FunctionLibrary:65 - Clicking on Button Dedicated Hosting,
+2014-06-13 16:11:50 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:12:00 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:12:00 INFO  FunctionLibrary:365 - Dedicated Web Hosting Delivers the Security of Your Own Server
+2014-06-13 16:12:00 INFO  FunctionLibrary:366 - Dedicated Web Hosting Delivers the Security of Your Own Server
+2014-06-13 16:12:00 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 16:12:05 INFO  FunctionLibrary:65 - Clicking on Button Shared Hosting
+2014-06-13 16:12:05 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:12:15 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:12:15 INFO  FunctionLibrary:365 - Get the Online Tools You Need to Succeed with Verio's Shared Web Hosting
+2014-06-13 16:12:15 INFO  FunctionLibrary:366 - Get the Online Tools You Need to Succeed with Verio's Shared Web Hosting
+2014-06-13 16:12:15 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 16:12:18 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 16:12:18 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 16:12:18 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 16:12:18 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 16:12:18 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 16:12:18 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:12:28 INFO  FunctionLibrary:65 - Clicking on Button Domain Name Registration
+2014-06-13 16:12:28 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:12:38 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:12:38 INFO  FunctionLibrary:365 - Verio offers tons of FREE tools with every domain and FREE domain registration when you order a hosting plan.
+2014-06-13 16:12:38 INFO  FunctionLibrary:366 - Verio offers tons of FREE tools with every domain and FREE domain registration when you order a hosting plan.
+2014-06-13 16:12:38 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 16:12:41 INFO  FunctionLibrary:65 - Clicking on Button Sitemap
+2014-06-13 16:12:42 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:12:52 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 16:12:55 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:13:05 INFO  FunctionLibrary:65 - Clicking on Button Support
+2014-06-13 16:13:05 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:13:15 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:13:15 INFO  FunctionLibrary:365 - SELF SERVICE PORTAL
+2014-06-13 16:13:15 INFO  FunctionLibrary:366 - SELF SERVICE PORTAL
+2014-06-13 16:13:15 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:13:25 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 16:13:28 INFO  FunctionLibrary:65 - Clicking on Button Privacy Policy
+2014-06-13 16:13:28 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:13:38 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:13:38 INFO  FunctionLibrary:365 - Privacy Policy for Customer and Visitor Information
+2014-06-13 16:13:38 INFO  FunctionLibrary:366 - Privacy Policy for Customer and Visitor Information
+2014-06-13 16:13:38 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 16:13:41 INFO  FunctionLibrary:65 - Clicking on Button *** Terms and Conditions
+2014-06-13 16:13:41 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:13:51 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:13:51 INFO  FunctionLibrary:365 - TERMS AND CONDITIONS OF WHOIS.NET ("WHOIS.NET")
+2014-06-13 16:13:51 INFO  FunctionLibrary:366 - TERMS AND CONDITIONS OF WHOIS.NET ("WHOIS.NET")
+2014-06-13 16:13:51 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 16:13:53 INFO  FunctionLibrary:65 - Clicking on Button Quick Links
+2014-06-13 16:13:53 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:14:03 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:14:04 INFO  FunctionLibrary:365 - Shared Hosting | VPS Hosting | Dedicated Hosting | Ecommerce Hosting | Windows Hosting
+2014-06-13 16:14:04 INFO  FunctionLibrary:366 - Shared Hosting | VPS Hosting | Dedicated Hosting | Ecommerce Hosting | Windows Hosting
+Unix Hosting | Linux Hosting | Hosted Microsoft Exchange 2010 | Microsoft SharePoint Hosting | Whois Lookup
+2014-06-13 16:14:04 INFO  FunctionLibrary:372 - Error in text - //html/body/form/table/tbody/tr[4]/td/table/tbody/tr/td
+2014-06-13 16:14:04 INFO  FunctionLibrary:373 - Actual - Shared Hosting | VPS Hosting | Dedicated Hosting | Ecommerce Hosting | Windows Hosting
+Unix Hosting | Linux Hosting | Hosted Microsoft Exchange 2010 | Microsoft SharePoint Hosting | Whois Lookup
+2014-06-13 16:14:04 INFO  FunctionLibrary:374 - Expected -Shared Hosting | VPS Hosting | Dedicated Hosting | Ecommerce Hosting | Windows Hosting
+2014-06-13 16:14:04 FATAL FunctionLibrary:375 - test verify
+2014-06-13 16:14:04 ERROR FunctionLibrary:376 - error
+2014-06-13 16:14:04 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 16:14:04 INFO  FunctionLibrary:65 - Clicking on Button Website Hosting
+2014-06-13 16:14:06 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:14:16 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:14:16 INFO  FunctionLibrary:365 - New Products!
+2014-06-13 16:14:16 INFO  FunctionLibrary:366 - New Products!
+2014-06-13 16:14:16 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 16:14:16 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/div[2]/table/tbody/tr/td[1]/a/img
+2014-06-13 16:14:20 INFO  FunctionLibrary:186 - Test Scenario Result --Fail
+2014-06-13 16:14:20 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 16:14:20 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 16:14:20 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 16:14:20 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 16:14:20 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:14:30 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr[5]/td/table/tbody/tr/td/div/a/img
+2014-06-13 16:14:30 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:14:40 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:14:40 INFO  FunctionLibrary:365 - Our WhoIs lookup is designed to help you perform a variety of whois lookup functions. WhoIs lets you perform a domain whois search, whois IP lookup and search the whois database for relevant information on domain registration and availability. This can help provide insight into a domain's history and additional information. Use WhoIs lookup anytime you want to perform a search to see who owns a domain name, how many pages from a site are listed with Google or even search WhoIs address listings for a website's owner.
+2014-06-13 16:14:40 INFO  FunctionLibrary:366 - Our WhoIs lookup is designed to help you perform a variety of whois lookup functions. WhoIs lets you perform a domain whois search, whois IP lookup and search the whois database for relevant information on domain registration and availability. This can help provide insight into a domain's history and additional information. Use WhoIs lookup anytime you want to perform a search to see who owns a domain name, how many pages from a site are listed with Google or even search WhoIs address listings for a website's owner.
+2014-06-13 16:14:40 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr[5]/td/table/tbody/tr/td/div/a/img
+2014-06-13 16:14:40 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 16:14:40 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 16:14:40 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 16:14:40 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 16:14:40 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 16:14:40 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:14:50 INFO  FunctionLibrary:169 - Mouse Over to //html/body/form/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td[3]/a/img
+2014-06-13 16:14:51 INFO  FunctionLibrary:65 - Clicking on Button a2apage_EMAIL
+2014-06-13 16:14:51 INFO  FunctionLibrary:65 - Clicking on Button Google Gmail
+2014-06-13 16:14:51 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:15:01 INFO  FunctionLibrary:102 - Switch to New Window
+2014-06-13 16:15:01 INFO  FunctionLibrary:94 - Verifying Page Title
+2014-06-13 16:15:01 INFO  FunctionLibrary:386 - Gmail - Email from Google
+2014-06-13 16:15:01 INFO  FunctionLibrary:387 - Gmail - Email from Google
+2014-06-13 16:15:01 INFO  FunctionLibrary:129 - Switching to Parent Window
+2014-06-13 16:15:01 INFO  FunctionLibrary:169 - Mouse Over to //html/body/form/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td[3]/a/img
+2014-06-13 16:15:01 INFO  FunctionLibrary:65 - Clicking on Button a2apage_EMAIL
+2014-06-13 16:15:01 INFO  FunctionLibrary:65 - Clicking on Button Yahoo Mail
+2014-06-13 16:15:01 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:15:11 INFO  FunctionLibrary:102 - Switch to New Window
+2014-06-13 16:15:11 INFO  FunctionLibrary:94 - Verifying Page Title
+2014-06-13 16:15:11 INFO  FunctionLibrary:386 - Sign in to Yahoo
+2014-06-13 16:15:11 INFO  FunctionLibrary:387 - Sign in to Yahoo
+2014-06-13 16:15:11 INFO  FunctionLibrary:129 - Switching to Parent Window
+2014-06-13 16:15:12 INFO  FunctionLibrary:169 - Mouse Over to //html/body/form/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td[3]/a/img
+2014-06-13 16:15:12 INFO  FunctionLibrary:65 - Clicking on Button //html/body/div/div/div/div[2]/div/div/span
+2014-06-13 16:15:12 INFO  FunctionLibrary:65 - Clicking on Button Twitter
+2014-06-13 16:15:12 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:15:22 INFO  FunctionLibrary:102 - Switch to New Window
+2014-06-13 16:15:22 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:15:22 INFO  FunctionLibrary:365 - What is Twitter? Learn more
+2014-06-13 16:15:22 INFO  FunctionLibrary:366 - What is Twitter? Learn more
+2014-06-13 16:15:22 INFO  FunctionLibrary:129 - Switching to Parent Window
+2014-06-13 16:15:22 INFO  FunctionLibrary:169 - Mouse Over to //html/body/form/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td[3]/a/img
+2014-06-13 16:15:22 INFO  FunctionLibrary:65 - Clicking on Button //html/body/div/div/div/div[2]/div/div/span
+2014-06-13 16:15:22 INFO  FunctionLibrary:65 - Clicking on Button LinkedIn
+2014-06-13 16:15:22 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:15:32 INFO  FunctionLibrary:102 - Switch to New Window
+2014-06-13 16:15:32 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:15:33 INFO  FunctionLibrary:365 - To join LinkedIn, sign up below...it's free!
+2014-06-13 16:15:33 INFO  FunctionLibrary:366 - To join LinkedIn, sign up below...it's free!
+2014-06-13 16:15:33 INFO  FunctionLibrary:129 - Switching to Parent Window
+2014-06-13 16:15:33 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 16:15:33 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 16:15:33 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 16:15:33 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 16:15:33 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 16:15:33 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:15:43 INFO  FunctionLibrary:133 - 
+2014-06-13 16:15:43 INFO  FunctionLibrary:65 - Clicking on Button //a[@id='follow-button']/span
+2014-06-13 16:15:43 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:15:53 INFO  FunctionLibrary:102 - Switch to New Window
+2014-06-13 16:15:53 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:15:53 INFO  FunctionLibrary:365 - Whois.net @WhoisNet
+2014-06-13 16:15:53 INFO  FunctionLibrary:366 - Whois.net @WhoisNet
+2014-06-13 16:15:53 INFO  FunctionLibrary:129 - Switching to Parent Window
+2014-06-13 16:15:53 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 16:15:53 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 16:15:53 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 16:15:54 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 16:15:54 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 16:15:54 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:16:04 INFO  FunctionLibrary:133 - 
+2014-06-13 16:16:04 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:16:14 INFO  FunctionLibrary:65 - Clicking on Button //div/div/span/div/div/div/div
+2014-06-13 16:16:15 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:16:25 INFO  FunctionLibrary:102 - Switch to New Window
+2014-06-13 16:16:25 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:16:25 INFO  FunctionLibrary:365 - Sign in to continue to Google+
+2014-06-13 16:16:25 INFO  FunctionLibrary:366 - Sign in to continue to Google+
+2014-06-13 16:16:25 INFO  FunctionLibrary:129 - Switching to Parent Window
+2014-06-13 16:16:25 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr/td/a/img
+2014-06-13 16:16:25 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:16:35 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 16:16:35 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 16:16:35 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 16:16:35 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 16:16:35 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 16:16:35 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:16:45 INFO  FunctionLibrary:69 - Entering Data into domain_search
+2014-06-13 16:16:45 INFO  FunctionLibrary:78 - Selecting DropDown Value .com
+2014-06-13 16:16:45 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr[2]/td/table/tbody/tr/td[3]/a/img
+2014-06-13 16:16:46 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:16:56 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:16:56 INFO  FunctionLibrary:365 - newgt.com is already registered *
+2014-06-13 16:16:56 INFO  FunctionLibrary:366 - qawhois.com is available *
+2014-06-13 16:16:56 INFO  FunctionLibrary:372 - Error in text - //html/body/form/table/tbody/tr[2]/td/div/div[2]/table/tbody/tr[3]/td/span/table/tbody/tr/td/table/tbody/tr/td[2]
+2014-06-13 16:16:56 INFO  FunctionLibrary:373 - Actual - qawhois.com is available *
+2014-06-13 16:16:56 INFO  FunctionLibrary:374 - Expected -newgt.com is already registered *
+2014-06-13 16:16:56 FATAL FunctionLibrary:375 - test verify
+2014-06-13 16:16:56 ERROR FunctionLibrary:376 - error
+2014-06-13 16:16:56 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:16:56 INFO  FunctionLibrary:365 - Buy a similar domain.
+2014-06-13 16:16:56 INFO  FunctionLibrary:366 - † Verio's Cloudn Portal does not include any Cloudn services, hosting, software-as-a-service, or add-on services. The Cloudn Portal only includes access to the Cloudn Portal itself. This Offer allows any new or existing customers and partners ("you" or "Customers," collectively) to create a Cloudn Portal account, and view and access the Cloudn Portal. This offer is not available with any other plan or service, and only applies to access to the Cloudn Portal only, although you may purchase Cloudn services or any other services at the regular price for that service. Limit one offer per Customer, and one use per Customer. This offer may be revoked at any time. This offer may not be combined with any other offers or discounts, separated, redeemed for cash, or transferred.
+2014-06-13 16:16:56 INFO  FunctionLibrary:372 - Error in text - //html/body/form/table/tbody/tr[2]/td/div/div[2]/table/tbody/tr[3]/td/span/table/tbody/tr[2]/td/table/tbody/tr/td[2]
+2014-06-13 16:16:56 INFO  FunctionLibrary:373 - Actual - † Verio's Cloudn Portal does not include any Cloudn services, hosting, software-as-a-service, or add-on services. The Cloudn Portal only includes access to the Cloudn Portal itself. This Offer allows any new or existing customers and partners ("you" or "Customers," collectively) to create a Cloudn Portal account, and view and access the Cloudn Portal. This offer is not available with any other plan or service, and only applies to access to the Cloudn Portal only, although you may purchase Cloudn services or any other services at the regular price for that service. Limit one offer per Customer, and one use per Customer. This offer may be revoked at any time. This offer may not be combined with any other offers or discounts, separated, redeemed for cash, or transferred.
+2014-06-13 16:16:56 INFO  FunctionLibrary:374 - Expected -Buy a similar domain.
+2014-06-13 16:16:56 FATAL FunctionLibrary:375 - test verify
+2014-06-13 16:16:56 ERROR FunctionLibrary:376 - error
+2014-06-13 16:16:56 INFO  FunctionLibrary:65 - Clicking on Button suggestion_1
+2014-06-13 16:17:28 INFO  FunctionLibrary:205 - 
+org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=35.0.1916.114)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.26 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: 4e25d5db53cd3029f9a38fabcf9f94c6
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\NAGARJ~1\AppData\Local\Temp\scoped_dir6156_2816}, rotatable=false, locationContextEnabled=true, version=35.0.1916.114, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:348)
+	at org.openqa.selenium.By$ById.findElement(By.java:220)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.projectname.base.Keywords.welement(Keywords.java:366)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:245)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:66)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:183)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:80)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2014-06-13 16:17:28 INFO  FunctionLibrary:186 - Test Scenario Result --Fail
+2014-06-13 16:17:28 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 16:17:28 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 16:17:29 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 16:17:29 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 16:17:29 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:17:39 INFO  FunctionLibrary:69 - Entering Data into domain_search
+2014-06-13 16:17:55 INFO  FunctionLibrary:205 - 
+org.openqa.selenium.InvalidElementStateException: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=35.0.1916.114)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 33 milliseconds
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: 4e25d5db53cd3029f9a38fabcf9f94c6
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\NAGARJ~1\AppData\Local\Temp\scoped_dir6156_2816}, rotatable=false, locationContextEnabled=true, version=35.0.1916.114, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.clear(RemoteWebElement.java:113)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:250)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:72)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:183)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:80)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2014-06-13 16:17:55 INFO  FunctionLibrary:186 - Test Scenario Result --Fail
+2014-06-13 16:18:08 INFO  FunctionLibrary:93 - Launching Mozilla Firefox.......
+2014-06-13 16:18:22 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 16:18:22 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 16:18:22 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 16:18:23 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 16:18:23 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 16:18:23 INFO  FunctionLibrary:65 - Clicking on Button Sign In
+2014-06-13 16:18:23 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:18:23 INFO  FunctionLibrary:365 - New to WhoIs.net? 
+2014-06-13 16:18:23 INFO  FunctionLibrary:366 - New to WhoIs.net?
+Request an account here.
+2014-06-13 16:18:23 INFO  FunctionLibrary:372 - Error in text - //html/body/form/div[2]/table/tbody/tr/td[3]/table/tbody/tr[3]/td
+2014-06-13 16:18:23 INFO  FunctionLibrary:373 - Actual - New to WhoIs.net?
+Request an account here.
+2014-06-13 16:18:23 INFO  FunctionLibrary:374 - Expected -New to WhoIs.net? 
+2014-06-13 16:18:23 FATAL FunctionLibrary:375 - test verify
+2014-06-13 16:18:23 ERROR FunctionLibrary:376 - error
+2014-06-13 16:18:23 INFO  FunctionLibrary:69 - Entering Data into user_input
+2014-06-13 16:18:23 INFO  FunctionLibrary:69 - Entering Data into pass_input
+2014-06-13 16:18:24 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/div[2]/table/tbody/tr/td[2]/table/tbody/tr[6]/td/a
+2014-06-13 16:18:27 INFO  FunctionLibrary:186 - Test Scenario Result --Fail
+2014-06-13 16:18:27 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 16:18:27 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 16:18:27 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 16:18:27 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 16:18:27 INFO  FunctionLibrary:65 - Clicking on Button Forgot your password?
+2014-06-13 16:18:28 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:18:28 INFO  FunctionLibrary:365 - Lost Password
+2014-06-13 16:18:28 INFO  FunctionLibrary:366 - Lost Password
+2014-06-13 16:18:28 INFO  FunctionLibrary:69 - Entering Data into lost_email
+2014-06-13 16:18:28 INFO  FunctionLibrary:65 - Clicking on Button Submit
+2014-06-13 16:18:30 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 16:18:31 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 16:18:31 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 16:18:31 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 16:18:31 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 16:18:31 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:18:31 INFO  FunctionLibrary:365 - New Account Request
+2014-06-13 16:18:31 INFO  FunctionLibrary:366 - New Account Request
+2014-06-13 16:18:31 INFO  FunctionLibrary:65 - Clicking on Button Request Account
+2014-06-13 16:18:31 INFO  FunctionLibrary:69 - Entering Data into company_input
+2014-06-13 16:18:31 INFO  FunctionLibrary:69 - Entering Data into name_input
+2014-06-13 16:18:32 INFO  FunctionLibrary:69 - Entering Data into email_input
+2014-06-13 16:18:32 INFO  FunctionLibrary:69 - Entering Data into phone_input
+2014-06-13 16:18:32 INFO  FunctionLibrary:65 - Clicking on Button Submit Request
+2014-06-13 16:18:34 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/div[2]/table/tbody/tr/td[1]/a/img
+2014-06-13 16:18:35 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 16:18:35 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 16:18:35 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 16:18:35 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 16:18:35 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 16:18:35 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:18:45 INFO  FunctionLibrary:65 - Clicking on Button VPS Hosting,
+2014-06-13 16:18:46 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:18:56 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:18:56 INFO  FunctionLibrary:365 - ADVANCED VPS HOSTING
+2014-06-13 16:18:56 INFO  FunctionLibrary:366 - ADVANCED VPS HOSTING
+2014-06-13 16:18:56 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 16:18:56 INFO  FunctionLibrary:65 - Clicking on Button Dedicated Hosting,
+2014-06-13 16:18:58 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:19:08 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:19:09 INFO  FunctionLibrary:365 - Dedicated Web Hosting Delivers the Security of Your Own Server
+2014-06-13 16:19:09 INFO  FunctionLibrary:366 - Dedicated Web Hosting Delivers the Security of Your Own Server
+2014-06-13 16:19:09 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 16:19:09 INFO  FunctionLibrary:65 - Clicking on Button Shared Hosting
+2014-06-13 16:19:10 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:19:20 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:19:20 INFO  FunctionLibrary:365 - Get the Online Tools You Need to Succeed with Verio's Shared Web Hosting
+2014-06-13 16:19:20 INFO  FunctionLibrary:366 - Get the Online Tools You Need to Succeed with Verio's Shared Web Hosting
+2014-06-13 16:19:20 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 16:19:20 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 16:19:20 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 16:19:20 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 16:19:20 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 16:19:20 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 16:19:20 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:19:30 INFO  FunctionLibrary:65 - Clicking on Button Domain Name Registration
+2014-06-13 16:19:31 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:19:41 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:19:42 INFO  FunctionLibrary:365 - Verio offers tons of FREE tools with every domain and FREE domain registration when you order a hosting plan.
+2014-06-13 16:19:42 INFO  FunctionLibrary:366 - Verio offers tons of FREE tools with every domain and FREE domain registration when you order a hosting plan.
+2014-06-13 16:19:42 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 16:19:42 INFO  FunctionLibrary:65 - Clicking on Button Sitemap
+2014-06-13 16:19:44 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:19:54 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 16:19:54 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:20:04 INFO  FunctionLibrary:65 - Clicking on Button Support
+2014-06-13 16:20:05 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:20:15 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:20:15 INFO  FunctionLibrary:365 - SELF SERVICE PORTAL
+2014-06-13 16:20:15 INFO  FunctionLibrary:366 - SELF SERVICE PORTAL
+2014-06-13 16:20:15 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:20:25 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 16:20:25 INFO  FunctionLibrary:65 - Clicking on Button Privacy Policy
+2014-06-13 16:20:26 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:20:36 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:20:36 INFO  FunctionLibrary:365 - Privacy Policy for Customer and Visitor Information
+2014-06-13 16:20:36 INFO  FunctionLibrary:366 - Privacy Policy for Customer and Visitor Information
+2014-06-13 16:20:36 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 16:20:36 INFO  FunctionLibrary:65 - Clicking on Button *** Terms and Conditions
+2014-06-13 16:20:37 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:20:47 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:20:47 INFO  FunctionLibrary:365 - TERMS AND CONDITIONS OF WHOIS.NET ("WHOIS.NET")
+2014-06-13 16:20:47 INFO  FunctionLibrary:366 - TERMS AND CONDITIONS OF WHOIS.NET ("WHOIS.NET")
+2014-06-13 16:20:47 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 16:20:47 INFO  FunctionLibrary:65 - Clicking on Button Quick Links
+2014-06-13 16:20:50 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:21:00 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:21:00 INFO  FunctionLibrary:365 - Shared Hosting | VPS Hosting | Dedicated Hosting | Ecommerce Hosting | Windows Hosting
+2014-06-13 16:21:00 INFO  FunctionLibrary:366 - Shared Hosting | VPS Hosting | Dedicated Hosting | Ecommerce Hosting | Windows Hosting
+Unix Hosting | Linux Hosting | Hosted Microsoft Exchange 2010 | Microsoft SharePoint Hosting | Whois Lookup
+2014-06-13 16:21:00 INFO  FunctionLibrary:372 - Error in text - //html/body/form/table/tbody/tr[4]/td/table/tbody/tr/td
+2014-06-13 16:21:00 INFO  FunctionLibrary:373 - Actual - Shared Hosting | VPS Hosting | Dedicated Hosting | Ecommerce Hosting | Windows Hosting
+Unix Hosting | Linux Hosting | Hosted Microsoft Exchange 2010 | Microsoft SharePoint Hosting | Whois Lookup
+2014-06-13 16:21:00 INFO  FunctionLibrary:374 - Expected -Shared Hosting | VPS Hosting | Dedicated Hosting | Ecommerce Hosting | Windows Hosting
+2014-06-13 16:21:00 FATAL FunctionLibrary:375 - test verify
+2014-06-13 16:21:00 ERROR FunctionLibrary:376 - error
+2014-06-13 16:21:00 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 16:21:00 INFO  FunctionLibrary:65 - Clicking on Button Website Hosting
+2014-06-13 16:21:03 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:21:13 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:21:13 INFO  FunctionLibrary:365 - New Products!
+2014-06-13 16:21:13 INFO  FunctionLibrary:366 - New Products!
+2014-06-13 16:21:13 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 16:21:13 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/div[2]/table/tbody/tr/td[1]/a/img
+2014-06-13 16:21:15 INFO  FunctionLibrary:186 - Test Scenario Result --Fail
+2014-06-13 16:21:15 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 16:21:15 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 16:21:15 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 16:21:15 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 16:21:15 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:21:25 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr[5]/td/table/tbody/tr/td/div/a/img
+2014-06-13 16:21:26 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:21:36 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:21:36 INFO  FunctionLibrary:365 - Our WhoIs lookup is designed to help you perform a variety of whois lookup functions. WhoIs lets you perform a domain whois search, whois IP lookup and search the whois database for relevant information on domain registration and availability. This can help provide insight into a domain's history and additional information. Use WhoIs lookup anytime you want to perform a search to see who owns a domain name, how many pages from a site are listed with Google or even search WhoIs address listings for a website's owner.
+2014-06-13 16:21:36 INFO  FunctionLibrary:366 - Our WhoIs lookup is designed to help you perform a variety of whois lookup functions. WhoIs lets you perform a domain whois search, whois IP lookup and search the whois database for relevant information on domain registration and availability. This can help provide insight into a domain's history and additional information. Use WhoIs lookup anytime you want to perform a search to see who owns a domain name, how many pages from a site are listed with Google or even search WhoIs address listings for a website's owner.
+2014-06-13 16:21:36 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr[5]/td/table/tbody/tr/td/div/a/img
+2014-06-13 16:21:36 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 16:21:36 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 16:21:36 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 16:21:36 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 16:21:36 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 16:21:36 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:21:46 INFO  FunctionLibrary:169 - Mouse Over to //html/body/form/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td[3]/a/img
+2014-06-13 16:21:46 INFO  FunctionLibrary:65 - Clicking on Button a2apage_EMAIL
+2014-06-13 16:21:48 INFO  FunctionLibrary:65 - Clicking on Button Google Gmail
+2014-06-13 16:21:48 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:21:58 INFO  FunctionLibrary:102 - Switch to New Window
+2014-06-13 16:21:58 INFO  FunctionLibrary:94 - Verifying Page Title
+2014-06-13 16:21:58 INFO  FunctionLibrary:386 - Gmail - Email from Google
+2014-06-13 16:21:58 INFO  FunctionLibrary:387 - Gmail - Email from Google
+2014-06-13 16:21:58 INFO  FunctionLibrary:129 - Switching to Parent Window
+2014-06-13 16:21:58 INFO  FunctionLibrary:169 - Mouse Over to //html/body/form/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td[3]/a/img
+2014-06-13 16:21:58 INFO  FunctionLibrary:65 - Clicking on Button a2apage_EMAIL
+2014-06-13 16:21:59 INFO  FunctionLibrary:65 - Clicking on Button Yahoo Mail
+2014-06-13 16:22:00 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:22:10 INFO  FunctionLibrary:102 - Switch to New Window
+2014-06-13 16:22:10 INFO  FunctionLibrary:94 - Verifying Page Title
+2014-06-13 16:22:10 INFO  FunctionLibrary:386 - Sign in to Yahoo
+2014-06-13 16:22:10 INFO  FunctionLibrary:387 - Sign in to Yahoo
+2014-06-13 16:22:10 INFO  FunctionLibrary:129 - Switching to Parent Window
+2014-06-13 16:22:10 INFO  FunctionLibrary:169 - Mouse Over to //html/body/form/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td[3]/a/img
+2014-06-13 16:22:10 INFO  FunctionLibrary:65 - Clicking on Button //html/body/div/div/div/div[2]/div/div/span
+2014-06-13 16:22:10 INFO  FunctionLibrary:65 - Clicking on Button Twitter
+2014-06-13 16:22:11 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:22:21 INFO  FunctionLibrary:102 - Switch to New Window
+2014-06-13 16:22:21 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:22:21 INFO  FunctionLibrary:365 - What is Twitter? Learn more
+2014-06-13 16:22:21 INFO  FunctionLibrary:366 - What is Twitter? Learn more
+2014-06-13 16:22:21 INFO  FunctionLibrary:129 - Switching to Parent Window
+2014-06-13 16:22:21 INFO  FunctionLibrary:169 - Mouse Over to //html/body/form/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td[3]/a/img
+2014-06-13 16:22:21 INFO  FunctionLibrary:65 - Clicking on Button //html/body/div/div/div/div[2]/div/div/span
+2014-06-13 16:22:22 INFO  FunctionLibrary:65 - Clicking on Button LinkedIn
+2014-06-13 16:22:22 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:22:32 INFO  FunctionLibrary:102 - Switch to New Window
+2014-06-13 16:22:32 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:22:32 INFO  FunctionLibrary:365 - To join LinkedIn, sign up below...it's free!
+2014-06-13 16:22:32 INFO  FunctionLibrary:366 - To join LinkedIn, sign up below...it's free!
+2014-06-13 16:22:32 INFO  FunctionLibrary:129 - Switching to Parent Window
+2014-06-13 16:22:33 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 16:22:33 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 16:22:33 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 16:22:33 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 16:22:33 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 16:22:33 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:22:43 INFO  FunctionLibrary:133 - 
+2014-06-13 16:22:43 INFO  FunctionLibrary:65 - Clicking on Button //a[@id='follow-button']/span
+2014-06-13 16:22:43 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:22:53 INFO  FunctionLibrary:102 - Switch to New Window
+2014-06-13 16:22:54 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:22:54 INFO  FunctionLibrary:365 - Whois.net @WhoisNet
+2014-06-13 16:22:54 INFO  FunctionLibrary:366 - Whois.net @WhoisNet
+2014-06-13 16:22:54 INFO  FunctionLibrary:129 - Switching to Parent Window
+2014-06-13 16:22:54 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 16:22:54 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 16:22:54 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 16:22:54 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 16:22:54 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 16:22:54 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:23:04 INFO  FunctionLibrary:133 - 
+2014-06-13 16:23:04 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:23:14 INFO  FunctionLibrary:65 - Clicking on Button //div/div/span/div/div/div/div
+2014-06-13 16:23:15 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:23:25 INFO  FunctionLibrary:102 - Switch to New Window
+2014-06-13 16:23:25 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:23:25 INFO  FunctionLibrary:365 - Sign in to continue to Google+
+2014-06-13 16:23:25 INFO  FunctionLibrary:366 - Sign in to continue to Google+
+2014-06-13 16:23:25 INFO  FunctionLibrary:129 - Switching to Parent Window
+2014-06-13 16:23:25 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr/td/a/img
+2014-06-13 16:23:25 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:23:35 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 16:23:36 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 16:23:36 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 16:23:36 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 16:23:36 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 16:23:36 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:23:46 INFO  FunctionLibrary:69 - Entering Data into domain_search
+2014-06-13 16:23:46 INFO  FunctionLibrary:78 - Selecting DropDown Value .com
+2014-06-13 16:23:46 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr[2]/td/table/tbody/tr/td[3]/a/img
+2014-06-13 16:23:46 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:23:56 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:23:56 INFO  FunctionLibrary:365 - newgt.com is already registered *
+2014-06-13 16:23:56 INFO  FunctionLibrary:366 - newgt.com is already registered *
+2014-06-13 16:23:56 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:23:57 INFO  FunctionLibrary:365 - Buy a similar domain.
+2014-06-13 16:23:57 INFO  FunctionLibrary:366 - Buy a similar domain.
+2014-06-13 16:23:57 INFO  FunctionLibrary:65 - Clicking on Button suggestion_1
+2014-06-13 16:23:57 INFO  FunctionLibrary:65 - Clicking on Button suggestion_2
+2014-06-13 16:23:57 INFO  FunctionLibrary:65 - Clicking on Button suggestion_3
+2014-06-13 16:23:57 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div[2]/table/tbody/tr[3]/td/span/table/tbody/tr[2]/td/table/tbody/tr[3]/td[2]/table/tbody/tr/td/div/a
+2014-06-13 16:23:57 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:24:07 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 16:24:07 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:24:17 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr/td/a/img
+2014-06-13 16:24:18 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:24:28 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 16:24:28 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 16:24:28 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 16:24:28 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 16:24:28 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 16:24:28 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:24:38 INFO  FunctionLibrary:69 - Entering Data into domain_search
+2014-06-13 16:24:38 INFO  FunctionLibrary:78 - Selecting DropDown Value .com
+2014-06-13 16:24:38 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr[2]/td/table/tbody/tr/td[3]/a/img
+2014-06-13 16:24:38 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:24:48 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div[2]/table/tbody/tr[3]/td/span/table/tbody/tr[2]/td[3]/table/tbody/tr[2]/td[2]/table/tbody/tr/td/div/a
+2014-06-13 16:24:49 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 16:24:59 INFO  FunctionLibrary:102 - Switch to New Window
+2014-06-13 16:24:59 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 16:24:59 INFO  FunctionLibrary:365 - newgt.com
+2014-06-13 16:24:59 INFO  FunctionLibrary:366 - newgt.com
+2014-06-13 16:24:59 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 17:51:09 INFO  FunctionLibrary:36 - Initialized All Resources Files
+2014-06-13 17:51:09 INFO  FunctionLibrary:38 - Creatng Driver Script Object
+2014-06-13 17:51:09 INFO  FunctionLibrary:40 - Creating Test Suite
+2014-06-13 17:51:09 INFO  FunctionLibrary:42 - Creating Test Suite For Email Report
+2014-06-13 17:51:09 INFO  FunctionLibrary:47 - Creating Suite In Detailed Test Report
+2014-06-13 17:51:09 INFO  FunctionLibrary:49 - Creating Suite In Mailing Report
+2014-06-13 17:51:09 INFO  FunctionLibrary:54 - Creating Excel Sheet For Test Results
+2014-06-13 17:51:09 INFO  FunctionLibrary:93 - Launching Mozilla Firefox.......
+2014-06-13 17:51:53 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 17:51:53 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 17:51:53 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 17:51:53 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 17:51:53 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 17:52:03 INFO  FunctionLibrary:181 - Scroll down
+2014-06-13 17:52:03 INFO  FunctionLibrary:314 - Scroll down
+2014-06-13 17:52:03 INFO  FunctionLibrary:894 - Type here for whois, domain and keyword results
+2014-06-13 17:52:03 INFO  FunctionLibrary:895 - Type here for whois, domain and keyword results
+2014-06-13 17:52:03 INFO  FunctionLibrary:69 - Entering Data into domain_search
+2014-06-13 17:52:04 INFO  FunctionLibrary:78 - Selecting DropDown Value .net
+2014-06-13 17:52:04 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr[2]/td/table/tbody/tr/td[3]/a/img
+2014-06-13 17:52:05 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 17:52:15 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 17:52:15 INFO  FunctionLibrary:365 - newgt.net is available *
+2014-06-13 17:52:15 INFO  FunctionLibrary:366 - newgt.net is available *
+2014-06-13 17:52:15 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div[2]/table/tbody/tr[3]/td/span/table/tbody/tr[1]/td/table/tbody/tr[2]/td[2]/table/tbody/tr[1]/td/table/tbody/tr/td[2]/div/a
+2014-06-13 17:52:15 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 17:52:25 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 17:52:39 INFO  FunctionLibrary:365 - Congratulations!
+2014-06-13 17:52:39 INFO  FunctionLibrary:366 - Congratulations!
+2014-06-13 17:52:39 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 17:52:39 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 17:52:39 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 17:52:39 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 17:52:39 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 17:52:39 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 17:52:39 INFO  FunctionLibrary:65 - Clicking on Button Sign In
+2014-06-13 17:52:45 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 17:52:47 INFO  FunctionLibrary:365 - New to WhoIs.net? 
+2014-06-13 17:52:47 INFO  FunctionLibrary:366 - New to WhoIs.net?
+Request an account here.
+2014-06-13 17:52:47 INFO  FunctionLibrary:372 - Error in text - //html/body/form/div[2]/table/tbody/tr/td[3]/table/tbody/tr[3]/td
+2014-06-13 17:52:47 INFO  FunctionLibrary:373 - Actual - New to WhoIs.net?
+Request an account here.
+2014-06-13 17:52:47 INFO  FunctionLibrary:374 - Expected -New to WhoIs.net? 
+2014-06-13 17:52:47 FATAL FunctionLibrary:375 - test verify
+2014-06-13 17:52:47 ERROR FunctionLibrary:376 - error
+2014-06-13 17:52:47 INFO  FunctionLibrary:69 - Entering Data into user_input
+2014-06-13 17:52:48 INFO  FunctionLibrary:69 - Entering Data into pass_input
+2014-06-13 17:52:48 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/div[2]/table/tbody/tr/td[2]/table/tbody/tr[6]/td/a
+2014-06-13 17:52:50 INFO  FunctionLibrary:186 - Test Scenario Result --Fail
+2014-06-13 17:52:50 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 17:52:50 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 17:52:51 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 17:52:51 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 17:52:51 INFO  FunctionLibrary:65 - Clicking on Button Forgot your password?
+2014-06-13 17:52:51 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 17:52:51 INFO  FunctionLibrary:365 - Lost Password
+2014-06-13 17:52:51 INFO  FunctionLibrary:366 - Lost Password
+2014-06-13 17:52:51 INFO  FunctionLibrary:69 - Entering Data into lost_email
+2014-06-13 17:52:52 INFO  FunctionLibrary:65 - Clicking on Button Submit
+2014-06-13 17:52:55 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 17:52:55 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 17:52:55 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 17:52:55 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 17:52:55 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 17:52:55 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 17:52:55 INFO  FunctionLibrary:365 - New Account Request
+2014-06-13 17:52:55 INFO  FunctionLibrary:366 - New Account Request
+2014-06-13 17:52:55 INFO  FunctionLibrary:65 - Clicking on Button Request Account
+2014-06-13 17:52:55 INFO  FunctionLibrary:69 - Entering Data into company_input
+2014-06-13 17:52:55 INFO  FunctionLibrary:69 - Entering Data into name_input
+2014-06-13 17:52:56 INFO  FunctionLibrary:69 - Entering Data into email_input
+2014-06-13 17:52:56 INFO  FunctionLibrary:69 - Entering Data into phone_input
+2014-06-13 17:52:56 INFO  FunctionLibrary:65 - Clicking on Button Submit Request
+2014-06-13 17:52:58 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/div[2]/table/tbody/tr/td[1]/a/img
+2014-06-13 17:52:59 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 17:52:59 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 17:52:59 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 17:52:59 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 17:52:59 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 17:52:59 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 17:53:09 INFO  FunctionLibrary:65 - Clicking on Button VPS Hosting,
+2014-06-13 17:53:09 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 17:53:19 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 17:53:32 INFO  FunctionLibrary:365 - ADVANCED VPS HOSTING
+2014-06-13 17:53:32 INFO  FunctionLibrary:366 - ADVANCED VPS HOSTING
+2014-06-13 17:53:32 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 17:53:33 INFO  FunctionLibrary:65 - Clicking on Button Dedicated Hosting,
+2014-06-13 17:53:34 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 17:53:44 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 17:53:44 INFO  FunctionLibrary:365 - Dedicated Web Hosting Delivers the Security of Your Own Server
+2014-06-13 17:53:44 INFO  FunctionLibrary:366 - Dedicated Web Hosting Delivers the Security of Your Own Server
+2014-06-13 17:53:44 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 17:53:44 INFO  FunctionLibrary:65 - Clicking on Button Shared Hosting
+2014-06-13 17:53:45 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 17:53:55 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 17:53:55 INFO  FunctionLibrary:365 - Get the Online Tools You Need to Succeed with Verio's Shared Web Hosting
+2014-06-13 17:53:55 INFO  FunctionLibrary:366 - Get the Online Tools You Need to Succeed with Verio's Shared Web Hosting
+2014-06-13 17:53:55 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 17:53:55 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 17:53:56 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 17:53:56 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 17:53:56 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 17:53:56 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 17:53:56 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 17:54:06 INFO  FunctionLibrary:65 - Clicking on Button Domain Name Registration
+2014-06-13 17:54:06 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 17:54:16 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 17:54:21 INFO  FunctionLibrary:365 - Verio offers tons of FREE tools with every domain and FREE domain registration when you order a hosting plan.
+2014-06-13 17:54:21 INFO  FunctionLibrary:366 - Verio offers tons of FREE tools with every domain and FREE domain registration when you order a hosting plan.
+2014-06-13 17:54:21 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 17:54:21 INFO  FunctionLibrary:65 - Clicking on Button Sitemap
+2014-06-13 17:54:22 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 17:54:32 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 17:54:33 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 17:54:43 INFO  FunctionLibrary:65 - Clicking on Button Support
+2014-06-13 17:54:47 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 17:54:57 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 17:55:51 INFO  FunctionLibrary:205 - 
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//html/body/div/div[4]/div/h1"}
+Command duration or timeout: 10.27 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: 21176f5b-bc84-4104-b142-6b97d9b27d9b
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=30.0}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.projectname.base.Keywords.welement(Keywords.java:370)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:258)
+	at com.projectname.base.FunctionLibrary.verifyText(FunctionLibrary.java:362)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:91)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:183)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:102)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//html/body/div/div[4]/div/h1"}
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous3911435084927026353webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860:7)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous3911435084927026353webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396:5)
+2014-06-13 17:55:52 INFO  FunctionLibrary:186 - Test Scenario Result --Fail
+2014-06-13 17:55:52 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 17:55:52 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 17:55:52 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 17:55:52 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 17:55:52 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 17:56:02 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr[5]/td/table/tbody/tr/td/div/a/img
+2014-06-13 17:56:33 INFO  FunctionLibrary:205 - 
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr[5]/td/table/tbody/tr/td/div/a/img"}
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: 21176f5b-bc84-4104-b142-6b97d9b27d9b
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=30.0}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:307)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:299)
+	at com.projectname.base.Keywords.welement(Keywords.java:370)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:245)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:66)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:183)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:102)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Unable to locate element: {"method":"xpath","selector":"//html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr[5]/td/table/tbody/tr/td/div/a/img"}
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous3911435084927026353webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860:7)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous3911435084927026353webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:396:5)
+2014-06-13 17:56:34 INFO  FunctionLibrary:186 - Test Scenario Result --Fail
+2014-06-13 17:56:34 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 17:56:34 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 17:56:34 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 17:56:34 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 17:56:34 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 17:56:44 INFO  FunctionLibrary:169 - Mouse Over to //html/body/form/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td[3]/a/img
+2014-06-13 17:58:59 INFO  FunctionLibrary:65 - Clicking on Button a2apage_EMAIL
+2014-06-13 17:59:25 INFO  FunctionLibrary:205 - 
+org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 10.06 seconds
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Session ID: 21176f5b-bc84-4104-b142-6b97d9b27d9b
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=30.0}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:193)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:145)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:554)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:268)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:79)
+	at com.projectname.base.Keywords.actionElement(Keywords.java:246)
+	at com.projectname.base.Keywords.controlScript(Keywords.java:66)
+	at com.projectname.scripts.DriverScriptTest.controlscript(DriverScriptTest.java:183)
+	at com.projectname.scripts.DriverScriptTest.driverScript(DriverScriptTest.java:102)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: org.openqa.selenium.remote.ErrorHandler$UnknownServerException: Element is not currently visible and so may not be interacted with
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'Nagarjuna-PC', ip: '172.16.0.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_55'
+Driver info: driver.version: unknown
+	at <anonymous class>.fxdriver.preconditions.visible(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous3911435084927026353webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:8179:5)
+	at <anonymous class>.DelayedCommand.prototype.checkPreconditions_(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous3911435084927026353webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10814:1)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous3911435084927026353webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10831:11)
+	at <anonymous class>.fxdriver.Timer.prototype.setTimeout/<.notify(file:///C:/Users/NAGARJ~1/AppData/Local/Temp/anonymous3911435084927026353webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:396:5)
+2014-06-13 17:59:25 INFO  FunctionLibrary:186 - Test Scenario Result --Fail
+2014-06-13 17:59:26 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 17:59:26 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 17:59:26 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 17:59:26 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 17:59:26 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 17:59:36 INFO  FunctionLibrary:133 - 
+2014-06-13 17:59:36 INFO  FunctionLibrary:65 - Clicking on Button //a[@id='follow-button']/span
+2014-06-13 17:59:36 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 17:59:46 INFO  FunctionLibrary:102 - Switch to New Window
+2014-06-13 17:59:46 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 17:59:46 INFO  FunctionLibrary:365 - Whois.net @WhoisNet
+2014-06-13 17:59:46 INFO  FunctionLibrary:366 - Whois.net @WhoisNet
+2014-06-13 17:59:46 INFO  FunctionLibrary:129 - Switching to Parent Window
+2014-06-13 17:59:47 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 17:59:47 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 17:59:47 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 17:59:47 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 17:59:47 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 17:59:47 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 17:59:57 INFO  FunctionLibrary:133 - 
+2014-06-13 17:59:57 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:00:07 INFO  FunctionLibrary:65 - Clicking on Button //div/div/span/div/div/div/div
+2014-06-13 18:00:07 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:00:17 INFO  FunctionLibrary:102 - Switch to New Window
+2014-06-13 18:00:17 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:00:17 INFO  FunctionLibrary:365 - Sign in to continue to Google+
+2014-06-13 18:00:17 INFO  FunctionLibrary:366 - Sign in to continue to Google+
+2014-06-13 18:00:17 INFO  FunctionLibrary:129 - Switching to Parent Window
+2014-06-13 18:00:18 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr/td/a/img
+2014-06-13 18:00:18 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:00:28 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 18:00:28 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 18:00:28 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 18:00:28 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 18:00:28 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 18:00:28 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:00:38 INFO  FunctionLibrary:69 - Entering Data into domain_search
+2014-06-13 18:00:38 INFO  FunctionLibrary:78 - Selecting DropDown Value .com
+2014-06-13 18:00:39 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr[2]/td/table/tbody/tr/td[3]/a/img
+2014-06-13 18:00:39 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:00:49 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:00:49 INFO  FunctionLibrary:365 - newgt.com is already registered *
+2014-06-13 18:00:49 INFO  FunctionLibrary:366 - newgt.com is already registered *
+2014-06-13 18:00:49 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:00:49 INFO  FunctionLibrary:365 - Buy a similar domain.
+2014-06-13 18:00:49 INFO  FunctionLibrary:366 - Buy a similar domain.
+2014-06-13 18:00:49 INFO  FunctionLibrary:65 - Clicking on Button suggestion_1
+2014-06-13 18:00:49 INFO  FunctionLibrary:65 - Clicking on Button suggestion_2
+2014-06-13 18:00:49 INFO  FunctionLibrary:65 - Clicking on Button suggestion_3
+2014-06-13 18:00:49 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div[2]/table/tbody/tr[3]/td/span/table/tbody/tr[2]/td/table/tbody/tr[3]/td[2]/table/tbody/tr/td/div/a
+2014-06-13 18:00:50 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:01:00 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 18:01:01 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:01:11 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr/td/a/img
+2014-06-13 18:01:11 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:01:21 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 18:01:21 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 18:01:21 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 18:01:21 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 18:01:21 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 18:01:21 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:01:31 INFO  FunctionLibrary:69 - Entering Data into domain_search
+2014-06-13 18:01:31 INFO  FunctionLibrary:78 - Selecting DropDown Value .com
+2014-06-13 18:01:32 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr[2]/td/table/tbody/tr/td[3]/a/img
+2014-06-13 18:01:32 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:01:42 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div[2]/table/tbody/tr[3]/td/span/table/tbody/tr[2]/td[3]/table/tbody/tr[2]/td[2]/table/tbody/tr/td/div/a
+2014-06-13 18:01:42 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:01:52 INFO  FunctionLibrary:102 - Switch to New Window
+2014-06-13 18:01:52 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:01:53 INFO  FunctionLibrary:365 - newgt.com
+2014-06-13 18:01:53 INFO  FunctionLibrary:366 - newgt.com
+2014-06-13 18:01:53 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 18:03:18 INFO  FunctionLibrary:36 - Initialized All Resources Files
+2014-06-13 18:03:18 INFO  FunctionLibrary:38 - Creatng Driver Script Object
+2014-06-13 18:03:18 INFO  FunctionLibrary:40 - Creating Test Suite
+2014-06-13 18:03:18 INFO  FunctionLibrary:42 - Creating Test Suite For Email Report
+2014-06-13 18:03:18 INFO  FunctionLibrary:47 - Creating Suite In Detailed Test Report
+2014-06-13 18:03:18 INFO  FunctionLibrary:49 - Creating Suite In Mailing Report
+2014-06-13 18:03:18 INFO  FunctionLibrary:54 - Creating Excel Sheet For Test Results
+2014-06-13 18:03:18 INFO  FunctionLibrary:93 - Launching Mozilla Firefox.......
+2014-06-13 18:03:34 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 18:03:34 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 18:03:34 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 18:03:34 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 18:03:34 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:03:44 INFO  FunctionLibrary:181 - Scroll down
+2014-06-13 18:03:44 INFO  FunctionLibrary:314 - Scroll down
+2014-06-13 18:03:44 INFO  FunctionLibrary:894 - Type here for whois, domain and keyword results
+2014-06-13 18:03:44 INFO  FunctionLibrary:895 - Type here for whois, domain and keyword results
+2014-06-13 18:03:44 INFO  FunctionLibrary:69 - Entering Data into domain_search
+2014-06-13 18:03:44 INFO  FunctionLibrary:78 - Selecting DropDown Value .net
+2014-06-13 18:03:45 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr[2]/td/table/tbody/tr/td[3]/a/img
+2014-06-13 18:03:49 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:03:59 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:03:59 INFO  FunctionLibrary:365 - newgt.net is available *
+2014-06-13 18:03:59 INFO  FunctionLibrary:366 - newgt.net is available *
+2014-06-13 18:03:59 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div[2]/table/tbody/tr[3]/td/span/table/tbody/tr[1]/td/table/tbody/tr[2]/td[2]/table/tbody/tr[1]/td/table/tbody/tr/td[2]/div/a
+2014-06-13 18:03:59 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:04:09 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:04:17 INFO  FunctionLibrary:365 - Congratulations!
+2014-06-13 18:04:17 INFO  FunctionLibrary:366 - Congratulations!
+2014-06-13 18:04:17 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 18:04:17 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 18:04:17 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 18:04:17 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 18:04:18 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 18:04:18 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 18:04:18 INFO  FunctionLibrary:65 - Clicking on Button Sign In
+2014-06-13 18:04:20 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:04:20 INFO  FunctionLibrary:365 - New to WhoIs.net? 
+2014-06-13 18:04:20 INFO  FunctionLibrary:366 - New to WhoIs.net?
+Request an account here.
+2014-06-13 18:04:20 INFO  FunctionLibrary:372 - Error in text - //html/body/form/div[2]/table/tbody/tr/td[3]/table/tbody/tr[3]/td
+2014-06-13 18:04:20 INFO  FunctionLibrary:373 - Actual - New to WhoIs.net?
+Request an account here.
+2014-06-13 18:04:20 INFO  FunctionLibrary:374 - Expected -New to WhoIs.net? 
+2014-06-13 18:04:20 FATAL FunctionLibrary:375 - test verify
+2014-06-13 18:04:20 ERROR FunctionLibrary:376 - error
+2014-06-13 18:04:20 INFO  FunctionLibrary:69 - Entering Data into user_input
+2014-06-13 18:04:20 INFO  FunctionLibrary:69 - Entering Data into pass_input
+2014-06-13 18:04:20 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/div[2]/table/tbody/tr/td[2]/table/tbody/tr[6]/td/a
+2014-06-13 18:04:24 INFO  FunctionLibrary:186 - Test Scenario Result --Fail
+2014-06-13 18:04:24 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 18:04:24 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 18:04:24 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 18:04:24 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 18:04:24 INFO  FunctionLibrary:65 - Clicking on Button Forgot your password?
+2014-06-13 18:04:25 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:04:25 INFO  FunctionLibrary:365 - Lost Password
+2014-06-13 18:04:25 INFO  FunctionLibrary:366 - Lost Password
+2014-06-13 18:04:25 INFO  FunctionLibrary:69 - Entering Data into lost_email
+2014-06-13 18:04:25 INFO  FunctionLibrary:65 - Clicking on Button Submit
+2014-06-13 18:04:27 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 18:04:27 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 18:04:27 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 18:04:28 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 18:04:28 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 18:04:28 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:04:28 INFO  FunctionLibrary:365 - New Account Request
+2014-06-13 18:04:28 INFO  FunctionLibrary:366 - New Account Request
+2014-06-13 18:04:28 INFO  FunctionLibrary:65 - Clicking on Button Request Account
+2014-06-13 18:04:28 INFO  FunctionLibrary:69 - Entering Data into company_input
+2014-06-13 18:04:28 INFO  FunctionLibrary:69 - Entering Data into name_input
+2014-06-13 18:04:28 INFO  FunctionLibrary:69 - Entering Data into email_input
+2014-06-13 18:04:29 INFO  FunctionLibrary:69 - Entering Data into phone_input
+2014-06-13 18:04:29 INFO  FunctionLibrary:65 - Clicking on Button Submit Request
+2014-06-13 18:04:31 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/div[2]/table/tbody/tr/td[1]/a/img
+2014-06-13 18:04:31 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 18:04:31 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 18:04:31 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 18:04:32 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 18:04:32 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 18:04:32 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:04:45 INFO  FunctionLibrary:36 - Initialized All Resources Files
+2014-06-13 18:04:45 INFO  FunctionLibrary:38 - Creatng Driver Script Object
+2014-06-13 18:04:45 INFO  FunctionLibrary:40 - Creating Test Suite
+2014-06-13 18:04:45 INFO  FunctionLibrary:42 - Creating Test Suite For Email Report
+2014-06-13 18:04:45 INFO  FunctionLibrary:47 - Creating Suite In Detailed Test Report
+2014-06-13 18:04:45 INFO  FunctionLibrary:49 - Creating Suite In Mailing Report
+2014-06-13 18:04:45 INFO  FunctionLibrary:54 - Creating Excel Sheet For Test Results
+2014-06-13 18:04:45 INFO  FunctionLibrary:93 - Launching Mozilla Firefox.......
+2014-06-13 18:05:19 INFO  FunctionLibrary:36 - Initialized All Resources Files
+2014-06-13 18:05:19 INFO  FunctionLibrary:38 - Creatng Driver Script Object
+2014-06-13 18:05:19 INFO  FunctionLibrary:40 - Creating Test Suite
+2014-06-13 18:05:19 INFO  FunctionLibrary:42 - Creating Test Suite For Email Report
+2014-06-13 18:05:19 INFO  FunctionLibrary:47 - Creating Suite In Detailed Test Report
+2014-06-13 18:05:19 INFO  FunctionLibrary:49 - Creating Suite In Mailing Report
+2014-06-13 18:05:19 INFO  FunctionLibrary:54 - Creating Excel Sheet For Test Results
+2014-06-13 18:05:19 INFO  FunctionLibrary:93 - Launching Mozilla Firefox.......
+2014-06-13 18:05:35 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 18:05:35 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 18:05:35 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 18:05:35 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 18:05:35 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:05:45 INFO  FunctionLibrary:181 - Scroll down
+2014-06-13 18:05:45 INFO  FunctionLibrary:314 - Scroll down
+2014-06-13 18:05:45 INFO  FunctionLibrary:894 - Type here for whois, domain and keyword results
+2014-06-13 18:05:45 INFO  FunctionLibrary:895 - Type here for whois, domain and keyword results
+2014-06-13 18:05:45 INFO  FunctionLibrary:69 - Entering Data into domain_search
+2014-06-13 18:05:45 INFO  FunctionLibrary:78 - Selecting DropDown Value .net
+2014-06-13 18:05:46 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr[2]/td/table/tbody/tr/td[3]/a/img
+2014-06-13 18:05:46 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:05:56 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:05:57 INFO  FunctionLibrary:365 - newgt.net is available *
+2014-06-13 18:05:57 INFO  FunctionLibrary:366 - newgt.net is available *
+2014-06-13 18:05:57 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div[2]/table/tbody/tr[3]/td/span/table/tbody/tr[1]/td/table/tbody/tr[2]/td[2]/table/tbody/tr[1]/td/table/tbody/tr/td[2]/div/a
+2014-06-13 18:05:57 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:06:07 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:06:12 INFO  FunctionLibrary:365 - Congratulations!
+2014-06-13 18:06:12 INFO  FunctionLibrary:366 - Congratulations!
+2014-06-13 18:06:12 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 18:06:12 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 18:06:12 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 18:06:12 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 18:06:12 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 18:06:12 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 18:06:12 INFO  FunctionLibrary:65 - Clicking on Button Sign In
+2014-06-13 18:06:15 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:06:17 INFO  FunctionLibrary:365 - New to WhoIs.net? 
+2014-06-13 18:06:17 INFO  FunctionLibrary:366 - New to WhoIs.net?
+Request an account here.
+2014-06-13 18:06:17 INFO  FunctionLibrary:372 - Error in text - //html/body/form/div[2]/table/tbody/tr/td[3]/table/tbody/tr[3]/td
+2014-06-13 18:06:17 INFO  FunctionLibrary:373 - Actual - New to WhoIs.net?
+Request an account here.
+2014-06-13 18:06:17 INFO  FunctionLibrary:374 - Expected -New to WhoIs.net? 
+2014-06-13 18:06:17 FATAL FunctionLibrary:375 - test verify
+2014-06-13 18:06:17 ERROR FunctionLibrary:376 - error
+2014-06-13 18:06:17 INFO  FunctionLibrary:69 - Entering Data into user_input
+2014-06-13 18:06:18 INFO  FunctionLibrary:69 - Entering Data into pass_input
+2014-06-13 18:06:18 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/div[2]/table/tbody/tr/td[2]/table/tbody/tr[6]/td/a
+2014-06-13 18:06:20 INFO  FunctionLibrary:186 - Test Scenario Result --Fail
+2014-06-13 18:06:20 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 18:06:20 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 18:06:20 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 18:06:20 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 18:06:20 INFO  FunctionLibrary:65 - Clicking on Button Forgot your password?
+2014-06-13 18:06:21 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:06:21 INFO  FunctionLibrary:365 - Lost Password
+2014-06-13 18:06:21 INFO  FunctionLibrary:366 - Lost Password
+2014-06-13 18:06:21 INFO  FunctionLibrary:69 - Entering Data into lost_email
+2014-06-13 18:06:21 INFO  FunctionLibrary:65 - Clicking on Button Submit
+2014-06-13 18:06:29 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 18:06:29 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 18:06:29 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 18:06:29 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 18:06:29 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 18:06:29 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:06:30 INFO  FunctionLibrary:365 - New Account Request
+2014-06-13 18:06:30 INFO  FunctionLibrary:366 - New Account Request
+2014-06-13 18:06:30 INFO  FunctionLibrary:65 - Clicking on Button Request Account
+2014-06-13 18:06:30 INFO  FunctionLibrary:69 - Entering Data into company_input
+2014-06-13 18:06:30 INFO  FunctionLibrary:69 - Entering Data into name_input
+2014-06-13 18:06:31 INFO  FunctionLibrary:69 - Entering Data into email_input
+2014-06-13 18:06:31 INFO  FunctionLibrary:69 - Entering Data into phone_input
+2014-06-13 18:06:31 INFO  FunctionLibrary:65 - Clicking on Button Submit Request
+2014-06-13 18:06:34 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/div[2]/table/tbody/tr/td[1]/a/img
+2014-06-13 18:06:35 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 18:06:35 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 18:06:35 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 18:06:35 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 18:06:35 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 18:06:35 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:06:45 INFO  FunctionLibrary:65 - Clicking on Button VPS Hosting,
+2014-06-13 18:06:46 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:06:56 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:06:56 INFO  FunctionLibrary:365 - ADVANCED VPS HOSTING
+2014-06-13 18:06:56 INFO  FunctionLibrary:366 - ADVANCED VPS HOSTING
+2014-06-13 18:06:56 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 18:06:56 INFO  FunctionLibrary:65 - Clicking on Button Dedicated Hosting,
+2014-06-13 18:06:57 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:07:07 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:07:07 INFO  FunctionLibrary:365 - Dedicated Web Hosting Delivers the Security of Your Own Server
+2014-06-13 18:07:07 INFO  FunctionLibrary:366 - Dedicated Web Hosting Delivers the Security of Your Own Server
+2014-06-13 18:07:07 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 18:07:07 INFO  FunctionLibrary:65 - Clicking on Button Shared Hosting
+2014-06-13 18:07:08 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:07:18 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:07:18 INFO  FunctionLibrary:365 - Get the Online Tools You Need to Succeed with Verio's Shared Web Hosting
+2014-06-13 18:07:18 INFO  FunctionLibrary:366 - Get the Online Tools You Need to Succeed with Verio's Shared Web Hosting
+2014-06-13 18:07:18 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 18:07:18 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 18:07:18 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 18:07:18 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 18:07:18 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 18:07:18 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 18:07:18 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:07:28 INFO  FunctionLibrary:65 - Clicking on Button Domain Name Registration
+2014-06-13 18:07:29 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:07:39 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:07:39 INFO  FunctionLibrary:365 - Verio offers tons of FREE tools with every domain and FREE domain registration when you order a hosting plan.
+2014-06-13 18:07:39 INFO  FunctionLibrary:366 - Verio offers tons of FREE tools with every domain and FREE domain registration when you order a hosting plan.
+2014-06-13 18:07:39 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 18:07:39 INFO  FunctionLibrary:65 - Clicking on Button Sitemap
+2014-06-13 18:07:41 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:07:51 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 18:07:51 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:08:01 INFO  FunctionLibrary:65 - Clicking on Button Support
+2014-06-13 18:08:02 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:08:12 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:08:12 INFO  FunctionLibrary:365 - SELF SERVICE PORTAL
+2014-06-13 18:08:12 INFO  FunctionLibrary:366 - SELF SERVICE PORTAL
+2014-06-13 18:08:12 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:08:22 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 18:08:22 INFO  FunctionLibrary:65 - Clicking on Button Privacy Policy
+2014-06-13 18:08:26 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:08:36 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:08:36 INFO  FunctionLibrary:365 - Privacy Policy for Customer and Visitor Information
+2014-06-13 18:08:36 INFO  FunctionLibrary:366 - Privacy Policy for Customer and Visitor Information
+2014-06-13 18:08:36 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 18:08:36 INFO  FunctionLibrary:65 - Clicking on Button *** Terms and Conditions
+2014-06-13 18:08:38 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:08:48 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:08:48 INFO  FunctionLibrary:365 - TERMS AND CONDITIONS OF WHOIS.NET ("WHOIS.NET")
+2014-06-13 18:08:48 INFO  FunctionLibrary:366 - TERMS AND CONDITIONS OF WHOIS.NET ("WHOIS.NET")
+2014-06-13 18:08:48 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 18:08:49 INFO  FunctionLibrary:65 - Clicking on Button Quick Links
+2014-06-13 18:08:51 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:09:01 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:09:01 INFO  FunctionLibrary:365 - Shared Hosting | VPS Hosting | Dedicated Hosting | Ecommerce Hosting | Windows Hosting
+2014-06-13 18:09:01 INFO  FunctionLibrary:366 - Shared Hosting | VPS Hosting | Dedicated Hosting | Ecommerce Hosting | Windows Hosting
+Unix Hosting | Linux Hosting | Hosted Microsoft Exchange 2010 | Microsoft SharePoint Hosting | Whois Lookup
+2014-06-13 18:09:01 INFO  FunctionLibrary:372 - Error in text - //html/body/form/table/tbody/tr[4]/td/table/tbody/tr/td
+2014-06-13 18:09:01 INFO  FunctionLibrary:373 - Actual - Shared Hosting | VPS Hosting | Dedicated Hosting | Ecommerce Hosting | Windows Hosting
+Unix Hosting | Linux Hosting | Hosted Microsoft Exchange 2010 | Microsoft SharePoint Hosting | Whois Lookup
+2014-06-13 18:09:01 INFO  FunctionLibrary:374 - Expected -Shared Hosting | VPS Hosting | Dedicated Hosting | Ecommerce Hosting | Windows Hosting
+2014-06-13 18:09:01 FATAL FunctionLibrary:375 - test verify
+2014-06-13 18:09:01 ERROR FunctionLibrary:376 - error
+2014-06-13 18:09:01 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 18:09:01 INFO  FunctionLibrary:65 - Clicking on Button Website Hosting
+2014-06-13 18:09:04 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:09:14 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:09:14 INFO  FunctionLibrary:365 - New Products!
+2014-06-13 18:09:14 INFO  FunctionLibrary:366 - New Products!
+2014-06-13 18:09:14 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 18:09:14 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/div[2]/table/tbody/tr/td[1]/a/img
+2014-06-13 18:09:16 INFO  FunctionLibrary:186 - Test Scenario Result --Fail
+2014-06-13 18:09:16 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 18:09:16 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 18:09:16 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 18:09:16 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 18:09:16 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:09:26 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr[5]/td/table/tbody/tr/td/div/a/img
+2014-06-13 18:09:27 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:09:37 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:09:37 INFO  FunctionLibrary:365 - Our WhoIs lookup is designed to help you perform a variety of whois lookup functions. WhoIs lets you perform a domain whois search, whois IP lookup and search the whois database for relevant information on domain registration and availability. This can help provide insight into a domain's history and additional information. Use WhoIs lookup anytime you want to perform a search to see who owns a domain name, how many pages from a site are listed with Google or even search WhoIs address listings for a website's owner.
+2014-06-13 18:09:37 INFO  FunctionLibrary:366 - Our WhoIs lookup is designed to help you perform a variety of whois lookup functions. WhoIs lets you perform a domain whois search, whois IP lookup and search the whois database for relevant information on domain registration and availability. This can help provide insight into a domain's history and additional information. Use WhoIs lookup anytime you want to perform a search to see who owns a domain name, how many pages from a site are listed with Google or even search WhoIs address listings for a website's owner.
+2014-06-13 18:09:37 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr[5]/td/table/tbody/tr/td/div/a/img
+2014-06-13 18:09:37 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 18:09:37 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 18:09:37 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 18:09:37 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 18:09:37 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 18:09:37 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:09:47 INFO  FunctionLibrary:169 - Mouse Over to //html/body/form/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td[3]/a/img
+2014-06-13 18:09:47 INFO  FunctionLibrary:65 - Clicking on Button a2apage_EMAIL
+2014-06-13 18:09:51 INFO  FunctionLibrary:65 - Clicking on Button Google Gmail
+2014-06-13 18:09:51 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:10:01 INFO  FunctionLibrary:102 - Switch to New Window
+2014-06-13 18:10:02 INFO  FunctionLibrary:94 - Verifying Page Title
+2014-06-13 18:10:02 INFO  FunctionLibrary:386 - Gmail - Email from Google
+2014-06-13 18:10:02 INFO  FunctionLibrary:387 - Gmail - Email from Google
+2014-06-13 18:10:02 INFO  FunctionLibrary:129 - Switching to Parent Window
+2014-06-13 18:10:02 INFO  FunctionLibrary:169 - Mouse Over to //html/body/form/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td[3]/a/img
+2014-06-13 18:10:02 INFO  FunctionLibrary:65 - Clicking on Button a2apage_EMAIL
+2014-06-13 18:10:02 INFO  FunctionLibrary:65 - Clicking on Button Yahoo Mail
+2014-06-13 18:10:03 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:10:13 INFO  FunctionLibrary:102 - Switch to New Window
+2014-06-13 18:10:13 INFO  FunctionLibrary:94 - Verifying Page Title
+2014-06-13 18:10:13 INFO  FunctionLibrary:386 - Sign in to Yahoo
+2014-06-13 18:10:13 INFO  FunctionLibrary:387 - Sign in to Yahoo
+2014-06-13 18:10:13 INFO  FunctionLibrary:129 - Switching to Parent Window
+2014-06-13 18:10:13 INFO  FunctionLibrary:169 - Mouse Over to //html/body/form/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td[3]/a/img
+2014-06-13 18:10:14 INFO  FunctionLibrary:65 - Clicking on Button //html/body/div/div/div/div[2]/div/div/span
+2014-06-13 18:10:14 INFO  FunctionLibrary:65 - Clicking on Button Twitter
+2014-06-13 18:10:14 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:10:24 INFO  FunctionLibrary:102 - Switch to New Window
+2014-06-13 18:10:24 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:10:25 INFO  FunctionLibrary:365 - What is Twitter? Learn more
+2014-06-13 18:10:25 INFO  FunctionLibrary:366 - What is Twitter? Learn more
+2014-06-13 18:10:25 INFO  FunctionLibrary:129 - Switching to Parent Window
+2014-06-13 18:10:25 INFO  FunctionLibrary:169 - Mouse Over to //html/body/form/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td[3]/a/img
+2014-06-13 18:10:25 INFO  FunctionLibrary:65 - Clicking on Button //html/body/div/div/div/div[2]/div/div/span
+2014-06-13 18:10:25 INFO  FunctionLibrary:65 - Clicking on Button LinkedIn
+2014-06-13 18:10:26 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:10:36 INFO  FunctionLibrary:102 - Switch to New Window
+2014-06-13 18:10:36 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:10:36 INFO  FunctionLibrary:365 - To join LinkedIn, sign up below...it's free!
+2014-06-13 18:10:36 INFO  FunctionLibrary:366 - To join LinkedIn, sign up below...it's free!
+2014-06-13 18:10:36 INFO  FunctionLibrary:129 - Switching to Parent Window
+2014-06-13 18:10:36 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 18:10:36 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 18:10:36 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 18:10:36 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 18:10:36 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 18:10:36 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:10:46 INFO  FunctionLibrary:133 - 
+2014-06-13 18:10:47 INFO  FunctionLibrary:65 - Clicking on Button //a[@id='follow-button']/span
+2014-06-13 18:10:47 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:10:57 INFO  FunctionLibrary:102 - Switch to New Window
+2014-06-13 18:10:57 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:10:57 INFO  FunctionLibrary:365 - Whois.net @WhoisNet
+2014-06-13 18:10:57 INFO  FunctionLibrary:366 - Whois.net @WhoisNet
+2014-06-13 18:10:57 INFO  FunctionLibrary:129 - Switching to Parent Window
+2014-06-13 18:10:57 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 18:10:57 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 18:10:57 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 18:10:58 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 18:10:58 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 18:10:58 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:11:08 INFO  FunctionLibrary:133 - 
+2014-06-13 18:11:08 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:11:18 INFO  FunctionLibrary:65 - Clicking on Button //div/div/span/div/div/div/div
+2014-06-13 18:11:18 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:11:28 INFO  FunctionLibrary:102 - Switch to New Window
+2014-06-13 18:11:29 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:11:29 INFO  FunctionLibrary:365 - Sign in to continue to Google+
+2014-06-13 18:11:29 INFO  FunctionLibrary:366 - Sign in to continue to Google+
+2014-06-13 18:11:29 INFO  FunctionLibrary:129 - Switching to Parent Window
+2014-06-13 18:11:29 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr/td/a/img
+2014-06-13 18:11:29 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:11:39 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 18:11:39 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 18:11:39 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 18:11:39 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 18:11:39 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 18:11:39 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:11:49 INFO  FunctionLibrary:69 - Entering Data into domain_search
+2014-06-13 18:11:50 INFO  FunctionLibrary:78 - Selecting DropDown Value .com
+2014-06-13 18:11:50 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr[2]/td/table/tbody/tr/td[3]/a/img
+2014-06-13 18:11:50 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:12:00 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:12:00 INFO  FunctionLibrary:365 - newgt.com is already registered *
+2014-06-13 18:12:00 INFO  FunctionLibrary:366 - newgt.com is already registered *
+2014-06-13 18:12:00 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:12:00 INFO  FunctionLibrary:365 - Buy a similar domain.
+2014-06-13 18:12:00 INFO  FunctionLibrary:366 - Buy a similar domain.
+2014-06-13 18:12:00 INFO  FunctionLibrary:65 - Clicking on Button suggestion_1
+2014-06-13 18:12:00 INFO  FunctionLibrary:65 - Clicking on Button suggestion_2
+2014-06-13 18:12:01 INFO  FunctionLibrary:65 - Clicking on Button suggestion_3
+2014-06-13 18:12:01 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div[2]/table/tbody/tr[3]/td/span/table/tbody/tr[2]/td/table/tbody/tr[3]/td[2]/table/tbody/tr/td/div/a
+2014-06-13 18:12:01 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:12:11 INFO  FunctionLibrary:189 - Scroll down
+2014-06-13 18:12:11 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:12:21 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr/td/a/img
+2014-06-13 18:12:21 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:12:31 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
+2014-06-13 18:12:31 INFO  FunctionLibrary:163 - Selecting Test Scenario From Controller File
+2014-06-13 18:12:31 INFO  FunctionLibrary:167 - Navigate To Test Scenario Sheet
+2014-06-13 18:12:32 INFO  FunctionLibrary:173 - Loading Test Data Work Book
+2014-06-13 18:12:32 INFO  FunctionLibrary:182 - Passing Parameters Driver Script to ContolScript
+2014-06-13 18:12:32 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:12:42 INFO  FunctionLibrary:69 - Entering Data into domain_search
+2014-06-13 18:12:42 INFO  FunctionLibrary:78 - Selecting DropDown Value .com
+2014-06-13 18:12:42 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div/table/tbody/tr[2]/td/table/tbody/tr/td[3]/a/img
+2014-06-13 18:12:42 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:12:52 INFO  FunctionLibrary:65 - Clicking on Button //html/body/form/table/tbody/tr[2]/td/div/div[2]/table/tbody/tr[3]/td/span/table/tbody/tr[2]/td[3]/table/tbody/tr[2]/td[2]/table/tbody/tr/td/div/a
+2014-06-13 18:12:53 INFO  FunctionLibrary:83 - Loading Page
+2014-06-13 18:13:03 INFO  FunctionLibrary:102 - Switch to New Window
+2014-06-13 18:13:03 INFO  FunctionLibrary:90 - Verifying Text
+2014-06-13 18:13:03 INFO  FunctionLibrary:365 - newgt.com
+2014-06-13 18:13:03 INFO  FunctionLibrary:366 - newgt.com
+2014-06-13 18:13:03 INFO  FunctionLibrary:198 - Test Scenario Result --Pass
