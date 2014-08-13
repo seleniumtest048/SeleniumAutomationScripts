@@ -23,7 +23,7 @@ public class TestConstants {
 	public static final String VB_REG_POPUP="\\VBScripts\\PopUp.vbs";
 	public static final String CONVERTCSV_REG_POPUP="\\ConvertCSV.vbs";
 	public static final String STATICFILES="\\StaticFiles\\";
-	 public static final String DYNAMICFILES="\\DynamicFiles\\";
+	public static final String DYNAMICFILES="\\DynamicFiles\\";
 	
 	public  String result;
 	public WebElement welement=null;

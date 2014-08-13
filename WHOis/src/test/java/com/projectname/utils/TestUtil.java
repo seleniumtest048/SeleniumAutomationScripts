@@ -38,13 +38,17 @@ public class TestUtil extends FunctionLibrary{
 				e.printStackTrace();
 			}	   
 		}catch(Exception e){
-			WebDriver augmentedDriver = new Augmenter().augment(driver);
-			File scrFile = ((TakesScreenshot)augmentedDriver).getScreenshotAs(OutputType.FILE);
-		    try {
-				FileUtils.copyFile(scrFile, new File(filePath));
-			} catch (IOException e1) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
+			try{	
+				WebDriver augmentedDriver = new Augmenter().augment(driver);
+				File scrFile = ((TakesScreenshot)augmentedDriver).getScreenshotAs(OutputType.FILE);
+			    try {
+					FileUtils.copyFile(scrFile, new File(filePath));
+				} catch (IOException e1) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+			}catch(Exception e1){
+				
 			}
 		}
 	    

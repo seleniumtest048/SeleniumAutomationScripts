@@ -10,6 +10,8 @@ import jxl.write.Label;
 
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxProfile;
+import org.openqa.selenium.firefox.internal.ProfilesIni;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
@@ -95,6 +97,20 @@ public class DriverScriptTest extends Keywords {
 					controlscript(browser,controlshet, testdatawb);
 				}
 				break;
+			case "MFP":
+				if (browser.equalsIgnoreCase("MFP") && run.equalsIgnoreCase("Y")) {
+					log.info("Launching Mozilla Firefox Profile.......");
+					ProfilesIni profile = new ProfilesIni();
+			        FirefoxProfile ffprofile = profile.getProfile("Selenium");
+			        driver = new FirefoxDriver(ffprofile);
+					driverWait = new WebDriverWait(driver, 15);
+					driver.get(siteurl);
+					driver.manage().timeouts()
+							.implicitlyWait(10, TimeUnit.SECONDS);
+					browser="Firefox Profile";
+					controlscript(browser,controlshet, testdatawb);
+				}
+				break;
 			case "IE":
 				if (browser.equalsIgnoreCase("IE") && run.equalsIgnoreCase("Y")) {
 					log.info("Launching Internet Explorer.......");
@@ -167,12 +183,12 @@ public class DriverScriptTest extends Keywords {
 						String testcaseid = tdsheet1.getCell(0, j)
 								.getContents();
 						String testdesc = tdsheet1.getCell(1, j).getContents();
-						fileName = "Suite1_TC" + (testcaseid) + "_TS" + tcaseid
-								+ "_" + keyword + j + ".png";
+						fileName = (testcaseid) + "_";
 						stepDescription = testdesc;
 						keyword = testcaseid;
+						System.out.println("filename is---==>."+fileName);
 						log.info("Passing Parameters Driver Script to ContolScript");
-						result = controlScript(j, colom, tcaseid, controlshet1,
+						result = controlScript(browser,j, colom, tcaseid, controlshet1,
 								testcaseid, stepDescription, keyword, fileName);
 						if (failcount >= 1 || rptFailCnt >= 1) {
 							result = "Fail";
