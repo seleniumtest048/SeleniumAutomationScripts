@@ -5,6 +5,7 @@ import java.awt.event.KeyEvent;
 import java.util.ArrayList;
 import jxl.Sheet;
 
+import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.UnhandledAlertException;
@@ -35,6 +36,7 @@ public class Keywords extends FunctionLibrary {
 		 steps = new ArrayList<TestReport>();
 		 Robot r=new Robot();
 		 String result = "Pass";
+		 int webtableCounter = 0;
 		 for (int k = 1; k < controlshet.getRows(); k++) {
 			 tr=new TestReport();
 			 TestConstants tc;
@@ -46,11 +48,17 @@ public class Keywords extends FunctionLibrary {
 			 String object=OR.getProperty(objectProp);
 			 String data=null;
 			 Object testdata=null;
+			 String webObject=null;
+			
 			 try{
 				 switch(keyword){
 				 case "ACCEPTALERT":
 					 log.info("Accepting Alert");
+					 try{
 					 driver.switchTo().alert().accept();
+					 }catch(Exception e){
+						 
+					 }
 					 result="Pass";
 					 break;
 				 case "CHECKBOX": case "RADIOBUTTON": 
@@ -174,8 +182,12 @@ public class Keywords extends FunctionLibrary {
 					 break;  
 				 case "OPENNEWTAB":
 					 log.info("Open New Tab");
+					try{
 					 r.keyPress(KeyEvent.VK_CONTROL); 
 					 r.keyPress(KeyEvent.VK_T);
+					 }catch (Exception e) {
+						 driver.findElement(By.tagName("body")).sendKeys(Keys.CONTROL +"t");
+					}
 					 result="Pass";
 					 break;	  
 				 case "OPENURL":
@@ -205,7 +217,16 @@ public class Keywords extends FunctionLibrary {
 					 tc=actionElement(keyword,keywordtype,object,data);
 					 tc.result=result;
 					 colom++;
-					 break;  
+					 break;
+				 case "WEBSELECT":
+					 testdata= testData(colom,row,tdshetnum);
+					 data=(String) testdata;
+					 webObject=object+webtableCounter;
+					 System.out.println("Webtable counter value-====>>"+webObject);
+					 tc=actionElement(keyword,keywordtype,webObject,data);
+					 tc.result=result;
+					 colom++;
+					 break;
 				 case "SELECTFRAME":
 					 log.info("Switch to frame------");
 					 tc=actionElement(keyword,keywordtype,object,data);
@@ -238,6 +259,39 @@ public class Keywords extends FunctionLibrary {
 					 Thread.sleep(10000);
 					 result="Pass";
 					 break;
+				 case "WEBTABLE":
+					 webtableCounter= webTable(object);
+					 break;
+				 case "WEBINPUT":
+					 log.info("Entering Data into "+object);
+					 testdata= testData(colom,row,tdshetnum);
+					 data=(String) testdata;
+					 webObject=object+webtableCounter;
+					 System.out.println("Webtable counter value-====>>"+webObject);
+					 tc=actionElement(keyword,keywordtype,webObject,data);
+					 result="Pass";
+					 colom++;
+					 break;  
+				 case "WHITELISTSAVE":
+					 System.out.println("IN White List function");
+					  webtableCounter=webtableCounter+1;
+					 String whiteListSave="//*[@id='ipAddress_details']/table/tbody/tr["+webtableCounter+"]/td[7]/a/img";
+					 driver.findElement(By.xpath(whiteListSave)).click();
+					 result="Pass";
+					 break;	
+				 case "BLACKLISTSAVE":
+					 System.out.println("In Block list save function");
+					  webtableCounter=webtableCounter+1;
+					 String whiteListSave2="//*[@id='ipAddress_details']/table/tbody/tr["+webtableCounter+"]/td[6]/a/img";
+					 driver.findElement(By.xpath(whiteListSave2)).click();
+					 result="Pass";
+					 break;	
+				 case "DELETEBLACKLIST":
+					 testdata= testData(colom,row,tdshetnum);
+					 data=(String) testdata;
+					 deleteBlackList(object,data);
+					 colom++;
+					 break;	 
 				 case "AUTHENTICATION":
 					 log.info("Executing VBScript");
 					 authentication();
@@ -358,6 +412,10 @@ public class Keywords extends FunctionLibrary {
 				 tc.welement=welement(keywordtype, object);
 				 new Select(tc.welement).selectByVisibleText(data);
 				 break;
+			 case "WEBSELECT":
+				 tc.welement=welement(keywordtype, object);
+				 new Select(tc.welement).selectByVisibleText(data);
+				 break;
 			 case "SELECTFRAME":
 				 tc.welement=welement(keywordtype, object);
 				 frame(tc.welement);
@@ -367,6 +425,11 @@ public class Keywords extends FunctionLibrary {
 				 break;
 			 case "WAIT":
 				 Thread.sleep(Long.parseLong(data));
+				 break;
+			 case "WEBINPUT":
+				 tc.welement=welement(keywordtype, object);
+				 tc.welement.clear();
+				 tc. welement.sendKeys(data);
 				 break;
 			 default:
 				 break;

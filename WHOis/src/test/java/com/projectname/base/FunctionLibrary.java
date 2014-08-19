@@ -772,20 +772,22 @@ public class FunctionLibrary {
 	 * web table need to dev.
 	 * 
 	 */
-	public void webTable(){
-		int rCount=driver.findElements(By.xpath("//*[@id='availabilityTable0']/tbody/tr")).size();
+	public int webTable(String object){
+		int rCount=driver.findElements(By.xpath(object)).size();
 		System.out.println("object count is------"+rCount);
+		
 		/**
 		 * Getting text randomly form webpage
 		 */
-		for (int i = 3; i <= rCount; i++) {
+		/*for (int i = 3; i <= rCount; i++) {
 			String txt=driver.findElement(By.xpath("//*[@id='availabilityTable0']/tbody/tr["+i+"]")).getText();
 			System.out.println("table values---"+txt);
 		}
 		int Scount = (int) (3+(Math.random()*(6- 3)));
 		System.out.println("random value---"+Scount);
 		driver.findElement(By.xpath("//*[@id='availabilityTable0']/tbody/tr["+Scount+"]/td[5]/p/input")).click();
-		System.out.println("random value---"+Scount);
+		System.out.println("random value---"+Scount);*/
+		return rCount-1;
 	}
 	
 	public static void scrollBar(WebElement element){
@@ -893,6 +895,40 @@ public class FunctionLibrary {
 		}
         return result;
 	}
+	
+	/************************************* Management Portal functions
+	 * @throws Exception *******************************************/
+	
+	
+	public void deleteBlackList(String object,String data) throws Exception{
+		//int tableCount=webTable(object);
+		int tableCount=driver.findElements(By.xpath(object)).size();
+		System.out.println("black list table row count is=========>>"+tableCount);
+		for (int i = tableCount-1; i >= 1; i--) {
+			Thread.sleep(3000);
+			System.out.println("Ip Address ID isss=====?>>>>>>"+"ip_start_"+i);
+			WebElement ipAddress=driver.findElement(By.id("ip_start_"+i));
+			String ipAdd=ipAddress.getAttribute("value");
+			System.out.println("Ip Address Value-================>>>"+ipAdd);
+			
+			int deleteImg=i+1;
+			System.out.println("delete img---------==========>>"+deleteImg);
+//			System.out.println("//*[@id='ipAddress_details']/table/tbody/tr["+deleteImg+"]/td[7]/a/img");
+			if (ipAdd.equalsIgnoreCase(data)) {
+			driver.findElement(By.xpath("//*[@id='ipAddress_details']/table/tbody/tr["+deleteImg+"]/td[7]/a/img")).click();
+			try {
+				Thread.sleep(3000);
+				driver.switchTo().alert().accept();
+				Thread.sleep(3000);
+				driver.switchTo().alert().accept();
+			} catch (Exception e) {
+				// TODO: handle exception
+			}
+			}
+		}
+		
+	}
+	
 }
 
 

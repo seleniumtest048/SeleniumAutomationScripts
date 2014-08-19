@@ -1,4 +1,0 @@
-https://github.com/seleniumtest048/SeleniumAutomationScripts.git
-
-username: seleniumtest048
-pwd: Test123$

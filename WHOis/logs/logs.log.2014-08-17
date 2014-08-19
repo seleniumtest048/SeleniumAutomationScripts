@@ -1,0 +1,57 @@
+2014-08-17 10:48:40 INFO  FunctionLibrary:41 - Initialized All Resources Files
+2014-08-17 10:48:40 INFO  FunctionLibrary:43 - Creatng Driver Script Object
+2014-08-17 10:48:40 INFO  FunctionLibrary:45 - Creating Test Suite
+2014-08-17 10:48:40 INFO  FunctionLibrary:47 - Creating Test Suite For Email Report
+2014-08-17 10:48:40 INFO  FunctionLibrary:53 - Creating Suite In Detailed Test Report
+2014-08-17 10:48:40 INFO  FunctionLibrary:55 - Creating Suite In Mailing Report
+2014-08-17 10:48:40 INFO  FunctionLibrary:60 - Creating Excel Sheet For Test Results
+2014-08-17 10:48:40 INFO  FunctionLibrary:102 - Launching Mozilla Firefox Profile.......
+2014-08-17 10:49:31 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
+2014-08-17 10:49:31 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
+2014-08-17 10:49:31 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
+2014-08-17 10:49:31 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
+2014-08-17 10:49:31 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
+2014-08-17 10:49:31 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
+2014-08-17 10:49:31 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
+2014-08-17 10:49:31 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
+2014-08-17 10:49:31 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
+2014-08-17 10:49:31 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
+2014-08-17 10:49:31 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
+2014-08-17 10:49:31 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
+2014-08-17 10:49:31 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
+2014-08-17 10:49:31 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
+2014-08-17 10:49:31 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
+2014-08-17 10:49:31 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
+2014-08-17 10:49:31 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
+2014-08-17 10:49:31 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
+2014-08-17 10:49:31 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
+2014-08-17 10:49:31 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
+2014-08-17 10:49:31 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
+2014-08-17 10:49:31 INFO  FunctionLibrary:173 - Navigate To Test Scenario Sheet
+2014-08-17 10:49:31 INFO  FunctionLibrary:179 - Loading Test Data Work Book
+2014-08-17 10:49:31 INFO  FunctionLibrary:190 - Passing Parameters Driver Script to ContolScript
+2014-08-17 10:49:31 INFO  FunctionLibrary:182 - Navigating to ---https://qa01.whois.net/mgt
+2014-08-17 10:49:36 INFO  FunctionLibrary:237 - Loading Page
+2014-08-17 10:49:47 INFO  FunctionLibrary:233 - Verifying Page Title
+2014-08-17 10:49:47 INFO  FunctionLibrary:846 - Excepted Data-------->>null
+2014-08-17 10:49:47 INFO  FunctionLibrary:847 - Actual Data---------->>WhoIs Management Console
+2014-08-17 10:49:47 INFO  FunctionLibrary:853 - Error in text - null
+2014-08-17 10:49:47 INFO  FunctionLibrary:854 - Actual - WhoIs Management Console
+2014-08-17 10:49:47 INFO  FunctionLibrary:855 - Expected -null
+2014-08-17 10:49:47 FATAL FunctionLibrary:856 - test verify
+2014-08-17 10:49:47 ERROR FunctionLibrary:857 - error
+2014-08-17 10:49:47 INFO  FunctionLibrary:210 - Switch to frame------
+2014-08-17 10:49:47 INFO  FunctionLibrary:148 - Entering Data into login_user
+2014-08-17 10:49:48 INFO  FunctionLibrary:148 - Entering Data into login_pass
+2014-08-17 10:49:49 INFO  FunctionLibrary:73 - Clicking on Button loginButton
+2014-08-17 10:49:49 INFO  FunctionLibrary:237 - Loading Page
+2014-08-17 10:49:59 INFO  FunctionLibrary:73 - Clicking on Button Advertising
+2014-08-17 10:50:00 INFO  FunctionLibrary:237 - Loading Page
+2014-08-17 10:50:10 INFO  FunctionLibrary:73 - Clicking on Button Management
+2014-08-17 10:50:11 INFO  FunctionLibrary:237 - Loading Page
+2014-08-17 10:50:21 INFO  FunctionLibrary:195 - Test Scenario Result --Fail
+2014-08-17 10:50:22 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
+2014-08-17 10:50:22 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
+2014-08-17 10:50:22 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
+2014-08-17 10:50:22 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
+2014-08-17 10:50:22 INFO  FunctionLibrary:169 - Selecting Test Scenario From Controller File
