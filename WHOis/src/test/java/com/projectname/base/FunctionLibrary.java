@@ -43,6 +43,7 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -435,7 +436,7 @@ public class FunctionLibrary {
 		 * LastUpdated	: 
 		 ***********************************************************************************************************/
 	 public void reportSteps(String result, String desc, String keyword,
-				String fileName, String object, String testcaseid) throws Exception {
+				String fileName, String object, String testcaseid,String testLinkID) throws Exception {
 			 switch (result) {
 			 case "Fail":
 				 report(result,desc,keyword,fileName,object,testcaseid);
@@ -445,6 +446,7 @@ public class FunctionLibrary {
 				 tr.fileName=fileName;
 				 tr.object=object;
 				 tr.testcaseid=testcaseid;
+				 tr.testLinkID=testLinkID;
 				 steps.add(tr);
 				 rptFailCnt++;
 				 break;
@@ -457,6 +459,7 @@ public class FunctionLibrary {
 				 tr.fileName=fileName;
 				 tr.object=object;
 				 tr.testcaseid=testcaseid;
+				 tr.testLinkID=testLinkID;
 				 steps.add(tr);
 				 break;
 			 case "desc":
@@ -926,9 +929,89 @@ public class FunctionLibrary {
 			}
 			}
 		}
-		
 	}
 	
+	public void deleteWhiteList(String object,String data) throws Exception{
+		//int tableCount=webTable(object);
+		int tableCount=driver.findElements(By.xpath(object)).size();
+		System.out.println("black list table row count is=========>>"+tableCount);
+		for (int i = tableCount-1; i >= 1; i--) {
+			Thread.sleep(3000);
+			System.out.println("Ip Address ID isss=====?>>>>>>"+"ip_start_"+i);
+			WebElement ipAddress=driver.findElement(By.id("ip_start_"+i));
+			String ipAdd=ipAddress.getAttribute("value");
+			System.out.println("Ip Address Value-================>>>"+ipAdd);
+			
+			int deleteImg=i+1;
+			System.out.println("delete img---------==========>>"+deleteImg);
+//			System.out.println("//*[@id='ipAddress_details']/table/tbody/tr["+deleteImg+"]/td[7]/a/img");
+			if (ipAdd.equalsIgnoreCase(data)) {
+			driver.findElement(By.xpath("//*[@id='ipAddress_details']/table/tbody/tr["+deleteImg+"]/td[8]/a/img")).click();
+			try {
+				Thread.sleep(3000);
+				driver.switchTo().alert().accept();
+				Thread.sleep(3000);
+				driver.switchTo().alert().accept();
+			} catch (Exception e) {
+				// TODO: handle exception
+			}
+			}
+		}
+	}	
+	
+	public int editErroMeassages(String object, String data,int colom, int row, String tdshetnum) throws Exception{
+		
+		int tableCount=driver.findElements(By.xpath(object)).size();
+		System.out.println("table count=============>>>"+tableCount);
+		for (int i = tableCount-1; i >= 1; i--) {
+			WebElement errorMSG=driver.findElement(By.id("error_name_"+i));
+			String erroMSG=errorMSG.getAttribute("value");
+			System.out.println("Key Values are==========>>>"+erroMSG);
+			if (erroMSG.equals(data)) {
+				data= (String) testData(colom,row,tdshetnum);
+				data=(String) data;
+				colom++;
+				System.out.println("test Data Error mEssage====>>>"+data);
+				System.out.println("Err value is======>"+"ip_start_"+i);
+				System.out.println("ErroMessage value is======>"+"//*[@id='error_message_"+i+"']");
+
+				driver.findElement(By.xpath("//*[@id='error_message_"+i+"']")).clear();
+				Thread.sleep(2000);
+				driver.findElement(By.xpath("//*[@id='error_message_"+i+"']")).sendKeys(data);
+				Thread.sleep(5000);
+				driver.findElement(By.xpath("//*[@id='error_message_"+i+"']")).sendKeys(Keys.TAB);
+				Thread.sleep(10000);
+				driver.findElement(By.xpath("//*[@id='error_details']/table/tbody/tr["+i+"]/td[4]/a/img")).click();
+				//*[@id='error_details']/table/tbody/tr[5]/td[4]/a/img
+				Thread.sleep(10000);
+				driver.switchTo().alert().accept();
+			}
+		}
+		return colom;
+	}
+	
+public String verifyingErroMeassages(String object, String actual,int colom, int row, String tdshetnum) throws Exception{
+	String result = null;
+		int tableCount=driver.findElements(By.xpath(object)).size();
+		System.out.println("table count=============>>>"+tableCount);
+		for (int i = tableCount-1; i >= 1; i--) {
+			WebElement errorMSG=driver.findElement(By.id("error_name_"+i));
+			String erroMSG=errorMSG.getAttribute("value");
+			if (erroMSG.equals(actual)) {
+				actual= (String) testData(colom,row,tdshetnum);
+				actual=(String) actual;
+				colom++;
+				WebElement  actualData=driver.findElement(By.xpath("//*[@id='error_message_"+i+"']"));
+				String expData=actualData.getText();
+				if (actual.equals(expData)) {
+					result="pass";
+				}else{
+					result="Fail";
+				}
+			}
+		}
+		return result;
+	}
 }
 
 

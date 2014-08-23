@@ -201,24 +201,17 @@ public class EmailReportUtil {
 			
 			//out.write("<h4> <FONT COLOR=660000 FACE=Arial SIZE=4.5> Detailed Report :</h4>");
 		 	 out.write("<table  border=1 cellspacing=1    cellpadding=1 width=100%>");
-		 	/* out.write("<tr> ");
-		        out.write("<td align=left width=10%  align=left bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>S.No.</b></td>");
-		        out.write("<td align=left width=50% align=left bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Test Steps</b></td>");
-		        out.write("<td align=left width=15% align=left bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Result</b></td>");
-		 		//out.write("<td align=left width=15% align=left bgcolor=#153E7E><FONT COLOR=#E0E0E0 FACE=Arial SIZE=2><b>Screen Shot</b></td>");
-		 	 out.write("</tr>");*/
 		 	 if(description!=null){
 		 		 for(int i=0;i<description.size();i++){
 		 			 out.write("<tr> ");
-
 		 			// out.write("<td align=left width=10%><FONT COLOR=#153E7E FACE=Arial SIZE=1><b>Step"+(i+1)+"</b></td>");
 		 			// out.write("<td align=left width=50%><FONT COLOR=#153E7E FACE=Arial SIZE=1><b>"+description.get(i)+"</b></td>");
 		 			if(teststatus.get(i).startsWith("Pass")){
-		 				out.write("<td width=20% align= left  bgcolor=#BCE954><FONT COLOR=#153E7E FACE=Arial SIZE=2><b>"+browser+"</b></td>\n"); 
-		 				out.write("<td width=20% align= left  bgcolor=#BCE954><FONT COLOR=#153E7E FACE=Arial SIZE=2><b>"+teststatus.get(i)+"</b></td>\n");
+		 				out.write("<td width=20% align= left  bgcolor=#d3d3d3><FONT COLOR=#153E7E FACE=Arial SIZE=2><b>"+browser+"</b></td>\n"); 
+		 				out.write("<td width=20% align= left  bgcolor=#d3d3d3><FONT COLOR=#153E7E FACE=Arial SIZE=2><b>"+teststatus.get(i)+"</b></td>\n");
 		 			     }
 		 			else if(teststatus.get(i).startsWith("Fail")){
-		 			  	 out.write("<td width=20% align= left  bgcolor=Red><FONT COLOR=#153E7E FACE= Arial  SIZE=2><b>"+teststatus.get(i)+"</b></td>\n");
+		 			  	 out.write("<td width=20% align= left  bgcolor=#d3d3d3><FONT COLOR=#153E7E FACE= Arial  SIZE=2><b>"+teststatus.get(i)+"</b></td>\n");
 		 			  	/*if(screenShotPath.get(i) != null)
 				 			 out.write("<td align=left width=20%><FONT COLOR=#153E7E FACE=Arial SIZE=1><b><a href="+screenShotPath.get(i)+" target=_blank>Screen Shot</a></b></td>");
 				 			 else
@@ -249,24 +242,24 @@ public class EmailReportUtil {
 		   //  out.write("<td width=10% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=2><b>"+scriptNumber+"</b></td>\n");
 			 out.write("<td width=10% align= left  bgcolor=#d3d3d3><FONT COLOR=#153E7E FACE=Arial SIZE=2><b>"+browser+"</b></td>\n");
 			 if(status.equalsIgnoreCase("Skipped") || status.equalsIgnoreCase("Skip")){
-		    	 out.write("<td width=40% align= left ><FONT COLOR=black FACE= Arial SIZE=4><b>"+testCaseName+"</b></td>\n");
+		    	 out.write("<td width=40% align= left bgcolor=#d3d3d3><FONT COLOR=black FACE= Arial SIZE=4><b>"+testCaseName+"</b></td>\n");
 		     }
 		     else{
-		    	 out.write("<td width=40% align= left ><FONT COLOR=black FACE= Arial fontcolor=black SIZE=4><b>"+testCaseName+"</b></td>\n");
+		    	 out.write("<td width=40% align= left bgcolor=#d3d3d3><FONT COLOR=black FACE= Arial fontcolor=black SIZE=4><b>"+testCaseName+"</b></td>\n");
 		     }
 		     tcid++;
 		     if(status.startsWith("Pass")){
-		     out.write("<td width=10% align= left  bgcolor=#BCE954><FONT COLOR=#153E7E FACE=Arial SIZE=2><b>"+status+"</b></td>\n");
+		     out.write("<td width=10% align= left  bgcolor=#d3d3d3><FONT COLOR=#153E7E FACE=Arial SIZE=2><b>"+status+"</b></td>\n");
 		     }
 		     else if(status.startsWith("Fail")){
-		    	 out.write("<td width=10% align= left  bgcolor=Red><FONT COLOR=#153E7E FACE= Arial  SIZE=2><b>"+status+"</b></td>\n");
+		    	 out.write("<td width=10% align= left  bgcolor=#d3d3d3><FONT COLOR=#153E7E FACE= Arial  SIZE=2><b>"+status+"</b></td>\n");
 		     }
 		     else if(status.equalsIgnoreCase("Skipped") || status.equalsIgnoreCase("Skip")){
 			     out.write("<td width=10% align= left  bgcolor=yellow><FONT COLOR=153E7E FACE=Arial SIZE=2><b>"+status+"</b></td>\n");
 		     }
 		     
-		     out.write("<td width=20% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=2><b>"+testCaseStartTime+"</b></td>\n");
-		     out.write("<td width=20% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=2><b>"+testCaseEndTime+"</b></td>\n");
+		     out.write("<td width=20% align= left bgcolor=#d3d3d3><FONT COLOR=#153E7E FACE= Arial  SIZE=2><b>"+testCaseStartTime+"</b></td>\n");
+		     out.write("<td width=20% align= left bgcolor=#d3d3d3><FONT COLOR=#153E7E FACE= Arial  SIZE=2><b>"+testCaseEndTime+"</b></td>\n");
 
 		     out.write("</tr>\n");
 		     
@@ -289,7 +282,7 @@ public class EmailReportUtil {
 		screenShotPath = new ArrayList<String>();
 		newTest=false;
 	}
-	public static void addTestCaseSteps(String testCaseName,String status){
+	public static void addTestCaseSteps(String testCaseName,String status,String testLinkID){
 		newTest=true;
 		FileWriter fstream=null;
 		BufferedWriter out=null;
@@ -355,7 +348,7 @@ public class EmailReportUtil {
 			 out.write("<tr>\n");
 			 //System.out.println(currentSuitePath);
 		 //    out.write("<td width=10% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=2><b>"+scriptNumber+"</b></td>\n");
-			 out.write("<td width=10% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=2><b>"+""+"</b></td>\n");
+			 out.write("<td width=10% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=2><b>"+testLinkID+"</b></td>\n");
 		     if(status.equalsIgnoreCase("Skipped") || status.equalsIgnoreCase("Skip"))
 		    	 out.write("<td width=40% align= left ><FONT COLOR=#153E7E FACE= Arial  SIZE=2><b>"+testCaseName+"</b></td>\n");
 		     else

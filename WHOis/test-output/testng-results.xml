@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="652029" started-at="2014-08-19T13:04:06Z" finished-at="2014-08-19T13:14:58Z">
+  <suite name="Default suite" duration-ms="5521103" started-at="2014-08-23T06:41:10Z" finished-at="2014-08-23T08:13:12Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="652029" started-at="2014-08-19T13:04:06Z" finished-at="2014-08-19T13:14:58Z">
+    <test name="Default test" duration-ms="5521103" started-at="2014-08-23T06:41:10Z" finished-at="2014-08-23T08:13:12Z">
       <class name="com.projectname.scripts.DriverScriptTest">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.projectname.scripts.DriverScriptTest@46432685]" name="beforeClass" is-config="true" duration-ms="629" started-at="2014-08-19T18:34:06Z" finished-at="2014-08-19T18:34:07Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.projectname.scripts.DriverScriptTest@16494e4a]" name="beforeClass" is-config="true" duration-ms="544" started-at="2014-08-23T12:11:10Z" finished-at="2014-08-23T12:11:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="driverScript()[pri:0, instance:com.projectname.scripts.DriverScriptTest@46432685]" name="driverScript" duration-ms="651372" started-at="2014-08-19T18:34:07Z" finished-at="2014-08-19T18:44:58Z">
+        <test-method status="PASS" signature="driverScript()[pri:0, instance:com.projectname.scripts.DriverScriptTest@16494e4a]" name="driverScript" duration-ms="5520529" started-at="2014-08-23T12:11:11Z" finished-at="2014-08-23T13:43:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- driverScript -->
-        <test-method status="PASS" signature="endScript()[pri:0, instance:com.projectname.scripts.DriverScriptTest@46432685]" name="endScript" is-config="true" duration-ms="1330" started-at="2014-08-19T18:44:58Z" finished-at="2014-08-19T18:45:00Z">
+        <test-method status="PASS" signature="endScript()[pri:0, instance:com.projectname.scripts.DriverScriptTest@16494e4a]" name="endScript" is-config="true" duration-ms="7731" started-at="2014-08-23T13:43:12Z" finished-at="2014-08-23T13:43:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endScript -->

@@ -292,6 +292,26 @@ public class Keywords extends FunctionLibrary {
 					 deleteBlackList(object,data);
 					 colom++;
 					 break;	 
+				 case "DELETEWHITELIST":
+					 testdata= testData(colom,row,tdshetnum);
+					 data=(String) testdata;
+					 deleteBlackList(object,data);
+					 colom++;
+					 break;	
+				 case "EDITERRORMSG":
+					 testdata= testData(colom,row,tdshetnum);
+					 data=(String) testdata;
+					 colom++;
+					 int colomValue=editErroMeassages(object,data,colom,row,tdshetnum);							 
+					 colom=colomValue;
+					 break;	
+				 case "VERIFYERRORMSG":
+					 testdata= testData(colom,row,tdshetnum);
+					 data=(String) testdata;
+					 colom++;
+					 String colomValue1=verifyingErroMeassages(object,data,colom,row,tdshetnum);	
+					 result=colomValue1;
+					 break;	
 				 case "AUTHENTICATION":
 					 log.info("Executing VBScript");
 					 authentication();
@@ -299,7 +319,8 @@ public class Keywords extends FunctionLibrary {
 				 default:
 					 break;
 				 }
-				 reportSteps(result,desc,keyword,fileName+testLinkID + ".png",object,testcaseid);
+				 reportSteps(result,desc,keyword,fileName+testLinkID + ".png",object,testcaseid,testLinkID);
+				 
 			 }catch(UnhandledAlertException e){
 				 driver.switchTo().alert().accept();
 			 }catch(Exception e){	
@@ -322,12 +343,14 @@ public class Keywords extends FunctionLibrary {
 		 for (int i = 0; i < steps.size(); i++) {
 			 String re=steps.get(i).result;
 			 String ds=steps.get(i).desc;
+			 String testLinkID=steps.get(i).testLinkID;
+			 System.out.println("test Link ID for Email Report=====>>>"+testLinkID);
 			 switch (re) {
 			 case "Fail":
-				 EmailReportUtil.addTestCaseSteps(ds,re);
+				 EmailReportUtil.addTestCaseSteps(ds,re,testLinkID);
 				 break;
 			 case "Pass": case "res":
-				 EmailReportUtil.addTestCaseSteps(ds,re);
+				 EmailReportUtil.addTestCaseSteps(ds,re,testLinkID);
 				 break;
 			 default:
 				 break;
@@ -469,6 +492,10 @@ public class Keywords extends FunctionLibrary {
 				driverWait.until(ExpectedConditions.visibilityOfElementLocated(By.name(object)));
 				welement=driver.findElement(By.name((object)));
 				return welement ;	
+			case "CSS":
+				driverWait.until(ExpectedConditions.visibilityOfElementLocated(By.name(object)));
+				welement=driver.findElement(By.cssSelector((object)));
+				return welement ;
 			default:
 				break;
 			}
@@ -497,7 +524,11 @@ public class Keywords extends FunctionLibrary {
 			case "NAME":
 				driverWait.until(ExpectedConditions.visibilityOfElementLocated(By.name(object)));
 				welement=driver.findElement(By.name((object)));
-				return welement ;		
+				return welement ;
+			case "CSS":
+				driverWait.until(ExpectedConditions.visibilityOfElementLocated(By.name(object)));
+				welement=driver.findElement(By.cssSelector((object)));
+				return welement ;
 			default:
 				break;
 			

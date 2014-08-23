@@ -9,5 +9,5 @@ public	String keyword;
 public	String fileName;
 public	String object;
 public	String testcaseid;
-	
+public String testLinkID;
 }
